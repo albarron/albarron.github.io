@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alberto Barr&oacute;n Cede&ntilde;o / Personal Website"
+title                    : "Alberto Barr&oacute;n-Cede&ntilde;o / Personal Website"
 title_separator          : "-"
-name                     : &name "Alberto Barr&oacute;n Cede&ntilde;o"
+name                     : &name "Alberto Barr&oacute;n-Cede&ntilde;o"
 description              : &description "Senior assistant professor"
 url                      : https://albarron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Alberto Barr&oacute;n-Cede&ntilde;o"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Computer Scientist focused on NLP, IR, and ML"
+  location         : "Italy"
+  employer         : "Universita di Bologna"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.it/citations?user=0q0QVG4AAAAJ&hl=en"
+  email            : "a.barron [[at]] unibo.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "albarron"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-4719-3420"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_albarron_"
   vine             :
   weibo            :
   xing             :

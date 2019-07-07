@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computing Science, Universitat Politècnica de València, Spain, 2012
+  * Thesis: On the Mono- and Cross-Language Detection of Text Re-Use and Plagiarism
+* MSc in AI and Pattern Recognition, Universitat Politècnica de València, Spain, 2009
+* MSc in Computing, Universidad Nacional Autónoma de México, Mexico, 2007.
+* CEng, Universidad Nacional Autónoma de México, Mexico, 2004
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-today: Senior assistant professor 
+  * Università di Bologna
+  * Research: [propaganda identification](http://propaganda.qcri.org/); multilingualism
+  * Teaching: TBD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2019: Scientist
+  * Qatar Computing Research Institute
+  * Research: [propaganda identification](http://propaganda.qcri.org/); community question answering
+
+* 2012-2014: [ERCIM](https://fellowship.ercim.eu/) Alain Bensousan Fellow
+  * Universitat Politècnica de Catalunya
+  * Research: Wikipedia as a multilingual resource; gathering resources for MT
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

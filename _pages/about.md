@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website. If you are looking for the "official" University of Bologna website, go [here](https://www.unibo.it/sitoweb/a.barron/en) 
+This is my personal website. If you are looking for the "official" University of Bologna website, go [here](https://www.unibo.it/sitoweb/a.barron/en).
 
-This website has been created by forking [this repository](https://github.com/academicpages/academicpages.github.io) 
+This website has been created by forking [this repository](https://github.com/academicpages/academicpages.github.io).
 
 Web page under construction!
 ======
@@ -21,10 +21,6 @@ Getting started
 ======
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------

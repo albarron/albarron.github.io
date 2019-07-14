@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Computing Science, Universitat Politècnica de València, Spain, 2012
-  * Thesis: On the Mono- and Cross-Language Detection of Text Re-Use and Plagiarism
-* MSc in AI and Pattern Recognition, Universitat Politècnica de València, Spain, 2009
-* MSc in Computing, Universidad Nacional Autónoma de México, Mexico, 2007.
-* CEng, Universidad Nacional Autónoma de México, Mexico, 2004
 
 Work experience
 ======
@@ -31,11 +24,19 @@ Work experience
 * 2012-2014: [ERCIM](https://fellowship.ercim.eu/) Alain Bensousan Fellow
   * Universitat Politècnica de Catalunya
   * Research: Wikipedia as a multilingual resource; gathering resources for MT
+
+Education
+======
+* PhD in Computing Science, Universitat Politècnica de València, Spain, 2012
+  * Thesis: On the Mono- and Cross-Language Detection of Text Re-Use and Plagiarism
+* MSc in AI and Pattern Recognition, Universitat Politècnica de València, Spain, 2009
+* MSc in Computing, Universidad Nacional Autónoma de México, Mexico, 2007.
+* CEng, Universidad Nacional Autónoma de México, Mexico, 2004
   
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

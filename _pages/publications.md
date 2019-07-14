@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2>This list of publications is currently under construction </h2>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

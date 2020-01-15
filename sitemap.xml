@@ -19,11 +19,15 @@
   </url>
   
   <url>
+    <loc>https://albarron.github.io/teaching/computational-linguistics/</loc>
+  </url>
+  
+  <url>
     <loc>https://albarron.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://albarron.github.io/teaching/</loc>
+    <loc>https://albarron.github.io/teaching/game-and-software-localization/</loc>
   </url>
   
   <url>
@@ -40,6 +44,10 @@
   
   <url>
     <loc>https://albarron.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://albarron.github.io/teaching/</loc>
   </url>
   
 </urlset>

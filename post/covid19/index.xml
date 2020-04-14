@@ -17,13 +17,15 @@
       <link>https://albarron.github.io/post/covid19/</link>
       <pubDate>Tue, 14 Apr 2020 16:44:59 +0200</pubDate>
       <guid>https://albarron.github.io/post/covid19/</guid>
-      <description>&lt;table&gt;
+      <description>&lt;h2 id=&#34;plots-covid-2019-in-italy&#34;&gt;Plots Covid 2019 in Italy&lt;/h2&gt;
+&lt;p&gt;A number of plots displaying the total number of cases and new cases per province.&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -3187,6 +3189,18 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;In some cases the number of new cases is negative. The 
+&lt;a href=&#34;https://github.com/pcm-dpc/COVID-19/issues/358&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reasons&lt;/a&gt;
+ are (in general) wrong reportings in a specific day.&lt;/p&gt;
+&lt;p&gt;Other plots are published 
+&lt;a href=&#34;https://amadvance.github.io/covid19-italy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+
+There are other nice visualisations, such as these 
+&lt;a href=&#34;https://mrmatd.github.io/Covid-19-ITA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic maps&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;The data comes from 
+&lt;a href=&#34;https://github.com/pcm-dpc/COVID-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipartimento della Protezione Civile&lt;/a&gt;
+&lt;/p&gt;
 </description>
     </item>
     

@@ -13,12 +13,168 @@
     </image>
     
     <item>
-      <title>Covid19</title>
+      <title>Covid19 Italy</title>
       <link>https://albarron.github.io/post/covid19/</link>
       <pubDate>Tue, 14 Apr 2020 16:44:59 +0200</pubDate>
       <guid>https://albarron.github.io/post/covid19/</guid>
-      <description>&lt;h2 id=&#34;plots-covid-2019-in-italy&#34;&gt;Plots Covid 2019 in Italy&lt;/h2&gt;
-&lt;p&gt;A number of plots displaying the total number of cases and new cases per province.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;plots-of-the-covid-2019-unfolding-in-italy&#34;&gt;Plots of the Covid 2019 unfolding in Italy&lt;/h2&gt;
+&lt;p&gt;I display the evolution of the number of cases per region and province. The plots are ordered alphabetically, by region.&lt;/p&gt;
+&lt;p&gt;A region name is displayed in bold (e.g., &lt;strong&gt;Abruzzo&lt;/strong&gt;). A region plot includes the number of new cases per day at the bottom and on top three accumulated values: total accumulated cases (blue), total accumulated discharged cases (red), and total accumulated deceased (black).&lt;/p&gt;
+&lt;p&gt;The rest of plots represent each of the provinces in the region. The capital appears first, in italics (e.g., &lt;em&gt;L&amp;rsquo;Aquila&lt;/em&gt;). Again, at the bottom the new cases per day are displayed, whereas on top only the accumulated total of cases is shown (the other two numbers are not available in the data sources).&lt;/p&gt;
+&lt;p&gt;Here is an index to the different regions. Just click on the region you are interested in.
+&lt;a name=&#34;index&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Region&lt;/th&gt;
+&lt;th&gt;Capital province&lt;/th&gt;
+&lt;th&gt;Rest of provinces&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Abruzzo&#34;&gt;Abruzzo&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;L&amp;rsquo;Aquila&lt;/td&gt;
+&lt;td&gt;Chieti, Pescara, Teramo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Basilicata&#34;&gt;Basilicata&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Potenza&lt;/td&gt;
+&lt;td&gt;Matera&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Calabria&#34;&gt;Calabria&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Catanzaro&lt;/td&gt;
+&lt;td&gt;Cosenza, Crotone, Reggio Calabria, Vibo Valentia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Campania&#34;&gt;Campania&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Napoli&lt;/td&gt;
+&lt;td&gt;Avellino, Benevento, Caserta, Salerno&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Emilia-Romagna&#34;&gt;Emilia-Romagna&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Bologna&lt;/td&gt;
+&lt;td&gt;Ferrara, Forlì-Cesena, Modena, Parma, Piacenza, Ravenna, Reggio Emilia, Rimini&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Friuli&#34;&gt;Friuli-Venezia Giulia&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Trieste&lt;/td&gt;
+&lt;td&gt;Gorizia, Pordenone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Lazio&#34;&gt;Lazio	&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Roma&lt;/td&gt;
+&lt;td&gt;Frosinone, Latina, Rieti, Viterbo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Liguria&#34;&gt;Liguria&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Genova&lt;/td&gt;
+&lt;td&gt;Imperia, La Spezia, Savona&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Lombardia&#34;&gt;Lombardia&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Milano&lt;/td&gt;
+&lt;td&gt;Bergamo, Brescia, Como, Cremona, Lecco, Lodi, Mantova, Monza e Brianza, Pavia, Sondrio, Varese&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Marche&#34;&gt;Marche&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Ancona&lt;/td&gt;
+&lt;td&gt;Ascoli Piceno, Fermo, Macerata, Pesaro e Urbino&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Molise&#34;&gt;Molise&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Campobasso&lt;/td&gt;
+&lt;td&gt;Isernia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Piemonte&#34;&gt;Piemonte&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Torino&lt;/td&gt;
+&lt;td&gt;Alessandria, Asti, Biella, Cuneo, Novara, Verbano-Cusio-Ossola, Vercelli&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Puglia&#34;&gt;Puglia&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Bari&lt;/td&gt;
+&lt;td&gt;Barletta-Andria-Trani, Brindisi, Foggia, Lecce, Taranto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Sardegna&#34;&gt;Sardegna&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Cagliari&lt;/td&gt;
+&lt;td&gt;Nuoro, Oristano, Sassari, Sud Sardegna&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Sicilia&#34;&gt;Sicilia&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Palermo&lt;/td&gt;
+&lt;td&gt;Agrigento, Caltanissetta, Catania, Enna, Messina, Ragusa, Siracusa, Trapani&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Toscana&#34;&gt;Toscana&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Firenze&lt;/td&gt;
+&lt;td&gt;Arezzo, Grosseto, Livorno, Lucca, Massa e Carrara, Pisa, Pistoia, Prato, Siena&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Trentino&#34;&gt;Trentino-Alto Adige&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Trento&lt;/td&gt;
+&lt;td&gt;Bolzano&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Umbria&#34;&gt;Umbria&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Perugia&lt;/td&gt;
+&lt;td&gt;Terni&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#ValledAosta&#34;&gt;Valle d&amp;rsquo;Aosta&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Aosta&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;#Veneto&#34;&gt;Veneto&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;Venezia&lt;/td&gt;
+&lt;td&gt;Belluno, Padova, Rovigo, Treviso, Verona, Vicenza&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -30,6 +186,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Abruzzo&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;
 
 
@@ -46,14 +208,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Agrigento.png&#34; data-caption=&#34;Agrigento&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Agrigento.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Abruzzo.png&#34; data-caption=&#34;Abruzzo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Abruzzo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Agrigento
+    &lt;strong&gt;Abruzzo&lt;/strong&gt;
   &lt;/figcaption&gt;
 
 
@@ -75,14 +237,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Alessandria.png&#34; data-caption=&#34;Alessandria&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Alessandria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_L%27Aquila.png&#34; data-caption=&#34;L&amp;rsquo;Aquila&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_L%27Aquila.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Alessandria
+    &lt;em&gt;L&amp;rsquo;Aquila&lt;/em&gt;
   &lt;/figcaption&gt;
 
 
@@ -104,14 +266,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Ancona.png&#34; data-caption=&#34;Ancona&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Ancona.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Chieti.png&#34; data-caption=&#34;Chieti&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Chieti.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Ancona
+    Chieti
   &lt;/figcaption&gt;
 
 
@@ -133,14 +295,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Aosta.png&#34; data-caption=&#34;Aosta&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Aosta.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pescara.png&#34; data-caption=&#34;Pescara&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pescara.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Aosta
+    Pescara
   &lt;/figcaption&gt;
 
 
@@ -164,14 +326,69 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Arezzo.png&#34; data-caption=&#34;Arezzo&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Arezzo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Teramo.png&#34; data-caption=&#34;Teramo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Teramo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Arezzo
+    Teramo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+  
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Basilicata&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Basilicata.png&#34; data-caption=&#34;Basilicata&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Basilicata.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Basilicata&lt;/strong&gt;
   &lt;/figcaption&gt;
 
 
@@ -193,14 +410,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_AscoliPiceno.png&#34; data-caption=&#34;Ascoli Piceno&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_AscoliPiceno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Potenza.png&#34; data-caption=&#34;Potenza&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Potenza.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Ascoli Piceno
+    &lt;em&gt;Potenza&lt;/em&gt;
   &lt;/figcaption&gt;
 
 
@@ -222,14 +439,299 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Asti.png&#34; data-caption=&#34;Asti&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Asti.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Matera.png&#34; data-caption=&#34;Matera&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Matera.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Asti
+    Matera
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Calabria&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Calabria.png&#34; data-caption=&#34;Calabria&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Calabria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Calabria&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Catanzaro.png&#34; data-caption=&#34;Catanzaro&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Catanzaro.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Catanzaro&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cosenza.png&#34; data-caption=&#34;Cosenza&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cosenza.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cosenza
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Crotone.png&#34; data-caption=&#34;Crotone&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Crotone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Crotone
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_ReggiodiCalabria.png&#34; data-caption=&#34;Reggio di Calabria&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_ReggiodiCalabria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Reggio di Calabria
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_ViboValentia.png&#34; data-caption=&#34;Vibo Valentia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_ViboValentia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Vibo Valentia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Campania&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Campania.png&#34; data-caption=&#34;Campania&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Campania.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Campania&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Napoli.png&#34; data-caption=&#34;Napoli&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Napoli.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Napoli&lt;/em&gt;
   &lt;/figcaption&gt;
 
 
@@ -259,95 +761,6 @@
   
   &lt;figcaption&gt;
     Avellino
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bari.png&#34; data-caption=&#34;Bari&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bari.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Bari
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Barletta-Andria-Trani.png&#34; data-caption=&#34;Barletta-Andria-Trani&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Barletta-Andria-Trani.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Barletta-Andria-Trani
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Belluno.png&#34; data-caption=&#34;Belluno&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Belluno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Belluno
   &lt;/figcaption&gt;
 
 
@@ -400,271 +813,6 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bergamo.png&#34; data-caption=&#34;Bergamo&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bergamo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Bergamo
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Biella.png&#34; data-caption=&#34;Biella&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Biella.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Biella
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bologna.png&#34; data-caption=&#34;Bologna&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bologna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Bologna
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bolzano.png&#34; data-caption=&#34;Bolzano&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bolzano.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Bolzano
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Brescia.png&#34; data-caption=&#34;Brescia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Brescia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Brescia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Brindisi.png&#34; data-caption=&#34;Brindisi&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Brindisi.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Brindisi
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cagliari.png&#34; data-caption=&#34;Cagliari&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cagliari.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Cagliari
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Caltanissetta.png&#34; data-caption=&#34;Caltanissetta&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Caltanissetta.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Caltanissetta
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Campobasso.png&#34; data-caption=&#34;Campobasso&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Campobasso.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Campobasso
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Caserta.png&#34; data-caption=&#34;Caserta&#34;&gt;
 &lt;img data-src=&#34;https://albarron.github.io/img/plot_Caserta.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
@@ -694,48 +842,43 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Catania.png&#34; data-caption=&#34;Catania&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Catania.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Salerno.png&#34; data-caption=&#34;Salerno&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Salerno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Catania
+    Salerno
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 &lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Catanzaro.png&#34; data-caption=&#34;Catanzaro&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Catanzaro.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Catanzaro
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Emilia-Romagna&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;
@@ -754,14 +897,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Chieti.png&#34; data-caption=&#34;Chieti&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Chieti.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Emilia-Romagna.png&#34; data-caption=&#34;Emilia-Romagna&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Emilia-Romagna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Chieti
+    &lt;strong&gt;Emilia-Romagna&lt;/strong&gt;
   &lt;/figcaption&gt;
 
 
@@ -783,197 +926,19 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Como.png&#34; data-caption=&#34;Como&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Como.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bologna.png&#34; data-caption=&#34;Bologna&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bologna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Como
+    &lt;em&gt;Bologna&lt;/em&gt;
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 &lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cosenza.png&#34; data-caption=&#34;Cosenza&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cosenza.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Cosenza
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cremona.png&#34; data-caption=&#34;Cremona&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cremona.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Cremona
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Crotone.png&#34; data-caption=&#34;Crotone&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Crotone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Crotone
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cuneo.png&#34; data-caption=&#34;Cuneo&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cuneo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Cuneo
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Enna.png&#34; data-caption=&#34;Enna&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Enna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Enna
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Fermo.png&#34; data-caption=&#34;Fermo&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Fermo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fermo
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;
 
 
@@ -998,64 +963,6 @@
   
   &lt;figcaption&gt;
     Ferrara
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Firenze.png&#34; data-caption=&#34;Firenze&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Firenze.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Firenze
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Foggia.png&#34; data-caption=&#34;Foggia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Foggia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Foggia
   &lt;/figcaption&gt;
 
 
@@ -1108,14 +1015,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Frosinone.png&#34; data-caption=&#34;Frosinone&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Frosinone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Modena.png&#34; data-caption=&#34;Modena&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Modena.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Frosinone
+    Modena
   &lt;/figcaption&gt;
 
 
@@ -1137,14 +1044,216 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Genova.png&#34; data-caption=&#34;Genova&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Genova.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Parma.png&#34; data-caption=&#34;Parma&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Parma.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Genova
+    Parma
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Piacenza.png&#34; data-caption=&#34;Piacenza&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Piacenza.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Piacenza
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Ravenna.png&#34; data-caption=&#34;Ravenna&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Ravenna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Ravenna
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_ReggionellEmilia.png&#34; data-caption=&#34;Reggio nell&amp;rsquo;Emilia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_ReggionellEmilia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Reggio nell&amp;rsquo;Emilia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Rimini.png&#34; data-caption=&#34;Rimini&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Rimini.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Rimini
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Friuli&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_FriuliVeneziaGiulia.png&#34; data-caption=&#34;Friuli-Venezia Giulia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_FriuliVeneziaGiulia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Friuli-Venezia Giulia&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Trieste.png&#34; data-caption=&#34;Trieste&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Trieste.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Trieste&lt;/em&gt;
   &lt;/figcaption&gt;
 
 
@@ -1195,14 +1304,154 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Grosseto.png&#34; data-caption=&#34;Grosseto&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Grosseto.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pordenone.png&#34; data-caption=&#34;Pordenone&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pordenone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Grosseto
+    Pordenone
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Lazio&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lazio.png&#34; data-caption=&#34;Lazio&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Lazio.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Lazio&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Roma.png&#34; data-caption=&#34;Roma&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Roma.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Roma&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Frosinone.png&#34; data-caption=&#34;Frosinone&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Frosinone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Frosinone
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Latina.png&#34; data-caption=&#34;Latina&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Latina.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Latina
   &lt;/figcaption&gt;
 
 
@@ -1210,6 +1459,148 @@
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Rieti.png&#34; data-caption=&#34;Rieti&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Rieti.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Rieti
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Viterbo.png&#34; data-caption=&#34;Viterbo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Viterbo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Viterbo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Liguria&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Liguria.png&#34; data-caption=&#34;Liguria&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Liguria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Liguria&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Genova.png&#34; data-caption=&#34;Genova&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Genova.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Genova&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
 &lt;td&gt;
 
 
@@ -1234,64 +1625,6 @@
   
   &lt;figcaption&gt;
     Imperia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Isernia.png&#34; data-caption=&#34;Isernia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Isernia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Isernia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_L%27Aquila.png&#34; data-caption=&#34;L&amp;rsquo;Aquila&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_L%27Aquila.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    L&amp;rsquo;Aquila
   &lt;/figcaption&gt;
 
 
@@ -1344,14 +1677,70 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Latina.png&#34; data-caption=&#34;Latina&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Latina.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Savona.png&#34; data-caption=&#34;Savona&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Savona.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Latina
+    Savona
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Lombardia&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lombardia.png&#34; data-caption=&#34;Lombardia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Lombardia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Lombardia&lt;/strong&gt;
   &lt;/figcaption&gt;
 
 
@@ -1373,14 +1762,132 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lecce.png&#34; data-caption=&#34;Lecce&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Lecce.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Milano.png&#34; data-caption=&#34;Milano&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Milano.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Lecce
+    &lt;em&gt;Milano&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bergamo.png&#34; data-caption=&#34;Bergamo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bergamo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Bergamo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Brescia.png&#34; data-caption=&#34;Brescia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Brescia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Brescia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Como.png&#34; data-caption=&#34;Como&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Como.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Como
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cremona.png&#34; data-caption=&#34;Cremona&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cremona.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cremona
   &lt;/figcaption&gt;
 
 
@@ -1431,37 +1938,6 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Livorno.png&#34; data-caption=&#34;Livorno&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Livorno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Livorno
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lodi.png&#34; data-caption=&#34;Lodi&#34;&gt;
 &lt;img data-src=&#34;https://albarron.github.io/img/plot_Lodi.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
@@ -1475,64 +1951,8 @@
 
 &lt;/figure&gt;
 &lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lucca.png&#34; data-caption=&#34;Lucca&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Lucca.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Lucca
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Macerata.png&#34; data-caption=&#34;Macerata&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Macerata.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Macerata
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;
 
 
@@ -1557,155 +1977,6 @@
   
   &lt;figcaption&gt;
     Mantova
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_MassaCarrara.png&#34; data-caption=&#34;Massa Carrara&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_MassaCarrara.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Massa Carrara
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Matera.png&#34; data-caption=&#34;Matera&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Matera.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Matera
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Messina.png&#34; data-caption=&#34;Messina&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Messina.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Messina
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Milano.png&#34; data-caption=&#34;Milano&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Milano.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Milano
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Modena.png&#34; data-caption=&#34;Modena&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Modena.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Modena
   &lt;/figcaption&gt;
 
 
@@ -1756,14 +2027,591 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Napoli.png&#34; data-caption=&#34;Napoli&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Napoli.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pavia.png&#34; data-caption=&#34;Pavia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pavia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Napoli
+    Pavia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Sondrio.png&#34; data-caption=&#34;Sondrio&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Sondrio.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Sondrio
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Varese.png&#34; data-caption=&#34;Varese&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Varese.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Varese
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Marche&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Marche.png&#34; data-caption=&#34;Marche&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Marche.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Marche&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Ancona.png&#34; data-caption=&#34;Ancona&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Ancona.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Ancona&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_AscoliPiceno.png&#34; data-caption=&#34;Ascoli Piceno&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_AscoliPiceno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Ascoli Piceno
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Fermo.png&#34; data-caption=&#34;Fermo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Fermo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Fermo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Macerata.png&#34; data-caption=&#34;Macerata&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Macerata.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Macerata
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_PesaroeUrbino.png&#34; data-caption=&#34;Pesaro e Urbino&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_PesaroeUrbino.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Pesaro e Urbino
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Molise&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Molise.png&#34; data-caption=&#34;Molise&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Molise.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Molise&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Campobasso.png&#34; data-caption=&#34;Campobasso&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Campobasso.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Campobasso&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Isernia.png&#34; data-caption=&#34;Isernia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Isernia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Isernia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Piemonte&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Piemonte.png&#34; data-caption=&#34;Piemonte&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Piemonte.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Piemonte&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Torino.png&#34; data-caption=&#34;Torino&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Torino.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Torino&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Alessandria.png&#34; data-caption=&#34;Alessandria&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Alessandria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Alessandria
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Asti.png&#34; data-caption=&#34;Asti&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Asti.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Asti
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Biella.png&#34; data-caption=&#34;Biella&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Biella.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Biella
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cuneo.png&#34; data-caption=&#34;Cuneo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cuneo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Cuneo
   &lt;/figcaption&gt;
 
 
@@ -1798,8 +2646,381 @@
 
 &lt;/figure&gt;
 &lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Verbano-Cusio-Ossola.png&#34; data-caption=&#34;Verbano-Cusio-Ossola&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Verbano-Cusio-Ossola.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Verbano-Cusio-Ossola
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Vercelli.png&#34; data-caption=&#34;Vercelli&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Vercelli.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Vercelli
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Puglia&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Puglia.png&#34; data-caption=&#34;Puglia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Puglia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Puglia&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bari.png&#34; data-caption=&#34;Bari&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bari.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Bari&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Barletta-Andria-Trani.png&#34; data-caption=&#34;Barletta-Andria-Trani&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Barletta-Andria-Trani.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Barletta-Andria-Trani
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Brindisi.png&#34; data-caption=&#34;Brindisi&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Brindisi.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Brindisi
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Foggia.png&#34; data-caption=&#34;Foggia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Foggia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Foggia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lecce.png&#34; data-caption=&#34;Lecce&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Lecce.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Lecce
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Taranto.png&#34; data-caption=&#34;Taranto&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Taranto.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Taranto
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Sardegna&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Sardegna.png&#34; data-caption=&#34;Sardegna&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Sardegna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Sardegna&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Cagliari.png&#34; data-caption=&#34;Cagliari&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Cagliari.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Cagliari&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
 &lt;td&gt;
 
 
@@ -1858,6 +3079,8 @@
 
 &lt;/figure&gt;
 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;
 
 
@@ -1874,14 +3097,98 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Padova.png&#34; data-caption=&#34;Padova&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Padova.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Sassari.png&#34; data-caption=&#34;Sassari&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Sassari.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Padova
+    Sassari
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_SudSardegna.png&#34; data-caption=&#34;Sud Sardegna&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_SudSardegna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Sud Sardegna
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Sicilia&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Sicilia.png&#34; data-caption=&#34;Sicilia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Sicilia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Sicilia&lt;/strong&gt;
   &lt;/figcaption&gt;
 
 
@@ -1910,7 +3217,65 @@
   
   
   &lt;figcaption&gt;
-    Palermo
+    &lt;em&gt;Palermo&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Agrigento.png&#34; data-caption=&#34;Agrigento&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Agrigento.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Agrigento
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Caltanissetta.png&#34; data-caption=&#34;Caltanissetta&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Caltanissetta.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Caltanissetta
   &lt;/figcaption&gt;
 
 
@@ -1934,14 +3299,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Parma.png&#34; data-caption=&#34;Parma&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Parma.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Catania.png&#34; data-caption=&#34;Catania&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Catania.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Parma
+    Catania
   &lt;/figcaption&gt;
 
 
@@ -1963,14 +3328,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pavia.png&#34; data-caption=&#34;Pavia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pavia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Enna.png&#34; data-caption=&#34;Enna&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Enna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Pavia
+    Enna
   &lt;/figcaption&gt;
 
 
@@ -1992,250 +3357,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Perugia.png&#34; data-caption=&#34;Perugia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Perugia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Messina.png&#34; data-caption=&#34;Messina&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Messina.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Perugia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_PesaroeUrbino.png&#34; data-caption=&#34;Pesaro e Urbino&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_PesaroeUrbino.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Pesaro e Urbino
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pescara.png&#34; data-caption=&#34;Pescara&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pescara.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Pescara
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Piacenza.png&#34; data-caption=&#34;Piacenza&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Piacenza.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Piacenza
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pisa.png&#34; data-caption=&#34;Pisa&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pisa.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Pisa
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pistoia.png&#34; data-caption=&#34;Pistoia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pistoia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Pistoia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pordenone.png&#34; data-caption=&#34;Pordenone&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pordenone.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Pordenone
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Potenza.png&#34; data-caption=&#34;Potenza&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Potenza.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Potenza
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Prato.png&#34; data-caption=&#34;Prato&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Prato.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Prato
+    Messina
   &lt;/figcaption&gt;
 
 
@@ -2288,14 +3417,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Ravenna.png&#34; data-caption=&#34;Ravenna&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Ravenna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Siracusa.png&#34; data-caption=&#34;Siracusa&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Siracusa.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Ravenna
+    Siracusa
   &lt;/figcaption&gt;
 
 
@@ -2317,14 +3446,69 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_ReggiodiCalabria.png&#34; data-caption=&#34;Reggio di Calabria&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_ReggiodiCalabria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Trapani.png&#34; data-caption=&#34;Trapani&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Trapani.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Reggio di Calabria
+    Trapani
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Toscana&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Toscana.png&#34; data-caption=&#34;Toscana&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Toscana.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Toscana&lt;/strong&gt;
   &lt;/figcaption&gt;
 
 
@@ -2346,14 +3530,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_ReggionellEmilia.png&#34; data-caption=&#34;Reggio nell&amp;rsquo;Emilia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_ReggionellEmilia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Firenze.png&#34; data-caption=&#34;Firenze&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Firenze.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Reggio nell&amp;rsquo;Emilia
+    &lt;em&gt;Firenze&lt;/em&gt;
   &lt;/figcaption&gt;
 
 
@@ -2375,14 +3559,43 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Rieti.png&#34; data-caption=&#34;Rieti&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Rieti.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Arezzo.png&#34; data-caption=&#34;Arezzo&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Arezzo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Rieti
+    Arezzo
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Grosseto.png&#34; data-caption=&#34;Grosseto&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Grosseto.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Grosseto
   &lt;/figcaption&gt;
 
 
@@ -2406,14 +3619,14 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Rimini.png&#34; data-caption=&#34;Rimini&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Rimini.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Livorno.png&#34; data-caption=&#34;Livorno&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Livorno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Rimini
+    Livorno
   &lt;/figcaption&gt;
 
 
@@ -2435,19 +3648,645 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Roma.png&#34; data-caption=&#34;Roma&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Roma.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Lucca.png&#34; data-caption=&#34;Lucca&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Lucca.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    Roma
+    Lucca
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 &lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_MassaCarrara.png&#34; data-caption=&#34;Massa Carrara&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_MassaCarrara.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Massa Carrara
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pisa.png&#34; data-caption=&#34;Pisa&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pisa.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Pisa
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Pistoia.png&#34; data-caption=&#34;Pistoia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Pistoia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Pistoia
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Prato.png&#34; data-caption=&#34;Prato&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Prato.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Prato
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Siena.png&#34; data-caption=&#34;Siena&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Siena.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Siena
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Trentino&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_P.A.Bolzano.png&#34; data-caption=&#34;P.A. Bolzano&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_P.A.Bolzano.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;P.A. Bolzano&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_P.A.Trento.png&#34; data-caption=&#34;P.A.Trento&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_P.A.Trento.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;P.A.Trento&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Trento.png&#34; data-caption=&#34;Trento&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Trento.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Trento
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Bolzano.png&#34; data-caption=&#34;Bolzano&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Bolzano.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Bolzano
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Umbria&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Umbria.png&#34; data-caption=&#34;Umbria&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Umbria.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Umbria&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Perugia.png&#34; data-caption=&#34;Perugia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Perugia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Perugia&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Terni.png&#34; data-caption=&#34;Terni&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Terni.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Terni
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;ValledAosta&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Valled%27Aosta.png&#34; data-caption=&#34;Valle d&amp;rsquo;Aosta&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Valled%27Aosta.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Valle d&amp;rsquo;Aosta&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Aosta.png&#34; data-caption=&#34;Aosta&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Aosta.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Aosta&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a name=&#34;Veneto&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Veneto.png&#34; data-caption=&#34;Veneto&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Veneto.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Veneto&lt;/strong&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Venezia.png&#34; data-caption=&#34;Venezia&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Venezia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Venezia&lt;/em&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Belluno.png&#34; data-caption=&#34;Belluno&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Belluno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Belluno
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;td&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Padova.png&#34; data-caption=&#34;Padova&#34;&gt;
+&lt;img data-src=&#34;https://albarron.github.io/img/plot_Padova.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Padova
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;
 
 
@@ -2493,391 +4332,6 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Salerno.png&#34; data-caption=&#34;Salerno&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Salerno.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Salerno
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Sassari.png&#34; data-caption=&#34;Sassari&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Sassari.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Sassari
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Savona.png&#34; data-caption=&#34;Savona&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Savona.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Savona
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Siena.png&#34; data-caption=&#34;Siena&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Siena.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Siena
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Siracusa.png&#34; data-caption=&#34;Siracusa&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Siracusa.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Siracusa
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Sondrio.png&#34; data-caption=&#34;Sondrio&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Sondrio.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Sondrio
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_SudSardegna.png&#34; data-caption=&#34;Sud Sardegna&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_SudSardegna.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Sud Sardegna
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Taranto.png&#34; data-caption=&#34;Taranto&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Taranto.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Taranto
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Teramo.png&#34; data-caption=&#34;Teramo&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Teramo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Teramo
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Terni.png&#34; data-caption=&#34;Terni&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Terni.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Terni
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Torino.png&#34; data-caption=&#34;Torino&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Torino.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Torino
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Trapani.png&#34; data-caption=&#34;Trapani&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Trapani.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Trapani
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Trento.png&#34; data-caption=&#34;Trento&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Trento.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Trento
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Treviso.png&#34; data-caption=&#34;Treviso&#34;&gt;
 &lt;img data-src=&#34;https://albarron.github.io/img/plot_Treviso.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
@@ -2886,182 +4340,6 @@
   
   &lt;figcaption&gt;
     Treviso
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Trieste.png&#34; data-caption=&#34;Trieste&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Trieste.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Trieste
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Udine.png&#34; data-caption=&#34;Udine&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Udine.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Udine
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Varese.png&#34; data-caption=&#34;Varese&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Varese.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Varese
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Venezia.png&#34; data-caption=&#34;Venezia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Venezia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Venezia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Verbano-Cusio-Ossola.png&#34; data-caption=&#34;Verbano-Cusio-Ossola&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Verbano-Cusio-Ossola.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Verbano-Cusio-Ossola
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Vercelli.png&#34; data-caption=&#34;Vercelli&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Vercelli.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Vercelli
   &lt;/figcaption&gt;
 
 
@@ -3096,37 +4374,6 @@
 
 &lt;/figure&gt;
 &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_ViboValentia.png&#34; data-caption=&#34;Vibo Valentia&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_ViboValentia.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Vibo Valentia
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
 &lt;td&gt;
 
 
@@ -3156,42 +4403,15 @@
 
 &lt;/figure&gt;
 &lt;/td&gt;
-&lt;td&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://albarron.github.io/img/plot_Viterbo.png&#34; data-caption=&#34;Viterbo&#34;&gt;
-&lt;img data-src=&#34;https://albarron.github.io/img/plot_Viterbo.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Viterbo
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;In some cases the number of new cases is negative. The 
+&lt;p&gt;
+&lt;a href=&#34;#index&#34;&gt;go up&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;In some cases the number of new cases might be negative. The 
 &lt;a href=&#34;https://github.com/pcm-dpc/COVID-19/issues/358&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reasons&lt;/a&gt;
- are (in general) wrong reportings in a specific day. They are simply clipped to 0.&lt;/p&gt;
+ are (in general) wrong reporting in a specific day. They are simply clipped to 0.&lt;/p&gt;
 &lt;p&gt;Other plots are published 
 &lt;a href=&#34;https://amadvance.github.io/covid19-italy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
 

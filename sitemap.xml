@@ -1,78 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://albarron.github.io/</loc>
     <lastmod>2020-12-14T10:51:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/post/coling2020/</loc>
     <lastmod>2020-12-14T10:51:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/post/</loc>
     <lastmod>2020-12-14T10:51:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/post/checkthat2020/</loc>
     <lastmod>2020-09-23T12:31:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/post/covid19/</loc>
     <lastmod>2020-04-14T16:44:59+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/teaching/computational-linguistics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/teaching/computational-linguistics2020/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/teaching/game-and-software-localization/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/teaching/game-and-software-localization2020/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://albarron.github.io/teaching/</loc>
   </url>
-  
 </urlset>

@@ -25,13 +25,13 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "15"
+        - statistic: "??"
           description: |
             Publications
-        - statistic: "1,000+"
+        - statistic: "??"
           description: |
             Citations
-        - statistic: "78"
+        - statistic: "??"
           description: |
             h-index
     design:
@@ -42,12 +42,14 @@ sections:
         padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am an Associate Professor at Università di Bologna. My main mission is bringing (real) computing to the Department of Interpreting and Translation.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        I research on the analysis and identification of harming contents online (from hate speech to propaganda and disinformation), I also play with NLP for Gastronomy and laterly I am engaged with varieties of languages.
+        
+        Do not hesitate to reach out 😃
     design:
       columns: '1'
   - block: collection

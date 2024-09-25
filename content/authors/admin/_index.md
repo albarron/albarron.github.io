@@ -22,6 +22,9 @@ highlight_name: true
 # Role/position/tagline
 role: Associate Professor
 
+user_groups:
+- Associate Professors
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Università di Bologna

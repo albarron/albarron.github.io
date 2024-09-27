@@ -39,6 +39,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 1. Introduction to Natural Language Processing
 
+- 30/09/24 [Slides](static/uploads/nlp24/01_dit_nlp.pdf)
 <!-- - 02/10/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/01_nlp_handout.pdf) -->
 
 

@@ -86,7 +86,7 @@ sections:
       title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      # text: "ss"
+       # text: "Meet the team"
       user_groups:
           [Associate Professors, PhD Students]
           # - Grad Students

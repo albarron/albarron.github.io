@@ -1,7 +1,7 @@
 ---
-title: Natural Language Processing
+title: Natural Language Processing 2023
 summary: The TraTec NLP course
-date: 2024-09-27
+date: 2023-12-15
 type: docs
 math: true
 tags:
@@ -10,9 +10,11 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-**Academic Year 2024/2025**
+**Academic Year 2023/2024**
 
-Visit the [UniBO website of the lecture](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/470093) for official and administrative details.
+This is **not** the version of the lesson in the current year (2024). 
+
+Visit the [UniBO website of the lecture](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2023/470093) for official and administrative details.
 
 ## Prerequisites
 
@@ -37,61 +39,63 @@ Regardless of whether you attended either of the introductions, I suggest you to
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course is as follows.
 
+**As of June 2024. the links are broken. I am working on transferring the contents from the olf website**
+
 ### 1. Introduction to Natural Language Processing
 
-<!-- - 02/10/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/01_nlp_handout.pdf) -->
+- 02/10/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/01_nlp_handout.pdf)
 
 
 ### 2. Words and the vector space model
 
-<!-- - 03/10/23 [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/02_nlp_handout.pdf) 
+- 03/10/23 [Slides on tokens](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/02_nlp_handout.pdf) 
 - 03/10/23 [Notebook on tokens and normalisation](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_01/02_dit_nlp_words.ipynb)
 - 09/10/23 [Slides on VSM](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/03_nlp_handout.pdf) 
 - 09/10/23 [Notebook on VSM](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/03_dit_nlp_tokens.ipynb)
 - 10/10/23 [Slides on RB sentiment (+ naive bayes)](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf) 
-- 10/10/23 [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/04_dit_nlp_rulebasedsentiment.ipynb) -->
+- 10/10/23 [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/04_dit_nlp_rulebasedsentiment.ipynb)
 
 
 ### 3. Naïve Bayes
-<!-- - 10/10/23 [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
+- 10/10/23 [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
 - 16/10/23 [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/05_dit_nlp_naivebayes.ipynb)
- -->
+
 
 ### 4. Word vectors
-<!-- - 17/10/23 [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/06_nlp_handout.pdf)
+- 17/10/23 [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/06_nlp_handout.pdf)
 - 17/10/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/06_dit_nlp_tf-idf.ipynb)
- --> 
+ 
 
 ### 5. From Word Counts to Meaning
-<!-- - 23/10/23 [Slides introducing topic modelling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/07_dit_nlp_handout.pdf)
+- 23/10/23 [Slides introducing topic modelling](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/07_dit_nlp_handout.pdf)
 - 23/10/23 [Notebook on topic modelling](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/07_dit_nlp_topicmodeling.ipynb) 
 - 24/10/23 [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf)
-- 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->
+- 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb)
 
 ### 6. Training and Evaluation
-<!-- - 30/10/23 [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_dit_nlp_handout.pdf)
+- 30/10/23 [Slides on training and evaluation](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/09_dit_nlp_handout.pdf)
 - 30/10/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/09_dit_nlp_traineval.ipynb)
- -->
+
 
  <!-- ### Intermezzo  -->
 
 ### 7. Intro to NN
-<!-- - 31/10/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/10_dit_nlp_handout.pdf) on the perceptron
+- 31/10/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_05/10_dit_nlp_handout.pdf) on the perceptron
 - 31/10/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_05/10_dit_nlp_nn.ipynb) on the perceptron
 - 06/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/11_dit_nlp_handout.pdf) introducing neural networks and keras
-- 06/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_06/11_dit_nlp_backprop.ipynb) introducing neural networks and keras -->
+- 06/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_06/11_dit_nlp_backprop.ipynb) introducing neural networks and keras
 
 ### 8. Word Embeddings
-<!-- - 07/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/12_dit_nlp_handout.pdf) on word2vec
+- 07/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/12_dit_nlp_handout.pdf) on word2vec
 - 13/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/13_dit_nlp_handout.pdf) hands on word embeddings
 - 13/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/13_dit_nlp_embeddings.ipynb)
- -->  
+  
 
 ### 9. Doc2Vec
-<!-- - 14/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_handout.pdf)
+- 14/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_handout.pdf)
 - 14/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/14_dit_nlp_d2v.ipynb)
 - 14/11/23 [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_projects.pdf)
- -->
+
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO
 ### 10. Visualisation
   I have decided not to offer this lecture anymore
@@ -100,57 +104,51 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Convolutions for  text
-<!-- - 20/11/22 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/15_dit_nlp_handout.pdf)
-- 20/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/15_dit_nlp_cnn.ipynb) -->
+- 20/11/22 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/15_dit_nlp_handout.pdf)
+- 20/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/15_dit_nlp_cnn.ipynb)
 
 
 ### 11. Text is Sequential / LSTM
-<!-- - 21/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/16_dit_nlp_handout.pdf) on RNN
+- 21/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/16_dit_nlp_handout.pdf) on RNN
 - 21/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/16_dit_nlp_rnn.ipynb) on  RNN
 - 27/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/17_dit_nlp_handout.pdf) on BiRNN and LSTM
 - 27/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_brnn.ipynb) on BiRNN 
-- 27/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_lstm.ipynb) on LSTM -->
+- 27/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/17_dit_nlp_lstm.ipynb) on LSTM
 
 ### 12. Text generation
-<!-- - 28/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/18_dit_nlp_handout.pdf) on characters and generation
+- 28/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/18_dit_nlp_handout.pdf) on characters and generation
 - 28/12/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_chars.ipynb) on characters
 - 28/12/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_lstm-gen.ipynb) on generation
- -->
+
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
 ----->
 ### ~~13. Intro to Seq2Seq and Transformers ; Closing Remaks~~
 
-<!-- ~~- 05/12/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one~~ -->
+~~- 05/12/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_10/19_dit_nlp_handout.pdf) for part one~~
 
 ### 13. A brief intro to LLMs
 
-<!-- - 11/12/23 [CLIC-it 2023 tutorial](https://github.com/crux82/CLiC-it_2023_tutorial) (we will pay a visit to the cool materials from D. Croce and C.D. Hromei) -->
+- 11/12/23 [CLIC-it 2023 tutorial](https://github.com/crux82/CLiC-it_2023_tutorial) (we will pay a visit to the cool materials from D. Croce and C.D. Hromei)
 
 
 
-## Calendars 
-
-Table 1 shows the calendar for the 20 NLP lessons.
-
-This year, NLP has two _sibling_ lessons:
-
-- Selected Topics in Natural Language Processing is an optional (with credits). Further information about it is available on the [UniBO website](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/508809). Table 2 shows the calendar of the 8 lessons.
-- Tutorato of NLP is made to support **you** in the programming side of NLP. Table 3 shows the calendar of the 10 lessons.
-
-{{< table path="calendar_nlp.csv" header="true" caption="Table 1: Calendar overviewing all 20 NLP planned lessons." >}}
-
-{{< table path="calendar_selnlp.csv" header="true" caption="Table 2: Calendar overviewing all 8 Selected Topics in NLP planned lessons." >}}
-
-{{< table path="calendar_tutorato.csv" header="true" caption="Table 3: Calendar overviewing all 10 NLP _tutorato_." >}}
 
 
-<!-- **Embed videos, podcasts, code, LaTeX math, and even test students!**
+
+
+
+
+
+
+
+
+**Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
- -->
-<!-- ## Video
+
+## Video
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
@@ -272,4 +270,3 @@ renders as
 {{< icon name="python" >}} Python
 
 ## Did you find this page helpful? Consider sharing it 🙌
- -->

@@ -159,23 +159,25 @@ By September 2024, only the projects submitted until 2022-ish have been posted
 
 ### 2024-2025
 
-YOURS HERE
+_yours will be here_
 
 ### 2023-2024
 
-TO BE ADDED 
+* Cupin E., Galiero L., and Ciminari D. (2023).
+  Back to the Roots: Tracing Source Languages in Wikipedia with LABSE<br />
 
 ### 2022-2023
 
-TO BE ADDED
+* Mainardi. P (2023).
+  Identifying masculine generics in Italian<br />
 
 ### 2021-2022
 
-* Gajo, P. (2023). 
+* Gajo, P. (2022). 
 Hate Speech Detection in Incel Online Spaces<br />
 [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2022/dit_coli2022_project_gajo.pdf) 
   
-* Kovacs, M. (2023).
+* Kovacs, M. (2022).
  Fishing for catfishes: using a model trained on Twitter data to predict author gender in Reddit posts<br />
   [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2022/dit_coli2022_project_kovacs.pdf)
 
@@ -186,10 +188,10 @@ Hate Speech Detection in Incel Online Spaces<br />
   
 <!-- * Martinelli, M. (2021). Definition extraction on food-related Wikipedia articles -->
   
-* Galletti, E. (2020). Identifying Characters’ Lines in Original and Translated Plays. The case of Golden and Horan’s Class<br />
+* Galletti, E. (2021). Identifying Characters’ Lines in Original and Translated Plays. The case of Golden and Horan’s Class<br />
   [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_galletti.pdf)
 
-* Yu, X. (2020). Classifying An Imbalanced Dataset with CNN, RNN, and LSTM<br />
+* Yu, X. (2021). Classifying An Imbalanced Dataset with CNN, RNN, and LSTM<br />
   [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_yu.pdf)
 
 ### 2019-2020

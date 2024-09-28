@@ -155,8 +155,6 @@ Eventually, I will drop here some ideas for final projects.
 
 ## Previous final projects {#nlp_projects}
 
-By September 2024, only the projects submitted until 2022-ish have been posted
-
 ### 2024-2025
 
 _yours will be here_

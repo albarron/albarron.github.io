@@ -58,7 +58,8 @@ education:
     date_end: 2012
     summary: |
       Thesis on _Cross-language plagiarism detection_. Supervised by [Prof Paolo Rosso](https://personales.upv.es/prosso/).
-        # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+        
+        <!--Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.-->
     button:
       text: 'Read Thesis'
       url: 'https://riunet.upv.es/handle/10251/16012'
@@ -67,32 +68,29 @@ education:
     date_start: 2008
     date_end: 2009
     summary: |
-      # GPA: 3.8/4.0
+      <!--GPA: 3.8/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -->
   - area: MSc in Computing
     institution: Universidad Nacional Autónoma de México, Mexico
     date_start: 2005
     date_end: 2007
     summary: |
-      Courses included:
+      <!--Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -->
   - area: BEng in Computing
     institution: Universidad Nacional Autónoma de México, Mexico
     date_start: 1999
     date_end: 2004
     summary: |
-      # GPA: 3.4/4.0
+      <!--GPA: 3.4/4.0
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -->
 work:
   - position: Associate professor
     company_name: Università di Bologna

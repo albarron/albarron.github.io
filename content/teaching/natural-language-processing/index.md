@@ -145,6 +145,69 @@ This year, NLP has two _sibling_ lessons:
 {{< table path="calendar_tutorato.csv" header="true" caption="Table 3: Calendar overviewing all 10 NLP _tutorato_." >}}
 
 
+## <a id="projects"></a>Projects
+
+For your final mark, [80% comes from the final project](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/470093). Look for inspiration, in the [projects presented in previous years](#nlp_projects)
+
+### Some project ideas
+
+Eventually, I will drop here some ideas for final projects.
+
+## Previous final projects {#nlp_projects}
+
+By September 2024, only the projects submitted until 2022-ish have been posted
+
+### 2024-2025
+
+YOURS HERE
+
+### 2023-2024
+
+TO BE ADDED 
+
+### 2022-2023
+
+TO BE ADDED
+
+### 2021-2022
+
+* Gajo, P. (2023). 
+Hate Speech Detection in Incel Online Spaces<br />
+[🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2022/dit_coli2022_project_gajo.pdf) 
+  
+* Kovacs, M. (2023).
+ Fishing for catfishes: using a model trained on Twitter data to predict author gender in Reddit posts<br />
+  [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2022/dit_coli2022_project_kovacs.pdf)
+
+### 2020-2021
+
+* Hopkins, D. (2022). Assessing Semantic Similarity between Original Texts and Machine Translations<br />
+  [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2021/dit_coli2021_project_hopkins.pdf)
+  
+<!-- * Martinelli, M. (2021). Definition extraction on food-related Wikipedia articles -->
+  
+* Galletti, E. (2020). Identifying Characters’ Lines in Original and Translated Plays. The case of Golden and Horan’s Class<br />
+  [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_galletti.pdf)
+
+* Yu, X. (2020). Classifying An Imbalanced Dataset with CNN, RNN, and LSTM<br />
+  [🗎](https://github.com/albarron/academic-kickstart/raw/master/files/coli/projects2020/dit_coli2020_project_yu.pdf)
+
+### 2019-2020
+
+* Fernicola F. and Zhang S. (2020). 
+  AriEmozione: Identifying Emotions in Opera Verses<br />
+  (developed under [CRICC](https://site.unibo.it/cricc/it);
+  published in [CLiC-it 2020](http://ceur-ws.org/Vol-2769/))<br />
+  [🗎](http://ceur-ws.org/Vol-2769/paper_58.pdf)
+  [🎦](https://vimeo.com/515280902)
+
+* Muti, A. (2020).
+  UniBO@AMI: A Multi-Class Approach to Misogyny and Aggressiveness
+  Identification on Twitter Posts Using AlBERTo<br />
+  (top-performing model in [Evalita's 2020
+  AMI](https://amievalita2020.github.io/) shared task)<br />
+  [🗎](http://ceur-ws.org/Vol-2765/paper117.pdf) 
+  [🎦](https://vimeo.com/487827751)
 <!-- **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.

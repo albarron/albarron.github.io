@@ -20,7 +20,7 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Alumni (PhD student)
+role: Computational Linguist (former PhD student)
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

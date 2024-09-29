@@ -88,11 +88,14 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
        # text: "Meet the team"
       user_groups:
-          [Associate Professors, PhD Students]
+          - Associate Professors
+          - Researchers
+          - PhD Students
+          - Alumni
           # - Grad Students
           # - Administration
           # - Visitors
-          # - Alumni
+          
       sort_by: Params.last_name
       sort_ascending: true
     design:

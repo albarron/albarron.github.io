@@ -163,7 +163,7 @@ _yours will be here_
 
 * Cupin E., Galiero L., and Ciminari D. (2023).
   Back to the Roots: Tracing Source Languages in Wikipedia with LABSE<br />
-
+  [🗎](/uploads/nlp23/dit_nlp23_finalproject_Cupin_Ciminari_Galiero.pdf)
 ### 2022-2023
 
 * Mainardi. P (2023).

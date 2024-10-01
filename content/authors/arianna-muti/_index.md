@@ -168,3 +168,8 @@ authors:
 - arianna-muti
  # Organizational groups that you belong to (for People widget)
 ---
+
+Arianna is in her third PhD year. She holds a [RER](http://www.ponricerca.gov.it/) (Alta formazione e 
+ricerca, Regione Emilia-Romagna) grant. 
+
+She obtained a Marco Polo grant for internships abroad, through which she spent six months at University of Groningen (The Netherlands), under the supervision of [Tommaso Caselli](https://research.rug.nl/en/persons/tommaso-caselli/). Previously, she also interned with [expert.ai](https://www.expert.ai/), in Modena.

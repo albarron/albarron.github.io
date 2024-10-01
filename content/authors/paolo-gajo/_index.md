@@ -172,6 +172,10 @@ authors:
  # Organizational groups that you belong to (for People widget)
 ---
 
+Paolo is in the 1st year of his PhD research. 
+
+He obtained a Marco Polo grant to have an internship at Dalhousie University (Canada), under the supervision of [Hassan Sajjad](https://www.dal.ca/faculty/computerscience/faculty-staff/Hassan-Sajjad.html)
+
 **Masters dissertation**<br/>
 Gajo, Paolo  (2023) [This Is My Cope: Identification and Forecasting of Hate 
 Speech in Inceldom](https://amslaurea.unibo.it/28997/). 

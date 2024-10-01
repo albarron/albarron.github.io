@@ -167,4 +167,6 @@ authors:
 - katerina-korre
  # Organizational groups that you belong to (for People widget)
 ---
-Katerina holds a [PON](http://www.ponricerca.gov.it/) (Programma Operativo Nazionale Ricerca e Innovazione) PhD grant 
+Katerina is in her 3rd PhD year. She holds a [PON](http://www.ponricerca.gov.it/) (Programma Operativo Nazionale Ricerca e Innovazione) PhD grant. 
+
+She obtained an Erasmus+  grant for internships abroad, through which she spent six months at [Symanto](https://www.symanto.ai) (Spain), under the supervision of [Marc Franco Salvador](https://www.symanto.com/about-us/research-team/). 

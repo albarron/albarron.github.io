@@ -92,8 +92,8 @@ sections:
           - Associate Professors
           - Researchers
           - PhD Students
+          - Grad Students
           - Alumni
-          # - Grad Students
           # - Administration
           # - Visitors
           

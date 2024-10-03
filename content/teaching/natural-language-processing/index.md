@@ -170,6 +170,7 @@ _yours will be here_
 
 * Mainardi. P (2023).
   Identifying masculine generics in Italian<br />
+  [🗎](/uploads/nlp23/dit_nlp23_finalproject_Mainardi.pdf)
 
 ### 2021-2022
 

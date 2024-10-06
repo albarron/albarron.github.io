@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Research projects'
 date: 2023-10-24
 type: landing
 
@@ -11,20 +11,20 @@ design:
 sections:
   - block: resume-projects
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research Projects
+      text: Here is an overview of some of the projects I am involved in. (A few projects are missing, I will add them asap)
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
-        - title: Pandas
-          description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-          image: panda.png
-          url: https://github.com/pandas-dev/pandas
-        - title: scikit-learn
-          description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+        - title: No-Translate
+          description: In [!Translate](https://site.unibo.it/no-translate/en) we are producing explainations for _realia_ with the objective of making Italian gastronomy more accessible. Among others, we are developing [Gastrogenious.it](https://gastrogenius.it/) 
+          image: guacamole.png
+          url: https://site.unibo.it/no-translate/
+        - title: Anthena
+          description: Thanks to two PhD projects, A. Muti funded by RER and K. Korre funded PON, we are producing models to identify hate speech in multiple languages, considering diverse culturally-aware definitions and we are even dealing with implicit hate.
           image: robot.png
-          url: https://github.com/scikit-learn/scikit-learn
-        - title: PyTorch
-          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-          image: nlp.png
-          url: https://github.com/pytorch/pytorch
+          url: 
+        - title: Unite
+          description: Led by A. Ferraresi, project UNITE is investigating the benefits of chatbots in teaching and learning English as a foreign language.
+          image: transl.png
+          url: https://site.unibo.it/unite/en
 ---

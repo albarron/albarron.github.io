@@ -45,7 +45,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 - WE 02/10/24 [Slides on tokens](/uploads/nlp24/02_dit_nlp_handout.pdf) 
 - WE 03/10/23 [Notebook on tokens and normalisation](/uploads/nlp24/02_dit_nlp_words.ipynb)
-- WE 09/10/24 [Slides on VSM](/uploads/nlp24/03_nlp_handout.pdf)
+- WE 09/10/24 [Slides on VSM](/uploads/nlp24/03_dit_nlp_handout.pdf)
 - WE 09/10/24 [Notebook on VSM](/uploads/nlp24/03_dit_nlp_tokens.ipynb)
 - TH 10/10/24 Rule-based sentiment analysis
 <!--

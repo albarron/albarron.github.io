@@ -228,4 +228,4 @@ at the Language Technologies group of [QCRI](http://www.qcri.org) and 2 as
 research fellow at 
 [TALP](http://www.talp.upc.edu/).
 
-[SUCL](https://docs.google.com/presentation/d/1RjfLhbRz0v-fvag-IMo2e--tBY2efEDhKeRzw9Htt34/edit?usp=sharing), [artusiana](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game),  [ff](https://nt.dipintra.it/falsefriends)
+<!-- [SUCL](https://docs.google.com/presentation/d/1RjfLhbRz0v-fvag-IMo2e--tBY2efEDhKeRzw9Htt34/edit?usp=sharing), [artusiana](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game),  [ff](https://nt.dipintra.it/falsefriends) -->

@@ -56,7 +56,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 - WE 03/10/23 [Notebook on tokens and normalisation](/uploads/nlp24/02_dit_nlp_words.ipynb)
 - WE 09/10/24 [Slides on VSM](/uploads/nlp24/03_dit_nlp_handout.pdf)
 - WE 09/10/24 [Notebook on VSM](/uploads/nlp24/03_dit_nlp_tokens.ipynb)
-- TH 10/10/24 [Slides on RB sentiment (+ naive bayes)](/uploads/nlp24/03_dit_nlp_handout.pdf/04_nlp_handout.pdf) 
+- TH 10/10/24 [Slides on RB sentiment (+ naive bayes)](/uploads/nlp24/04_dit_nlp_handout.pdf) 
 - TH 10/10/23 [Notebook on RB sentiment](/uploads/nlp24/04_dit_nlp_rulebasedsentiment.ipynb) 
 
 

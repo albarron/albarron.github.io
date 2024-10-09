@@ -56,10 +56,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
 - WE 03/10/23 [Notebook on tokens and normalisation](/uploads/nlp24/02_dit_nlp_words.ipynb)
 - WE 09/10/24 [Slides on VSM](/uploads/nlp24/03_dit_nlp_handout.pdf)
 - WE 09/10/24 [Notebook on VSM](/uploads/nlp24/03_dit_nlp_tokens.ipynb)
-- TH 10/10/24 Rule-based sentiment analysis
-<!--
-- 10/10/23 [Slides on RB sentiment (+ naive bayes)](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf) 
-- 10/10/23 [Notebook on RB sentiment](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_02/04_dit_nlp_rulebasedsentiment.ipynb) -->
+- TH 10/10/24 [Slides on RB sentiment (+ naive bayes)](/uploads/nlp24/03_dit_nlp_handout.pdf/04_nlp_handout.pdf) 
+- TH 10/10/23 [Notebook on RB sentiment](/uploads/nlp24/04_dit_nlp_rulebasedsentiment.ipynb) 
 
 
 ### 3. Naïve Bayes

@@ -33,6 +33,15 @@ Regardless, you can find the materials on [virtuale](https://virtuale.unibo.it/)
 
 Regardless of whether you attended either of the introductions, I suggest you to **do (or re-visit) all the exercises ASAP**.
 
+
+## Homework
+
+Homework is going to be handled through 
+[virtuale](https://virtuale.unibo.it/course/view.php?id=64197). No further 
+contents are expected to be shared there. On 09/10, you should have obtained 
+the password to access from me. If you did not, ping me. Homework has 
+associated a hard deadline.
+
 ## Course contents
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course is as follows.

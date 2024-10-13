@@ -60,14 +60,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 - TH 10/10/23 [Notebook on RB sentiment](/uploads/nlp24/04_dit_nlp_rulebasedsentiment.ipynb) 
 
 
-### 3. Naïve Bayes
+<!-- ### 3. Naïve Bayes -->
 <!-- - 10/10/23 [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
 - 16/10/23 [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/05_dit_nlp_naivebayes.ipynb)
  -->
 
 ### 4. Word vectors
-<!-- - 17/10/23 [Slides on tf-idf](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_03/06_nlp_handout.pdf)
-- 17/10/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/06_dit_nlp_tf-idf.ipynb)
+- WE 16/10/23 [Slides on tf-idf](/uploads/nlp24/06_dit_nlp_handout.pdf)
+- WE 16/10/23 [Notebook](/uploads/nlp24/06_dit_nlp_tf-idf.ipynb)
  --> 
 
 ### 5. From Word Counts to Meaning

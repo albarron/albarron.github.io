@@ -60,10 +60,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 3. Rule-based and Naïve Bayes
 - TH 10/10/24 [Slides on RB sentiment (+ naive bayes)](/uploads/nlp24/04_dit_nlp_handout.pdf) 
 - TH 10/10/24 [Notebook on RB sentiment](/uploads/nlp24/04_dit_nlp_rulebasedsentiment.ipynb) 
-
-<!-- - 10/10/23 [Slides on Naïve Bayes](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_02/04_nlp_handout.pdf)
-- 16/10/23 [Notebook on Naïve Bayes](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_03/05_dit_nlp_naivebayes.ipynb)
- -->
+- WE 16/10/24  [Notebook on Naïve Bayes](/uploads/nlp24/05_dit_nlp_naivebayes.ipynb)
 
 ### 4. Word vectors
 - TH 17/10/24 [Slides on tf-idf](/uploads/nlp24/06_dit_nlp_handout.pdf)

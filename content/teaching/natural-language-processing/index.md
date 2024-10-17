@@ -68,6 +68,8 @@ Whereas the contents could be (slightly) adapted according to the students skill
  
 
 ### 5. From Word Counts to Meaning
+(we start from IDF, from the previous lesson)
+
 - WE 23/10/24 [Slides introducing topic modelling](/uploads/nlp24/07_dit_nlp_handout.pdf)
 - WE 23/10/23 [Notebook on topic modelling](/uploads/nlp24/07_dit_nlp_topicmodeling.ipynb) 
 <!--

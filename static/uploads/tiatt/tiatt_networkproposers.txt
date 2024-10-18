@@ -45,9 +45,12 @@ Italy
         
 Spain
 	Dr Alba Garcia Seco de Herrera,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
-	Dr Meritxell Saez Cornellana,	IQS School of Engineering
-	Dr Rafael Fernandez Campos,	Universidad Autonoma de Madrid
 	Dr Leonardo Campillos-Llanos,	Agencia Estatal Consejo Superior de Investigaciones Cientificas (CSIC)
+	Ms Lucia Ortiz de Zarate,	 Universidad Autonoma de Madrid
+	Dr Meritxell Saez Cornellana,	IQS School of Engineering
+	Prof Paolo Rosso,	Universitat Politècnica de València
+	Dr Rafael Fernandez Campos,	Universidad Autonoma de Madrid
+	
         
 == Informal guidelines to bring more people ==
 

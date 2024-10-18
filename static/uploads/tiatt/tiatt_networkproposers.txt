@@ -17,8 +17,10 @@ Greece
 
 Poland
 	Mr Marcin Sawiński,	Uniwersytet Ekonomiczny W Poznaniu
+	Dr Piotr Pezik,	 UNIWERSYTET LODZKI
         
 Portugal
+	Prof João Magalhães,	Universidade NOVA de Lisboa
 	Prof Ricardo Campos,	Universidade Da Beira Interior
         
 Romania
@@ -80,7 +82,16 @@ As of now (17/10/24), we have room to add one non-ITC country. We are in contact
 
 5.a If you want to propose a person from a country already participating (ITC or not), please let us know.
 
-5.b If you want to propose a person from a new non-ITC, please consider that we might not be able to include her/him, unless we have an extra ITC. We can keep that person in a waiting list, hoping to make room.
+5.b If you want to propose a person from a new non-ITC, please consider that we might not be able to include her/him, unless we have an extra ITC. We can keep that person in a waiting list, hoping to make room. These are the necessary distributions:
+
+this is the distribution: (total, ITC)
+7 4
+8 4
+9 5	<-- we are here!
+10 5
+11 6
+12 6
+13 7
 
 5.c If you want to propose a person from a new ITC, please let us know ASAP. Such new ITC could open the door to invite even more people. We are in contact with some colleagues from Lithuania, but we do not have confirmation yet.
  

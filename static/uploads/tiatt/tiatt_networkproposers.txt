@@ -15,6 +15,9 @@ Greece
 	Prof Efstathios Stamatatos,	University of the Aegean
 	Dr Stefanos Vrochidis,	Ethniko Kentro Erevnas Kai Technologikis Anaptyxis
 
+Lithuania
+	Dr Monika Mačiulienė,	Kaunas University of Technology
+
 Poland
 	Mr Marcin Sawiński,	Uniwersytet Ekonomiczny W Poznaniu
 	Dr Piotr Pezik,	 UNIWERSYTET LODZKI
@@ -47,6 +50,7 @@ Italy
         
 Spain
 	Dr Alba Garcia Seco de Herrera,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
+	Dr Laura Plaza,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
 	Dr Leonardo Campillos-Llanos,	Agencia Estatal Consejo Superior de Investigaciones Cientificas (CSIC)
 	Ms Lucia Ortiz de Zarate,	 Universidad Autonoma de Madrid
 	Dr Meritxell Saez Cornellana,	IQS School of Engineering
@@ -87,8 +91,8 @@ As of now (17/10/24), we have room to add one non-ITC country. We are in contact
 this is the distribution: (total, ITC)
 7 4
 8 4
-9 5	<-- we are here!
-10 5
+9 5	
+10 5	<-- we are here!
 11 6
 12 6
 13 7

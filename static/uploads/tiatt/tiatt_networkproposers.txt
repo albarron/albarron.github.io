@@ -38,7 +38,8 @@ Finland
 	Prof Joni Salminen,	University of Vaasa
 	Prof Jussi Karlgren,	Silo AI
         
-France
+France 
+	Dr Chloe Braud,	  Centre National de la Recherche Scientifique 
 	Dr Lorraine Goeuriot,	Universite Grenoble Alpes
 	Prof Josiane Mothe,	Universite Toulouse Ii-jean Jaures
      

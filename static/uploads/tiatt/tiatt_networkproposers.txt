@@ -23,6 +23,7 @@ Poland
 	Dr Piotr Pezik,	 UNIWERSYTET LODZKI
         
 Portugal
+	Alipio Jorge,	 Faculty of Sciences of University of Porto [Department of Computer Science] 
 	Prof João Magalhães,	Universidade NOVA de Lisboa
 	Prof Ricardo Campos,	Universidade Da Beira Interior
         
@@ -56,6 +57,7 @@ Netherlands
 	
 Spain
 	Dr Alba Garcia Seco de Herrera,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
+	 Dr Diego Sebastian Garrocho Salcedo,	 Universidad Autónoma de Madrid [Philosophy] 
 	Dr Laura Plaza,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
 	Dr Leonardo Campillos-Llanos,	Agencia Estatal Consejo Superior de Investigaciones Cientificas (CSIC)
 	Ms Lucia Ortiz de Zarate,	 Universidad Autonoma de Madrid
@@ -65,7 +67,9 @@ Spain
 	Dr Yashin Dicente Cid,	 Roche Diagnostics Sl
         
 Switzerland
+	 Prof Henning Müller,	 HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE [eHealth Unit at the HES-SO Valais] 
 	 Dr Oscar Alfonso Jimenez del Toro,	 Fondation De L'institut De Recherche Idiap [Medical Artificial Intelligence] 
+
 == Informal guidelines to bring more people ==
 
 1. What kind of person are we targetting? Obviously, we want good researchers. They should work on something related to information systems (all languages, and modalities are welcome; multi-* too).

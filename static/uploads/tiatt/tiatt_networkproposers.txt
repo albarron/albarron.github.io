@@ -47,7 +47,10 @@ Italy
 	Prof Nicola Ferro,	Università degli Studi di Padova
 	Prof Elisabetta Fersini,	UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA
 	Prof Viviana Patti,	Università degli Studi di Torino
-        
+
+Netherlands
+	Dr Jaap Kamps,	University of Amsterdam
+	
 Spain
 	Dr Alba Garcia Seco de Herrera,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
 	Dr Laura Plaza,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA

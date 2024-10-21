@@ -40,8 +40,10 @@ Finland
         
 France 
 	Dr Chloe Braud,	  Centre National de la Recherche Scientifique 
-	Dr Lorraine Goeuriot,	Universite Grenoble Alpes
 	Prof Josiane Mothe,	Universite Toulouse Ii-jean Jaures
+	 Dr Liana Ermakova,	 University of Brest [Faculty of Humanities and Social Science] 
+	Dr Lorraine Goeuriot,	Universite Grenoble Alpes
+
      
 Italy
 	Dr Alberto Barron Cedeno, Alma Mater Studiorum - Universita Di Bologna
@@ -51,6 +53,7 @@ Italy
 
 Netherlands
 	Dr Jaap Kamps,	University of Amsterdam
+	Dr Tommaso Caselli ,	 Rijksuniversiteit Groningen [CLCG, Faculty of Arts] 
 	
 Spain
 	Dr Alba Garcia Seco de Herrera,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA

@@ -44,7 +44,6 @@ France
 	 Dr Liana Ermakova,	 University of Brest [Faculty of Humanities and Social Science] 
 	Dr Lorraine Goeuriot,	Universite Grenoble Alpes
 
-     
 Italy
 	Dr Alberto Barron Cedeno, Alma Mater Studiorum - Universita Di Bologna
 	Prof Nicola Ferro,	Università degli Studi di Padova
@@ -65,6 +64,8 @@ Spain
 	Dr Rafael Fernandez Campos,	Universidad Autonoma de Madrid
 	Dr Yashin Dicente Cid,	 Roche Diagnostics Sl
         
+Switzerland
+	 Dr Oscar Alfonso Jimenez del Toro,	 Fondation De L'institut De Recherche Idiap [Medical Artificial Intelligence] 
 == Informal guidelines to bring more people ==
 
 1. What kind of person are we targetting? Obviously, we want good researchers. They should work on something related to information systems (all languages, and modalities are welcome; multi-* too).

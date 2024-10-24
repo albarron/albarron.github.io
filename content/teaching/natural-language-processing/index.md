@@ -64,14 +64,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 4. Word vectors
 - TH 17/10/24 [Slides on tf-idf](/uploads/nlp24/06_dit_nlp_handout.pdf)
-- TH 17/10/24 [Notebook](/uploads/nlp24/06_dit_nlp_tf_idf.ipynb)
+- ~~TH 17/10/24~~ WE 23/10/24 [Notebook](/uploads/nlp24/06_dit_nlp_tf_idf.ipynb)
  
 
 ### 5. From Word Counts to Meaning
 (we start from IDF, from the previous lesson)
 
-- WE 23/10/24 [Slides introducing topic modelling](/uploads/nlp24/07_dit_nlp_handout.pdf)
-- WE 23/10/23 [Notebook on topic modelling](/uploads/nlp24/07_dit_nlp_topicmodeling.ipynb) 
+- ~~WE 23/10/24~~ TH 24/10/24 [Slides introducing topic modelling](/uploads/nlp24/07_dit_nlp_handout.pdf)
+- ~~WE 23/10/23~~ TH 24/10/24[Notebook on topic modelling](/uploads/nlp24/07_dit_nlp_topicmodeling.ipynb) 
 <!--
 - 24/10/23 [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf)
 - 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->

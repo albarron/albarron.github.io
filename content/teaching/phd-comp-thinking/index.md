@@ -1,5 +1,5 @@
 ---
-title: PhD Computing Thinking
+title: PhD Computing Thinking and Programming
 summary: The computing thinking and programming lesson for DIT's PhD 
 date: 2024-10-29
 type: docs
@@ -57,6 +57,8 @@ Module 1: Computational Thinking
 
 
 ### Session 4
+
+**To be re-scheduled**
 
 * 19/11/24 Module 4: Python for Poets 2
 

@@ -27,32 +27,39 @@ In particular:
 
 Module 1: Computational Thinking
 
-* 29/10/24 Slides
+* 29/10/24 [Slides](/uploads/phdcomp24-25/01_dit_phdcompthink_handout.pdf)
 
 ### Session 2
 
-[Module 2: Programming basics](https://github.com/TinfFoil/learning_dit_python/tree/main/01_the_basics)
+* 05/11/24 Module 2: Programming basics
+ 
+<!--[Module 2: Programming basics](https://github.com/TinfFoil/learning_dit_python/tree/main/01_the_basics)
 
 * 05/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_01_notebook.pdf)
-* 05/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/01_the_basics/code/DIT_python_notebook_1_static.ipynb)
-
-### Session 2
-
-[Module 3. Data](https://github.com/TinfFoil/learning_dit_python/tree/main/02_python_data)
-* 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures
-
-[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
-* 12/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
-* 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
-* 12/11/24 [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)
-
+* 05/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/01_the_basics/code/DIT_python_notebook_1_static.ipynb)-->
 
 ### Session 3
 
-[Module 4. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
+* 12/11/24 Module 3: Data
+* 12/11/24 Module 4: Python for Poets 1
+
+<!--[Module 3: Data](https://github.com/TinfFoil/learning_dit_python/tree/main/02_python_data)
+* 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures-->
+
+<!--[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
+* 12/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
+* 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
+* 12/11/24 [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)-->
+
+
+### Session 4
+
+* 19/11/24 Module 4: Python for Poets 2
+
+<!--[Module 4. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
 
 * 19/11/24
-[Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/04_python_4_poets2/Python4Poets_2ndpart_static.ipynb) 
+[Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/04_python_4_poets2/Python4Poets_2ndpart_static.ipynb) -->
 
 
 ## Teaching methods

@@ -12,6 +12,10 @@ image:
 
 **Academic Year 2024/2025**
 
+(frontpage illustration produced with 
+[deepai's tool](https://deepai.org/machine-learning-model/text2img) in October 2024; using prompt 
+_natural language processing class for translation and technology masters_).
+
 Visit the [UniBO website of the lecture](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/470093) for official and administrative details.
 
 ## Prerequisites

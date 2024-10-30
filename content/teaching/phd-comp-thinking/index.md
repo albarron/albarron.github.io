@@ -13,8 +13,7 @@ image:
 **Academic Year 2024/2025**
 
 (frontpage illustration produced with 
-[deepai's tool](https://deepai.org/machine-learning-model/text2img) using prompt 
-_computing thinking for humanities  phd students_).
+[deepai's tool](https://deepai.org/machine-learning-model/text2img) in October 2024, using prompt _computing thinking for humanities  phd students_).
 
 This is a gentle introduction to computing thinking and the python programming 
 language. It is intended for students of the [PhD programme Translation, 

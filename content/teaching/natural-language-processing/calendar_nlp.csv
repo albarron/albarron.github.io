@@ -1,11 +1,11 @@
 Lesson, Date, Time, Location,Lesson, Date, Time, Location
-1,MO 30 Sep,15:15,lab 10,11,MO 4 Nov,15:15,lab 10
-2,WE 2 Oct,13:30,lab 16,12,WE 13 Nov,13:30,lab 16
-3,WE 9 Oct,13:30,lab 16,13,TH 14 Nov,13:30,lab 10
-4,TH 10 Oct,13:30,lab 10,14,MO 18 Nov,15:15,lab 10
-5,WE 16 Oct,13:30,lab 16,15,WE 20 Nov,13:30,lab 16
-6,TH 17 Oct,13:30,lab 10,16,TH 21 Nov, 13:30,lab 10
-7,WE 23 Oct,13:30,lab 16,17,WE 27 Nov,13:30,lab 16
-8,TH 24 Oct,13:30,lab 10,18,TH 28 Nov,13:30,lab 10
-9,WE 30 Oct,13:30,lab 16,19,MO 2 Dec,15:15,lab 10
-10,TH 31 Oct,13:30,lab 10,20,MO 9 Dec,15:15,lab 10
+1,MO 30 Sep,15:15,lab 10,11,WE 13 Nov,13:30,lab 16
+2,WE 2 Oct,13:30,lab 16,12,TH 14 Nov,13:30,lab 16 
+3,WE 9 Oct,13:30,lab 16,13,MO 18 Nov,15:15,lab 10
+4,TH 10 Oct,13:30,lab 10,14,WE 20 Nov,13:30,lab 16
+5,WE 16 Oct,13:30,lab 16,15,TH 21 Nov, 13:30,lab 10 
+6,TH 17 Oct,13:30,lab 10,16,WE 27 Nov,13:30,lab 16
+7,WE 23 Oct,13:30,lab 16,17,TH 28 Nov,13:30,lab 10
+8,TH 24 Oct,13:30,lab 10,18,MO 2 Dec,15:15,lab 10
+9,WE 30 Oct,13:30,lab 16,19,MO 9 Dec,15:15,lab 10
+10,TH 31 Oct,13:30,lab 10,20,WE 11 Dec,13:30,lab x

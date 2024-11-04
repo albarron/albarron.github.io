@@ -34,12 +34,11 @@ Module 1: Computational Thinking
 
 ### Session 2
 
-* 05/11/24 Module 2: Programming basics
+Module 2: Programming basics
  
-<!--[Module 2: Programming basics](https://github.com/TinfFoil/learning_dit_python/tree/main/01_the_basics)
 
-* 05/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_01_notebook.pdf)
-* 05/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/01_the_basics/code/DIT_python_notebook_1_static.ipynb)-->
+* 05/11/24 [Slides](/uploads/phdcomp24-25/02_dit_phdcompthink_handout.pdf)
+* 05/11/24 [Notebook](/uploads/phdcomp24-25/DIT_python_notebook_1_static.ipynb)
 
 ### Session 3
 
@@ -57,9 +56,7 @@ Module 1: Computational Thinking
 
 ### Session 4
 
-**To be re-scheduled**
-
-* 19/11/24 Module 4: Python for Poets 2
+* 26/11/24 Module 4: Python for Poets 2
 
 <!--[Module 4. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
 

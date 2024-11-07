@@ -91,9 +91,8 @@ perceptron
 
 **Intermezzo**
 
-<!--
-- 06/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/11_dit_nlp_handout.pdf) introducing neural networks and keras
-- 06/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_06/11_dit_nlp_backprop.ipynb) introducing neural networks and keras -->
+- 13/11/23 [Slides](uploads/nlp24/11_dit_nlp_handout.pdf) introducing neural networks and keras
+- 13/11/23 [Notebook](uploads/nlp24/11_dit_nlp_keras.ipynb)
 
 ### 8. Word Embeddings
 <!-- - 07/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/12_dit_nlp_handout.pdf) on word2vec

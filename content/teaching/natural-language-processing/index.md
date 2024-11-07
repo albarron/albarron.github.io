@@ -84,15 +84,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 - 30/10/23 [Notebook](/uploads/nlp24/09_dit_nlp_traineval.ipynb)
 
 ### 7. Intro to NN
-- 31/10/23 
-[Slides](/uploads/nlp24/10_dit_nlp_handout.pdf) on the perceptron
+- 31/10/23 [Slides](/uploads/nlp24/10_dit_nlp_handout.pdf) on the perceptron
 - 31/10/23 [Notebook](/uploads/nlp24/10_dit_nlp_nn.ipynb) on the 
 perceptron
 
 **Intermezzo**
 
-- 13/11/23 [Slides](uploads/nlp24/11_dit_nlp_handout.pdf) introducing neural networks and keras
-- 13/11/23 [Notebook](uploads/nlp24/11_dit_nlp_keras.ipynb)
+- 13/11/23 [Slides](/uploads/nlp24/11_dit_nlp_handout.pdf) introducing neural networks and keras
+- 13/11/23 [Notebook](/uploads/nlp24/11_dit_nlp_keras.ipynb)
 
 ### 8. Word Embeddings
 <!-- - 07/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/12_dit_nlp_handout.pdf) on word2vec

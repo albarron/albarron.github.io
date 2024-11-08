@@ -94,10 +94,10 @@ perceptron
 - 13/11/23 [Notebook](/uploads/nlp24/11_dit_nlp_keras.ipynb)
 
 ### 8. Word Embeddings
-<!-- - 07/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_06/12_dit_nlp_handout.pdf) on word2vec
-- 13/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/13_dit_nlp_handout.pdf) hands on word embeddings
-- 13/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/13_dit_nlp_embeddings.ipynb)
- -->  
+- 14/11/24 [Slides](/uploads/nlp24/12_dit_nlp_handout.pdf) on word2vec
+<!-- - 13/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/13_dit_nlp_handout.pdf) hands on word embeddings
+- 13/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/13_dit_nlp_embeddings.ipynb) -->
+  
 
 ### 9. Doc2Vec
 <!-- - 14/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_handout.pdf)

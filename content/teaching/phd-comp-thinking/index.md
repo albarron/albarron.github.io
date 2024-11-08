@@ -42,21 +42,25 @@ Module 2: Programming basics
 
 ### Session 3
 
-* 12/11/24 Module 3: Data
-* 12/11/24 Module 4: Python for Poets 1
+Module 3: Data
 
-<!--[Module 3: Data](https://github.com/TinfFoil/learning_dit_python/tree/main/02_python_data)
-* 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/02_python_data/02_PythonData_static.ipynb) on functions and data structures-->
+* 12/11/24 [Notebook](/uploads/phdcomp24-25/03_PythonData_static.ipynb)
+
+Module 4: Python for Poets (1 of 2)
+
+* 12/11/24 [slides](/uploads/phdcomp24-25/)Python for Poets 1
+
 
 <!--[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
 * 12/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
 * 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
 * 12/11/24 [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)-->
 
-
 ### Session 4
 
-* 26/11/24 Module 4: Python for Poets 2
+Module 4: Python for Poets (2 of 2)
+
+* 26/11/24 
 
 <!--[Module 4. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
 

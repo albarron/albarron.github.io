@@ -48,7 +48,8 @@ Module 3: Data
 
 Module 4: Python for Poets (1 of 2)
 
-* 12/11/24 [slides](/uploads/phdcomp24-25/)Python for Poets 1
+* 12/11/24 [slides](/uploads/phdcomp24-25/03_dit_phdcompthink_p4p_handout.pdf)
+<!-- * 12/11/24 [notebook]() -->
 
 
 <!--[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)

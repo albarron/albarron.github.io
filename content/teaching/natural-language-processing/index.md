@@ -155,7 +155,7 @@ This year, NLP has two _sibling_ lessons:
 
 {{< table path="calendar_selnlp.csv" header="true" caption="Table 2: Calendar overviewing all 8 Selected Topics in NLP planned lessons." >}}
 
-+ ImprenDITori di se stessi. TH aula 10
+(1) ImprenDITori di se stessi. TH aula 10
 
 {{< table path="calendar_tutorato.csv" header="true" caption="Table 3: Calendar overviewing all 10 NLP _tutorato_." >}}
 

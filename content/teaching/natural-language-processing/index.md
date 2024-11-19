@@ -101,10 +101,10 @@ embeddings
   
 
 ### 9. Doc2Vec
-<!-- - 14/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_handout.pdf)
-- 14/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_07/14_dit_nlp_d2v.ipynb)
-- 14/11/23 [Project reminder](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_07/14_dit_nlp_projects.pdf)
- -->
+- 14/11/23 [Slides](/uploads/nlp24/14_dit_nlp_handout.pdf)
+- 14/11/23 [Notebook](/uploads/nlp24/14_dit_nlp_d2v.ipynb)
+<!-- - 14/11/23 [Project reminder](/uploads/nlp24/14_dit_nlp_projects.pdf) -->
+
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO
 ### 10. Visualisation
   I have decided not to offer this lecture anymore

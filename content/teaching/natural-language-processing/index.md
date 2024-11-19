@@ -113,8 +113,8 @@ embeddings
  -->
 
 ### 10. Convolutions for  text
-<!-- - 20/11/22 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_08/15_dit_nlp_handout.pdf)
-- 20/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/15_dit_nlp_cnn.ipynb) -->
+- 27/11/24 [Slides](/uploads/nlp24/15_dit_nlp_handout.pdf)
+<!-- - 20/11/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_08/15_dit_nlp_cnn.ipynb) -->
 
 
 ### 11. Text is Sequential / LSTM

@@ -1,7 +1,7 @@
 ---
 title: PhD Computing Thinking and Programming
 summary: The computing thinking and programming lesson for DIT's PhD 
-date: 2024-10-29
+date: 2024-11-24
 type: docs
 math: true
 tags:
@@ -61,9 +61,9 @@ Module 4: Python for Poets (1 of 2)
 
 Module 4: Python for Poets (2 of 2)
 
-* 26/11/24 
+* 26/11/24 [notebook](/uploads/phdcomp24-25/03_Python4Poets_2.ipynb)
 
-<!--[Module 4. Python for Poets 2](https://github.com/TinfFoil/learning_dit_python/tree/main/04_python_4_poets2)
+<!--
 
 * 19/11/24
 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/04_python_4_poets2/Python4Poets_2ndpart_static.ipynb) -->

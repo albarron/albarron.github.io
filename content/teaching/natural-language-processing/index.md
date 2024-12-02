@@ -124,6 +124,14 @@ embeddings
 - 02/12/24 [Notebook](/uploads/nlp24/17_dit_nlp_brnn.ipynb) on BiRNN 
 - 02/12/24 [Notebook](/uploads/nlp24/17_dit_nlp_lstm.ipynb) on LSTM 
 
+### - CLIC-it 2024
+- [Poster 1](/uploads/nlp24/clic24_eptic.pdf) Constructing a Multimodal, 
+Multilingual Translation
+and Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for 
+Verbatim Transcription
+- [Poster 2](/uploads/nlp24/clic24_projection.pdf) On Cross-Language Entity 
+Label Projection and Recognition
+
 ### 12. Text generation
 <!-- - 28/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/18_dit_nlp_handout.pdf) on characters and generation
 - 28/12/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_chars.ipynb) on characters

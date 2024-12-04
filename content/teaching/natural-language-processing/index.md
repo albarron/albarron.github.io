@@ -133,10 +133,10 @@ Verbatim Transcription
 Label Projection and Recognition
 
 ### 12. Text generation
-<!-- - 28/11/23 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_09/18_dit_nlp_handout.pdf) on characters and generation
-- 28/12/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_chars.ipynb) on characters
-- 28/12/23 [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_09/18_dit_nlp_lstm-gen.ipynb) on generation
- -->
+- 09/12/24 [Slides](/uploads/nlp24/18_dit_nlp_handout.pdf) on characters and generation
+- 09/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_chars.ipynb) on characters for classification
+- 09/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_lstm_gen.ipynb) on generation
+
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**

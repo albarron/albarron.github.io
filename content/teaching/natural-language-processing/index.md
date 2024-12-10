@@ -144,6 +144,9 @@ modification**
 ### 13. Intro to Seq2Seq and Transformers
 
 - 11/12/24 [Slides](/uploads/nlp24/19_dit_nlp_handout.pdf) for part one
+- 16/12/24 [Slides](/uploads/nlp24/20_dit_nlp_handout.pdf) for part two
+
+[Attention gif](/uploads/nlp24/transform20fps.gif)
 
 ### 14. A brief intro to LLMs + Closing Remaks
 

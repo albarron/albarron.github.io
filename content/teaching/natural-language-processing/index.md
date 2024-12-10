@@ -144,15 +144,13 @@ modification**
 ### 13. Intro to Seq2Seq and Transformers
 
 - 11/12/24 [Slides](/uploads/nlp24/19_dit_nlp_handout.pdf) for part one
-- 16/12/24 [Slides](/uploads/nlp24/20_dit_nlp_handout.pdf) for part two
-
-[Attention gif](/uploads/nlp24/transform20fps.gif)
+- 16/12/24 [Slides](/uploads/nlp24/20_dit_nlp_handout.pdf) for part two; [attention gif](/uploads/nlp24/transform20fps.gif)
 
 ### 14. A brief intro to LLMs + Closing Remaks
 
 - 16/12/24 [CLIC-it 2023 tutorial](https://github.com/crux82/CLiC-it_2023_tutorial) (we will pay a visit to the cool materials from D. Croce and C.D. Hromei)
 
-
+### FIN
 
 ## Calendars 
 

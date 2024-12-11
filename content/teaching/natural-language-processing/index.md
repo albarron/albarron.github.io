@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2024-11-24
+date: 2024-12-11
 type: docs
 math: true
 tags:
@@ -135,7 +135,7 @@ Label Projection and Recognition
 ### 12. Text generation
 - 09/12/24 [Slides](/uploads/nlp24/18_dit_nlp_handout.pdf) on characters and generation
 - 09/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_chars.ipynb) on characters for classification
-- 09/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_lstm_gen.ipynb) on generation
+- 11/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_lstm_gen.ipynb) on generation
 
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
@@ -143,7 +143,7 @@ modification**
 ----->
 ### 13. Intro to Seq2Seq and Transformers
 
-- 11/12/24 [Slides](/uploads/nlp24/19_dit_nlp_handout.pdf) for part one
+- 16/12/24 [Slides](/uploads/nlp24/19_dit_nlp_handout.pdf) for part one
 - 16/12/24 [Slides](/uploads/nlp24/20_dit_nlp_handout.pdf) for part two; [attention gif](/uploads/nlp24/transform20fps.gif)
 
 ### 14. A brief intro to LLMs + Closing Remaks

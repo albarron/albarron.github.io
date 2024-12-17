@@ -57,7 +57,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 ### 2. Words and the vector space model
 
 - WE 02/10/24 [Slides on tokens](/uploads/nlp24/02_dit_nlp_handout.pdf) 
-- WE 03/10/24 [Notebook on tokens and normalisation](/uploads/nlp24/02_dit_nlp_words.ipynb)
+- WE 02/10/24 [Notebook on tokens and normalisation](/uploads/nlp24/02_dit_nlp_words.ipynb)
 - WE 09/10/24 [Slides on VSM](/uploads/nlp24/03_dit_nlp_handout.pdf)
 - WE 09/10/24 [Notebook on VSM](/uploads/nlp24/03_dit_nlp_tokens.ipynb)
 
@@ -101,8 +101,8 @@ embeddings
   
 
 ### 9. Doc2Vec
-- 14/11/23 [Slides](/uploads/nlp24/14_dit_nlp_handout.pdf)
-- 14/11/23 [Notebook](/uploads/nlp24/14_dit_nlp_d2v.ipynb)
+- 20/11/24 [Slides](/uploads/nlp24/14_dit_nlp_handout.pdf)
+- 20/11/24 [Notebook](/uploads/nlp24/14_dit_nlp_d2v.ipynb)
 <!-- - 14/11/23 [Project reminder](/uploads/nlp24/14_dit_nlp_projects.pdf) -->
 
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO
@@ -118,8 +118,8 @@ embeddings
 
 
 ### 11. Text is Sequential / LSTM
-- 21/11/24 [Slides](/uploads/nlp24/16_dit_nlp_handout.pdf) on RNN
-- 21/11/24 [Notebook](/uploads/nlp24/16_dit_nlp_rnn.ipynb) on RNN
+- 28/11/24 [Slides](/uploads/nlp24/16_dit_nlp_handout.pdf) on RNN
+- 28/11/24 [Notebook](/uploads/nlp24/16_dit_nlp_rnn.ipynb) on RNN
 - 02/12/24 [Slides](/uploads/nlp24/17_dit_nlp_handout.pdf) on BiRNN and LSTM
 - 02/12/24 [Notebook](/uploads/nlp24/17_dit_nlp_brnn.ipynb) on BiRNN 
 - 02/12/24 [Notebook](/uploads/nlp24/17_dit_nlp_lstm.ipynb) on LSTM 

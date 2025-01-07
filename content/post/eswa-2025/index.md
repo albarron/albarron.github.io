@@ -8,7 +8,7 @@ tags:
   - cybersecurity
   - ESWA
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'A snapshot of the paper on Elsevier'
   
 authors:
   - admin

@@ -170,7 +170,7 @@ authors:
  # Organizational groups that you belong to (for People widget)
 ---
 
-Before starting her masters in Saarland, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
+Shibingfeng is about to start her PhD in AI at University of Bologna. Before that, she did an MSc in Saarland. During her time with us, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
 
 **Masters dissertation**<br/>
 Zhang, Shibingfeng (2021) [Emotion Identification in Italian Opera](https://amslaurea.unibo.it/23510/). Università di Bologna, Corso di Studio in Specialized translation - Forli

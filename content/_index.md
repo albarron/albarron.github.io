@@ -93,7 +93,6 @@ sections:
           - Researchers
           # - Administration
           # - Visitors
-          
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -113,7 +112,6 @@ sections:
 #          - Alumni
           # - Administration
           # - Visitors
-          
       sort_by: Params.name
       sort_ascending: true
     design:
@@ -131,7 +129,6 @@ sections:
           - Grad Students
           # - Administration
           # - Visitors
-          
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -148,12 +145,11 @@ sections:
       user_groups:
           - Alumni
           # - Administration
-          # - Visitors
-          
+          # - Visitors      
       sort_by: Params.last_name
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
-      ---
+---

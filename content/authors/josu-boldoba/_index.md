@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Adriana Elena Cosma
+title:  Josu Boldoba
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Adriana Elena 
-last_name: Cosma
+first_name: Josu
+last_name: Boldoba
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Former MSc student
+role:  Senior Software Development Engineer (Former BSc student)
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -28,8 +28,8 @@ user_groups:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UPC
-    # url: https://www.unibo.it/sitoweb/arianna.muti2
+  - name: DerbySoft 
+    url: https://www.derbysoft.com
 
 
 # Social network links
@@ -46,8 +46,8 @@ profiles:
   #   url: https://github.com/albarron
   # - icon: brands/gitlab
   #   url: https://gitlab.com/albarron/
-  #- icon: brands/linkedin
-  #  url: https://ch.linkedin.com/in/margherita-martinelli-98114918b
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jboldoba/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=lE6EWMUAAAAJ
   # - icon: academicons/orcid
@@ -57,10 +57,10 @@ interests:
   #- Identification of definitions for automatic text explanation
 
 education:
-  - area: MSc in Computer Science
+  - area: BSc in Computer Science
     institution: Universitat Politècnica de Catalunya, Spain
-    date_start: 2013
-    date_end: 2015
+    date_start: 2006
+    date_end: 2014
     summary: |
       # Courses included:
       
@@ -155,19 +155,19 @@ work:
 #         icon: camera
 
 # languages:
-#   - name: Spanish
-#     percent: 100
-#   - name: English
-#     percent: 90
+   - name: Spanish
+     percent: 100
+   - name: Catalan
+     percent: 70
 #   - name: Italian
 #     percent: 70
 
 authors:
-- adriana-elena-cosma
+- josu-boldoba
  # Organizational groups that you belong to (for People widget)
 ---
 
-Adriana did her MSc under the supervision of [Horacio Rodriguez](https://es.wikipedia.org/wiki/Horacio_Rodr%C3%ADguez_Hontoria), [Cristina España-Bonet](https://www.cs.upc.edu/~cristinae/CV/index.php), and Alberto Barrón-Cedeño.
+Josu did his Bachelors under the supervision of [Lluís Màrquez](https://scholar.google.com/citations?hl=en&user=yFNUfjsAAAAJ&view_op=list_works&sortby=pubdate), Alberto Barrón-Cedeño, and [Cristina España-Bonet](https://www.cs.upc.edu/~cristinae/CV/index.php) .
 
 **Masters dissertation**<br/>
-Cosma, Adriana-Elena (2015) [Semiautomatic completion of Wikipedia contents with domain-specific MT and CLIR](https://upcommons.upc.edu/bitstream/handle/2099.1/26214/87338.pdf). Universitat Politècnica de Catalunya, Master in Computing - Barcelona
+Boldoba, Josu (2014) [Explotación de Wikipedia para el enriquecimiento de un traductor automático](https://www.cs.upc.edu/~cristinae/CV/docs/pfcJosu.pdf). Universitat Politècnica de Catalunya, BSc in Computing - Barcelona

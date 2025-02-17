@@ -162,7 +162,7 @@ authors:
 ---
 
 **Masters dissertation**<br/>
-Galletti, Ettore (2023) Proposta di traduzione teatrale e di analisi 
+Galletti, Ettore (2020) Proposta di traduzione teatrale e di analisi 
 stilistica
 computazionale di Class (Iseult Golden e David Horan). 
 Università di Bologna, Laurea Magistrale in Specialised Translation, Forlì

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Shibingfeng Zhang
+title: Marco Casavantes
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shibingfeng
-last_name: Zhang
+first_name: Marco 
+last_name: Casavantes
 
 # Status emoji
 status:
@@ -20,24 +20,24 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow (former MA student)
+role: PhD student
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Università di Bologna
-    url: https://www.unibo.it/sitoweb/shibingfeng.zhang
+  - name: INAOE, Mexico
+    # url: https://www.unibo.it/sitoweb/arianna.muti2
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:shibingfeng.zhang [at] unibo.it'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:arianna.muti2 [at] unibo.it'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/Aramona4
   # - icon: brands/instagram
@@ -46,47 +46,44 @@ profiles:
   #   url: https://github.com/albarron
   # - icon: brands/gitlab
   #   url: https://gitlab.com/albarron/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/%E5%86%B0%E9%A3%8E-%E5%BC%A0%E5%8F%B2-892992204/
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/in/giordanoluca00/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=lE6EWMUAAAAJ
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0003-4719-3420
 
 interests:
-  - Emotion identification in Italian opera
-  - Machine translation
+  - Identification of computational propaganda in social media
 
 education:
-  - area: MSc in Language Science and Technology
-    institution: Universität des Saarlandes, Germany
-    date_start: 2022
-    date_end: 2021
-    summary: |
+ # - area: MA in Specialied Translation
+ #   institution: Università di Bologna, Italy
+ #   date_start: 2022
+ #   date_end: 2024
+ #   summary: |
+ #     # Courses included:
+      
+ # - area:  Linguistic and Cultural Mediation
+ #   institution: University of Naples "L'Orientale", Italy
+ #   date_start: 2019
+ #   date_end: 2022
+ #   summary: |
+      # GPA: 3.4/4.0
+      
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MA in Specialized Translation
-    institution: Università di Bologna, Italy
-    date_start: 2021
-    date_end: 2019
-    summary: |
-    # GPA: 3.4/4.0
-  - area: BA in Italian Language
-    institution: Sichuan International Studies University, China
-    date_start: 2018
-    date_end: 
-      # 2019
-    summary: |
-      # GPA: 3.4/4.0
-# work:
-#   - position: Associate professor
-#     company_name: Università di Bologna
-#     company_url: 'https://www.unibo.it'
-#     company_logo: ''
-#     date_start: 2022-05-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+#  - position: Translator Manager
+#    company_name: Stadler
+#    company_url: 
+#    company_logo: ''
+#    date_start: 2022-04-01
+#    date_end: ''
+#    summary: |2-
+#      Responsibilities include:
 #       - Professor of Natural Language Processing at the MA level
 #       - Professor of Computational Thinking at the MA and the BA level
 #       - Department representative at the Alma AI Research Institute
@@ -166,11 +163,8 @@ education:
 #     percent: 70
 
 authors:
-- shibingfeng-zhang
+- marco-casavantes
  # Organizational groups that you belong to (for People widget)
 ---
-
-Shibingfeng is about to start her PhD in AI at University of Bologna. Before that, she did an MSc in Saarland. During her time with us, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
-
-**Masters dissertation**<br/>
-Zhang, Shibingfeng (2021) [Emotion Identification in Italian Opera](https://amslaurea.unibo.it/23510/). Università di Bologna, Corso di Studio in Specialized translation - Forli
+<!--**Masters dissertation**<br/>
+Giordano, Luca (2024) [On the Automatic Multilingual Detection of Persuasion Techniques in the News: A Natural Language Processing Approach](). Università di Bologna, Corso di Studio in Specialized translation - Forli-->

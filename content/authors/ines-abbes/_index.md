@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Shibingfeng Zhang
+title: Ines Abbes
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shibingfeng
-last_name: Zhang
+first_name: Ines
+last_name:  Abbes
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow (former MA student)
+role:  NLP Research Assistant (Former MSc student)
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -28,16 +28,16 @@ user_groups:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Università di Bologna
-    url: https://www.unibo.it/sitoweb/shibingfeng.zhang
+  #- name: DerbySoft 
+  #  url: https://www.derbysoft.com
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:shibingfeng.zhang [at] unibo.it'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:arianna.muti2 [at] unibo.it'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/Aramona4
   # - icon: brands/instagram
@@ -47,46 +47,32 @@ profiles:
   # - icon: brands/gitlab
   #   url: https://gitlab.com/albarron/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/%E5%86%B0%E9%A3%8E-%E5%BC%A0%E5%8F%B2-892992204/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?user=lE6EWMUAAAAJ
+    url: https://www.linkedin.com/in/ines-abbes-4900561b/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=7NDsA9oAAAAJ
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0003-4719-3420
 
 interests:
-  - Emotion identification in Italian opera
-  - Machine translation
+  #- Identification of definitions for automatic text explanation
 
 education:
-  - area: MSc in Language Science and Technology
-    institution: Universität des Saarlandes, Germany
-    date_start: 2022
-    date_end: 2021
-    summary: |
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MA in Specialized Translation
-    institution: Università di Bologna, Italy
-    date_start: 2021
+  - area: MSc in Computer Science
+    institution: MSc. National Higher Engineering School of Tunis 
+    date_start: 2017
     date_end: 2019
     summary: |
-    # GPA: 3.4/4.0
-  - area: BA in Italian Language
-    institution: Sichuan International Studies University, China
-    date_start: 2018
-    date_end: 
-      # 2019
-    summary: |
-      # GPA: 3.4/4.0
-# work:
-#   - position: Associate professor
-#     company_name: Università di Bologna
-#     company_url: 'https://www.unibo.it'
-#     company_logo: ''
-#     date_start: 2022-05-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
+      # Courses included:
+      
+work:
+  #- position: Translator Manager
+  #  company_name: Stadler
+  #  company_url: 
+  #  company_logo: ''
+  #  date_start: 2022-04-01
+  #  date_end: ''
+  #  summary: |2-
+  #    Responsibilities include:
 #       - Professor of Natural Language Processing at the MA level
 #       - Professor of Computational Thinking at the MA and the BA level
 #       - Department representative at the Alma AI Research Institute
@@ -160,17 +146,20 @@ education:
 # languages:
 #   - name: Spanish
 #     percent: 100
-#   - name: English
-#     percent: 90
+#   - name: Catalan
+#     percent: 70
 #   - name: Italian
 #     percent: 70
 
 authors:
-- shibingfeng-zhang
+- ines-abbes
  # Organizational groups that you belong to (for People widget)
 ---
 
-Shibingfeng is about to start her PhD in AI at University of Bologna. Before that, she did an MSc in Saarland. During her time with us, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
+Ines did her MSc under the supervision Mohamed Jemni and Alberto Barrón-Cedeño, while at QCRI.
+She expressed some nice words during the COVID-19 pandemic: "I went to QCRI, two months ago, to attend a Talk and and I met Dr. Hassan and other ALT team members. It was my first time going to QCRI after you left and it was hard for me see your office close. You made my working experience there one of the best experiences of my career. I have been always grateful for your guidance, support, inspiration, and motivation during my master’s project.  Honestly, it was a privilege for me working with you and having you as supervisor."
+
 
 **Masters dissertation**<br/>
-Zhang, Shibingfeng (2021) [Emotion Identification in Italian Opera](https://amslaurea.unibo.it/23510/). Università di Bologna, Corso di Studio in Specialized translation - Forli
+Abbes, Ines (2018) [Towards Question Answering with Cross-Language Support](). 
+University of Tunis National High School of Engineering of Tunis (and Qatar Computing Research Institute), MSc in Computing - Tunisia

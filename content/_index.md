@@ -91,12 +91,61 @@ sections:
       user_groups:
           - Associate Professors
           - Researchers
-          - PhD Students
-          - Grad Students
-          - Alumni
           # - Administration
           # - Visitors
-          
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+      
+  - block: people
+    id: people
+    content:
+      title: PhD students
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - PhD Students
+#          - Grad Students
+#          - Alumni
+          # - Administration
+          # - Visitors
+      sort_by: Params.name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+
+  - block: people
+    id: people
+    content:
+      title: Masters students
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Grad Students
+          # - Administration
+          # - Visitors
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+  
+  - block: people
+    id: people
+    content:
+      title: Alumni
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - Alumni
+          # - Administration
+          # - Visitors      
       sort_by: Params.last_name
       sort_ascending: true
     design:

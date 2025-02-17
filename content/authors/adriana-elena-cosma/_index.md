@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Shibingfeng Zhang
+title: Adriana Elena Cosma
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shibingfeng
-last_name: Zhang
+first_name: Adriana Elena 
+last_name: Cosma
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow (former MA student)
+role: Former MSc student
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -28,16 +28,16 @@ user_groups:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Università di Bologna
-    url: https://www.unibo.it/sitoweb/shibingfeng.zhang
+  - name: UPC
+    # url: https://www.unibo.it/sitoweb/arianna.muti2
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:shibingfeng.zhang [at] unibo.it'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:arianna.muti2 [at] unibo.it'
+  #   label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/Aramona4
   # - icon: brands/instagram
@@ -46,47 +46,44 @@ profiles:
   #   url: https://github.com/albarron
   # - icon: brands/gitlab
   #   url: https://gitlab.com/albarron/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/%E5%86%B0%E9%A3%8E-%E5%BC%A0%E5%8F%B2-892992204/
+  #- icon: brands/linkedin
+  #  url: https://ch.linkedin.com/in/margherita-martinelli-98114918b
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=lE6EWMUAAAAJ
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0003-4719-3420
 
 interests:
-  - Emotion identification in Italian opera
-  - Machine translation
+  #- Identification of definitions for automatic text explanation
 
 education:
-  - area: MSc in Language Science and Technology
-    institution: Universität des Saarlandes, Germany
-    date_start: 2022
-    date_end: 2021
+  - area: MSc in Computer Science
+    institution: Universitat Politècnica de Catalunya, Spain
+    date_start: 2013
+    date_end: 2015
     summary: |
       # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MA in Specialized Translation
-    institution: Università di Bologna, Italy
-    date_start: 2021
-    date_end: 2019
-    summary: |
-    # GPA: 3.4/4.0
-  - area: BA in Italian Language
-    institution: Sichuan International Studies University, China
-    date_start: 2018
-    date_end: 
-      # 2019
-    summary: |
+      
+  #- area: Language and Intercultural Mediation
+  #  institution: Università di Bologna, Italy
+  #  date_start: 2019
+  #  date_end: 2016
+  #  summary: |
       # GPA: 3.4/4.0
-# work:
-#   - position: Associate professor
-#     company_name: Università di Bologna
-#     company_url: 'https://www.unibo.it'
-#     company_logo: ''
-#     date_start: 2022-05-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
+      
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  #- position: Translator Manager
+  #  company_name: Stadler
+  #  company_url: 
+  #  company_logo: ''
+  #  date_start: 2022-04-01
+  #  date_end: ''
+  #  summary: |2-
+  #    Responsibilities include:
 #       - Professor of Natural Language Processing at the MA level
 #       - Professor of Computational Thinking at the MA and the BA level
 #       - Department representative at the Alma AI Research Institute
@@ -166,11 +163,11 @@ education:
 #     percent: 70
 
 authors:
-- shibingfeng-zhang
+- adriana-elena-cosma
  # Organizational groups that you belong to (for People widget)
 ---
 
-Shibingfeng is about to start her PhD in AI at University of Bologna. Before that, she did an MSc in Saarland. During her time with us, Shibinfeng worked on the [identification of emotions in Italian opera lyrics](http://ceur-ws.org/Vol-2769/paper_58.pdf). 
+Adriana did her MSc under the supervision of [Horacio Rodriguez](https://es.wikipedia.org/wiki/Horacio_Rodr%C3%ADguez_Hontoria), [Cristina España-Bonet](https://www.cs.upc.edu/~cristinae/CV/index.php), and Alberto Barrón-Cedeño.
 
 **Masters dissertation**<br/>
-Zhang, Shibingfeng (2021) [Emotion Identification in Italian Opera](https://amslaurea.unibo.it/23510/). Università di Bologna, Corso di Studio in Specialized translation - Forli
+Cosma, Adriana-Elena (2015) [Semiautomatic completion of Wikipedia contents with domain-specific MT and CLIR](https://upcommons.upc.edu/bitstream/handle/2099.1/26214/87338.pdf). Universitat Politècnica de Catalunya, Master in Computing - Barcelona

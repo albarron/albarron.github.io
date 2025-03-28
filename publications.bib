@@ -9,10 +9,10 @@ year = {2025},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2024.125767},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417424026344},
-author = {Jáñez-Martino, Francisco 
+author = {Jáñez-Martino, Francisco
     and Barr{\'o}n-Cede{\~n}o, Alberto
-    and Alaiz-Rodríguez, Rocío  
-    and González-Castro, Víctor 
+    and Alaiz-Rodríguez, Rocío
+    and González-Castro, Víctor
     and Arianna Muti},
 keywords = {Social engineering, Persuasion detection, Spam email, Cybersecurity},
 abstract = {Electronic mail (email) is one of the most popular communication media for direct and private communication. Being typically a free service and anonymity-friendly, massive spam email campaigns are common. Nowadays, spam email encompasses scam, phishing, malware distribution, and various other cybersecurity threats. Within these emails, recipients frequently encounter social engineering techniques aimed at persuading them to take an action, such as clicking on a hyperlink, opening an attachment or responding. In this paper, we conduct a study on supervised models to identify persuasion (binary classification) and to identify the specific persuasion techniques that are commonly used in spam email (multilabel classification). To achieve this, we develop systems capable of spotting persuasion in spam emails based on natural language processing techniques. We approach this challenging task at different levels of granularity: full email, sentences and specific text snippets (i.e. text fragments composed by one or more words, typically shorter than a sentence). We replicate and adapt two methodologies used to detect propaganda in news articles. Additionally, we build a custom spam email dataset, and fine-tune pre-trained RoBERTa-based transformer models to tackle the sentence level detection. This allows us to determine how extensively spam emails rely on persuasion to achieve their goals and, if so, to identify those techniques that would be employed for user protection and cybersecurity improvements.}
@@ -43,6 +43,16 @@ abstract = {Electronic mail (email) is one of the most popular communication med
     abstract = "Spanish is an official language in 20 countries; in 19 of them, it arrived by means of overseas colonisation. Its close contact with several coexistent languages and the rich regional and cultural diversity has produced varieties which divert from each other. We study these divergences in a data-based approach and according to their qualitative and quantitative effects in word embeddings. We generate embeddings for Spanish in 24 countries and examine the topology of the spaces. Due to the similarities between varieties {---}in contrast to what happens to different languages in bilingual topological studies{---} we first scrutinise the behaviour of three isomorphism measures in (quasi-)isomorphic settings: relational similarity, Eigenvalue similarity and Gromov-Hausdorff distance. We then use the most trustworthy measure to quantify the divergences among varieties. Finally, we use the departures from isomorphism to build relational trees for the Spanish varieties by hierarchical clustering."
 }
 
+@inproceedings{struss2024overview,
+  title={Overview of the CLEF-2024 CheckThat! Lab task 2 on subjectivity in news articles},
+  author={Stru{\ss}, Julia Maria and Ruggeri, Federico and Barr{\'o}n-Cede{\~n}o, Alberto and Alam, Firoj and Dimitrov, Dimitar and Galassi, Andrea and Pachov, Georgi and Koychev, Ivan and Nakov, Preslav and Siegel, Melanie and others},
+  booktitle={CEUR Workshop Proceedings},
+  volume={3740},
+  pages={287--298},
+  year={2024},
+  organization={CEUR-WS}
+}
+
 @inproceedings{Gajo:24,
   author = "Gajo, Paolo and Barr{\'o}n-Cede{\~n}o, Alberto",
   title = "On Cross-Language Entity Label Projection and Recognition",
@@ -52,10 +62,10 @@ abstract = {Electronic mail (email) is one of the most popular communication med
 }
 
 @inproceedings{Fedotova2024,
-  author = "Fedotova, Alice and Ferraresi, Adriano and Petrović, Maja 
+  author = "Fedotova, Alice and Ferraresi, Adriano and Petrović, Maja
 Miličević and Barr{\'o}n-Cede{\~n}o, Alberto",
-  title = "Constructing a Multimodal, Multilingual Translation and 
-Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for Verbatim 
+  title = "Constructing a Multimodal, Multilingual Translation and
+Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for Verbatim
 Transcription",
   year = "2024",
   journal = "CEUR Workshop Proceedings",
@@ -63,86 +73,125 @@ Transcription",
 }
 
 @inproceedings{clef-checkthat:2024:task3:UniBO,
-  author    = {Gajo, Paolo 
-    and Giordano, Luca  
+  author    = {Gajo, Paolo
+    and Giordano, Luca
     and Barr{\'o}n-Cede{\~n}o, Alberto},
-  title     = {{UniBO at CheckThat}! 2024: Multi-lingual and Multi-label 
-    Persuasion Technique Detection in News with Data Augmentation and 
+  title     = {{UniBO at CheckThat}! 2024: Multi-lingual and Multi-label
+    Persuasion Technique Detection in News with Data Augmentation and
   Sequence-Token Classifiers},
   pages     = {426--434},
-  editor = {Faggioli, Guglielmo and Ferro, Nicola and Galuščáková, Petra and 
+  editor = {Faggioli, Guglielmo and Ferro, Nicola and Galuščáková, Petra and
     {García Seco de Herrera}, Alba},
-  booktitle = "Working Notes of {CLEF} 2024 - Conference and Labs of the 
+  booktitle = "Working Notes of {CLEF} 2024 - Conference and Labs of the
     Evaluation Forum",
   series = "CLEF~2024",
   address = "Grenoble, France",
   year = 2024
 }
 
+
+@inproceedings{hassanain2024overview,
+  title = "Overview of the CLEF-2024 CheckThat! Lab Task 1 on Check-Worthiness Estimation of Multigenre Content",
+  abstract = "We present an overview of the CheckThat! Lab 2024 Task 1, part of CLEF 2024. Task 1 involves determining whether a text item is check-worthy, with a special emphasis on COVID-19, political news, and political debates and speeches. It is conducted in three languages: Arabic, Dutch, and English. Additionally, Spanish was offered for extra training data during the development phase. A total of 75 teams registered, with 37 teams submitting 236 runs and 17 teams submitting system description papers. Out of these, 13, 15 and 26 teams participated for Arabic, Dutch and English, respectively. Among these teams, the use of transformer pre-trained language models (PLMs) was the most frequent. A few teams also employed Large Language Models (LLMs). We provide a description of the dataset, the task setup, including evaluation settings, and a brief overview of the participating systems. As is customary in the CheckThat! Lab, we release all the datasets as well as the evaluation scripts to the research community. This will enable further research on identifying relevant check-worthy content that can assist various stakeholders, such as fact-checkers, journalists, and policymakers.",
+  keywords = "Check-worthiness, fact-checking, multilinguality",
+  author = "Maram Hasanain and Reem Suwaileh and Sanne Weering and Chengkai Li and Tommaso Caselli and Wajdi Zaghouani and Alberto Barr{\'o}n-Cede{\~n}o and Preslav Nakov and Firoj Alam",
+  note = "Publisher Copyright: {\textcopyright} 2024 Copyright for this paper by its authors.; 25th Working Notes of the Conference and Labs of the Evaluation Forum, CLEF 2024 ; Conference date: 09-09-2024 Through 12-09-2024",
+  year = "2024",
+  series = "CEUR Workshop Proceedings",
+  publisher = "CEUR Workshop Proceedings",
+  pages = "276--286",
+  editor = "Guglielmo Faggioli and Nicola Ferro and Petra Galu{\v s}{\v c}{\'a}kov{\'a} and {Garc{\'i}a Seco de Herrera}, Alba",
+  booktitle = "Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024)",
+}
+
+
+@inproceedings{casavantes2024propaltl,
+  title={PropaLTL at DIPROMATS 2024: Cross-lingual Data Augmentation for Propaganda Detection on Tweets},
+  author={Casavantes, Marco and Montes-y-G{\'o}mez, Manuel and Far{\'\i}as, Delia Iraz{\'u} Hern{\'a}ndez and Gonz{\'a}lez-Gurrola, Luis Carlos and Barr{\'o}n-Cede{\~n}o, Alberto},
+  booktitle={IberLEF@ SEPLN},
+  location={Valladolid, Spain},
+  year={2024}
+}
+
 ### 2023 ###
 
-@inproceedings{barron2023clef,   
-  author={Barr{\'o}n-Cede{\~n}o, Alberto and 
-    Alam, Firoj and 
-    Caselli, Tommaso and 
-    Da San Martino, Giovanni and 
-    Elsayed, Tamer and 
-    Galassi, Andrea and 
-    Haouari, Fatima and 
-    Ruggeri, Federico and 
-    Stru{\ss}, Julia Maria and 
-    Nandi, Rabindra Nath and 
+@inproceedings{barron2023clef,
+  author={Barr{\'o}n-Cede{\~n}o, Alberto and
+    Alam, Firoj and
+    Caselli, Tommaso and
+    Da San Martino, Giovanni and
+    Elsayed, Tamer and
+    Galassi, Andrea and
+    Haouari, Fatima and
+    Ruggeri, Federico and
+    Stru{\ss}, Julia Maria and
+    Nandi, Rabindra Nath and
     others},
-  title={The {CLEF}-2023 {C}heck{T}hat! {L}ab: {C}heckworthiness, subjectivity, political bias, factuality, and authority},      
-  booktitle={European Conference on Information Retrieval},   
-  pages={506--517},   
-  year={2023},   
-  publisher={Springer} 
+  title={The {CLEF}-2023 {C}heck{T}hat! {L}ab: {C}heckworthiness, subjectivity, political bias, factuality, and authority},
+  booktitle={European Conference on Information Retrieval},
+  pages={506--517},
+  year={2023},
+  publisher={Springer}
 }
 
-@inproceedings{barron2023report,   
-  author={Barr{\'o}n-Cedeno, Alberto 
-    and Da San Martino, Giovanni 
-    and Esposti, Mirko Degli 
-    and Faggioli, Guglielmo 
-    and Ferro, Nicola 
-    and Hanbury, Allan 
-    and Macdonald, Craig 
-    and Pasi, Gabriella 
-    and Potthast, Martin 
-    and Sebastiani, Fabrizio}, 
-  title={Report on the 13th Conference and Labs of the Evaluation Forum (CLEF 2022) Experimental IR Meets Multilinguality, Multimodality, and Interaction},   
-  booktitle={ACM SIGIR Forum},   
-  volume={56},   
-  number={2},   
-  pages={1--15},   
-  year={2023},   
-  organization={ACM New York, NY, USA} 
+@inproceedings{barron2023report,
+  author={Barr{\'o}n-Cedeno, Alberto
+    and Da San Martino, Giovanni
+    and Esposti, Mirko Degli
+    and Faggioli, Guglielmo
+    and Ferro, Nicola
+    and Hanbury, Allan
+    and Macdonald, Craig
+    and Pasi, Gabriella
+    and Potthast, Martin
+    and Sebastiani, Fabrizio},
+  title={Report on the 13th Conference and Labs of the Evaluation Forum (CLEF 2022) Experimental IR Meets Multilinguality, Multimodality, and Interaction},
+  booktitle={ACM SIGIR Forum},
+  volume={56},
+  number={2},
+  pages={1--15},
+  year={2023},
+  organization={ACM New York, NY, USA}
 }
 
+@inproceedings{janez2023unileon,
+  author={J{\'a}{\~n}ez-Martino, Francisco and Barr{\'o}n-Cede{\~n}o, Alberto},
+  title={UniLeon-UniBO at IberLEF 2023 Task DIPROMATS: RoBERTa-based Models to Climb Up the Propaganda Tree in English and Spanish},
+  booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)},
+  location={Jaén, Spain},
+  year=2023
+}
+
+@inproceedings{casavantes2023propaltl,
+  author={Casavantes, Marco and Montes-y-G{\'o}mez, Manuel and Far{\'\i}as, Delia Iraz{\'u} Hern{\'a}ndez and Gonz{\'a}lez-Gurrola, Luis Carlos and Barr{\'o}n-Cede{\~n}o, Alberto},
+  title={PropaLTL at DIPROMATS: Incorporating Contextual Features with BERT's Auxiliary Input for Propaganda Detection on Tweets},
+  booktitle={Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)},
+  location={Jaén, Spain},
+  year=2023
+}
 ### 2022 ###
 
-@book{barron2022experimental,   
-  editor={Barr{\'o}n-Cede{\~n}o, Alberto 
-    and Da San Martino, Giovanni and 
-    Degli Esposti, Mirko and 
-    Sebastiani, Fabrizio and 
-    Macdonald, Craig and 
-    Pasi, Gabriella and 
-    Hanbury, Allan and 
-    Potthast, Martin and 
-    Faggioli, Guglielmo and 
+@book{barron2022experimental,
+  editor={Barr{\'o}n-Cede{\~n}o, Alberto
+    and Da San Martino, Giovanni and
+    Degli Esposti, Mirko and
+    Sebastiani, Fabrizio and
+    Macdonald, Craig and
+    Pasi, Gabriella and
+    Hanbury, Allan and
+    Potthast, Martin and
+    Faggioli, Guglielmo and
     Ferro, Nicola},
-  title={Experimental IR Meets Multilinguality, Multimodality, and Interaction: 13th International Conference of the CLEF Association, CLEF 2022},      
-  volume={13390},   
-  year={2022},  
+  title={Experimental IR Meets Multilinguality, Multimodality, and Interaction: 13th International Conference of the CLEF Association, CLEF 2022},
+  volume={13390},
+  year={2022},
   url = {https://link.springer.com/book/10.1007/978-3-031-13643-6},
   publisher={Springer Nature},
-  address = {Bologna, Italy} 
+  address = {Bologna, Italy}
 }
 
 @inproceedings{muti-etal-2022-unibo,
-    title = "{U}ni{BO} at {S}em{E}val-2022 Task 5: A Multimodal bi-Transformer 
+    title = "{U}ni{BO} at {S}em{E}val-2022 Task 5: A Multimodal bi-Transformer
 Approach to the Binary and Fine-grained Identification of Misogyny in Memes",
     author = "Muti, Arianna  and
       Korre, Katerina  and
@@ -155,7 +204,7 @@ Approach to the Binary and Fine-grained Identification of Misogyny in Memes",
       Schneider, Nathan  and
       Singh, Siddharth  and
       Ratan, Shyam",
-    booktitle = "Proceedings of the 16th International Workshop on Semantic 
+    booktitle = "Proceedings of the 16th International Workshop on Semantic
 Evaluation (SemEval-2022)",
     month = jul,
     year = "2022",
@@ -164,15 +213,15 @@ Evaluation (SemEval-2022)",
     url = "https://aclanthology.org/2022.semeval-1.91/",
     doi = "10.18653/v1/2022.semeval-1.91",
     pages = "663--672",
-    abstract = "We present our submission to SemEval 2022 Task 5 on Multimedia 
-Automatic Misogyny Identification. We address the two tasks: Task A consists of 
-identifying whether a meme is misogynous. If so, Task B attempts to identify its 
-kind among shaming, stereotyping, objectification, and violence. Our approach 
-combines a BERT Transformer with CLIP for the textual and visual 
-representations. Both textual and visual encoders are fused in an early-fusion 
-fashion through a Multimodal Bidirectional Transformer with unimodally 
-pretrained components. Our official submissions obtain macro-averaged 
-F$_1$=0.727 in Task A (4th position out of 69 participants)and weighted 
+    abstract = "We present our submission to SemEval 2022 Task 5 on Multimedia
+Automatic Misogyny Identification. We address the two tasks: Task A consists of
+identifying whether a meme is misogynous. If so, Task B attempts to identify its
+kind among shaming, stereotyping, objectification, and violence. Our approach
+combines a BERT Transformer with CLIP for the textual and visual
+representations. Both textual and visual encoders are fused in an early-fusion
+fashion through a Multimodal Bidirectional Transformer with unimodally
+pretrained components. Our official submissions obtain macro-averaged
+F$_1$=0.727 in Task A (4th position out of 69 participants)and weighted
 F$_1$=0.710 in Task B (4th position out of 42 participants)."
 }
 
@@ -183,31 +232,31 @@ F$_1$=0.710 in Task B (4th position out of 42 participants)."
 
 @inproceedings{WOS:001352265600019,
   Author = {Nakov, Preslav and Da San Martino, Giovanni and Elsayed, Tamer and
-    Barr{\'o}n-Cede{\~n}o, Alberto and Miguez, Ruben and Shaar, Shaden and 
+    Barr{\'o}n-Cede{\~n}o, Alberto and Miguez, Ruben and Shaar, Shaden and
     Alam, Firoj and Haouari, Fatima and Hasanain, Maram and Mansour, Watheq and
     Hamdan, Bayan and Ali, Zien Sheikh and Babulkov, Nikolay and Nikolov,
     Alex and Shahi, Gautam Kishore and Struss, Julia Maria and Mandl, Thomas
     and Kutlu, Mucahid and Kartal, Yavuz Selim},
-  Editor = {Candan, KS and Ionescu, B and Goeuriot, L and Larsen, B and Muller, 
+  Editor = {Candan, KS and Ionescu, B and Goeuriot, L and Larsen, B and Muller,
 H   and Joly, A and Maistro, M and Piroi, F and Faggioli, G and Ferro, N},
   Title = {Overview of the CLEF-2021 CheckThat! Lab on Detecting Check-Worthy
     Claims, Previously Fact-Checked Claims, and Fake News},
-  Booktitle = {EXPERIMENTAL IR MEETS MULTILINGUALITY, MULTIMODALITY, AND 
+  Booktitle = {EXPERIMENTAL IR MEETS MULTILINGUALITY, MULTIMODALITY, AND
   INTERACTION,
     CLEF 2021},
   Series = {Lecture Notes in Computer Science},
   Year = {2021},
   Volume = {12880},
   Pages = {264-291},
-  Abstract = {We describe the fourth edition of the CheckThat! Lab, part of the 
+  Abstract = {We describe the fourth edition of the CheckThat! Lab, part of the
     2021 Conference and Labs of the Evaluation Forum (CLEF). The lab evaluates
-    technology supporting tasks related to factuality, and covers Arabic,  
+    technology supporting tasks related to factuality, and covers Arabic,
     Bulgarian, English, Spanish, and Turkish. Task 1 asks to predict which
     posts in a Twitter stream are worth fact-checking, focusing on COVID-19
     and politics (in all five languages). Task 2 asks to determine whether a
     claim in a tweet can be verified using a set of previously fact-checked
     claims (in Arabic and English). Task 3 asks to predict the veracity of a
-    news article and its topical domain (in English). The evaluation is based on 
+    news article and its topical domain (in English). The evaluation is based on
     mean average precision or precision at rank k for the ranking
     tasks, and macro-F1 for the classification tasks. This was the most
     popular CLEF-2021 lab in terms of team registrations: 132 teams. Nearly
@@ -221,12 +270,12 @@ H   and Joly, A and Maistro, M and Piroi, F and Faggioli, G and Ferro, N},
 
 @inproceedings{shaar2021overview,
  address = {Bucharest, Romania},
- author = {Shaar, Shaden and Hasanain, Maram and Hamdan, Bayan and Ali, Zien 
-Sheikh and Haouari, Fatima and Nikolov, Alex and Kutlu, Mücahid and Kartal, 
-Yavuz Selim and Alam, Firoj and Da San Martino, Giovanni and 
+ author = {Shaar, Shaden and Hasanain, Maram and Hamdan, Bayan and Ali, Zien
+Sheikh and Haouari, Fatima and Nikolov, Alex and Kutlu, Mücahid and Kartal,
+Yavuz Selim and Alam, Firoj and Da San Martino, Giovanni and
 Barr{\'o}n-Cede{\~n}o, Alberto and others},
  booktitle = {CLEF 2021 Working Notes},
- title = {Overview of the CLEF-2021 CheckThat! lab Task 1 on check-worthiness 
+ title = {Overview of the CLEF-2021 CheckThat! lab Task 1 on check-worthiness
 estimation in tweets and political debates},
  year = {2021}
 }
@@ -235,25 +284,25 @@ estimation in tweets and political debates},
 
 
 @inproceedings{WOS:001352264700017,
-  Author = {Barr{\'o}n-Cede{\~n}o, Alberto and Elsayed, Tamer and 
+  Author = {Barr{\'o}n-Cede{\~n}o, Alberto and Elsayed, Tamer and
 Nakov, Preslav and
     Martino, Giovanni Da San and Hasanain, Maram and Suwaileh, Reem and
     Haouari, Fatima and Babulkov, Nikolay and Hamdan, Bayan and Nikolov,
     Alex and Shaar, Shaden and Ali, Zien Sheikh},
-  Editor = {Arampatzis, A and Kanoulas, E and Tsikrika, T and Vrochidis, S and 
-  Joho, H and Lioma, C and Eickhoff, C and Neveol, A and Cappellato, L and 
+  Editor = {Arampatzis, A and Kanoulas, E and Tsikrika, T and Vrochidis, S and
+  Joho, H and Lioma, C and Eickhoff, C and Neveol, A and Cappellato, L and
 Ferro,   N},
-  Title = {Overview of CheckThat! 2020: Automatic Identification and 
+  Title = {Overview of CheckThat! 2020: Automatic Identification and
 Verification
     of Claims in Social Media},
-  Booktitle = {EXPERIMENTAL IR MEETS MULTILINGUALITY, MULTIMODALITY, AND 
+  Booktitle = {EXPERIMENTAL IR MEETS MULTILINGUALITY, MULTIMODALITY, AND
   INTERACTION,
     CLEF 2020},
   Series = {Lecture Notes in Computer Science},
   Year = {2020},
   Volume = {12260},
   Pages = {215-236},
-  Abstract = {We present an overview of the third edition of the CheckThat! Lab 
+  Abstract = {We present an overview of the third edition of the CheckThat! Lab
     at CLEF 2020. The lab featured five tasks in two different languages:
     English and Arabic. The first four tasks compose the full pipeline of
     claim verification in social media: Task 1 on check-worthiness
@@ -287,11 +336,11 @@ Verification
 
 @inproceedings{shaar2020overview,
  address = {Thessaloniki, Greece},
- author = {Shaar, Shaden and Nikolov, Alex and Babulkov, Nikolay and Alam, Firoj 
-and Barr{\'o}n-Cede{\~n}o, Alberto and Elsayed, Tamer and Hasanain, Maram and 
+ author = {Shaar, Shaden and Nikolov, Alex and Babulkov, Nikolay and Alam, Firoj
+and Barr{\'o}n-Cede{\~n}o, Alberto and Elsayed, Tamer and Hasanain, Maram and
 Suwaileh, Reem and Haouari, Fatima and Da San Martino, Giovanni and others},
  booktitle = {CLEF 2020 Working Notes},
- title = {Overview of CheckThat! 2020 English: Automatic identification and 
+ title = {Overview of CheckThat! 2020 English: Automatic identification and
 verification of claims in social media},
  year = {2020}
 }
@@ -303,8 +352,8 @@ verification of claims in social media},
  doi = {https://doi.org/10.1016/j.knosys.2013.06.018},
  issn = {0950-7051},
  journal = {Knowledge-Based Systems},
- keywords = {Automatic plagiarism detection, Cross-language plagiarism, 
-Plagiarism detection architecture, Cross-language similarity, Text re-use 
+ keywords = {Automatic plagiarism detection, Cross-language plagiarism,
+Plagiarism detection architecture, Cross-language similarity, Text re-use
 analysis},
  pages = {211-217},
  title = {Methods for cross-language plagiarism detection},
@@ -319,7 +368,7 @@ analysis},
 
 @article{data7030029,
  article-number = {29},
- author = {Chaudhari, Deptii and Pawar, Ambika Vishal and Barrón-Cedeño, 
+ author = {Chaudhari, Deptii and Pawar, Ambika Vishal and Barrón-Cedeño,
 Alberto},
  doi = {10.3390/data7030029},
  issn = {2306-5729},
@@ -343,7 +392,7 @@ Alberto},
   month = {December},
   pages = {1377--1414},
   publisher = {International Committee for Computational Linguistics},
-  title = {SemEval-2020 Task 11: Detection of Propaganda Techniques in News 
+  title = {SemEval-2020 Task 11: Detection of Propaganda Techniques in News
   Articles},
   url = {https://aclanthology.org/2020.semeval-1.186},
   year = {2020}
@@ -357,13 +406,13 @@ Alberto},
     Yu, Seunghak  and
     Barr{\'o}n-Cede{\~n}o, Alberto  and
     Nakov, Preslav},
-  booktitle = {Proceedings of the 58th Annual Meeting of the Association for 
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for
     Computational Linguistics: System Demonstrations},
   doi = {10.18653/v1/2020.acl-demos.32},
   month = {July},
   pages = {287--293},
   publisher = {Association for Computational Linguistics},
-  title = {Prta: A System to Support the Analysis of Propaganda Techniques in 
+  title = {Prta: A System to Support the Analysis of Propaganda Techniques in
     the News},
   url = {https://aclanthology.org/2020.acl-demos.32},
   year = {2020}
@@ -380,13 +429,13 @@ Filice, Simone  and
 Màrquez, Lluís  and
 Moschitti, Alessandro  and
 Nakov, Preslav},
- booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural 
+ booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural
 Language Processing},
  doi = {10.18653/v1/D15-1068},
  month = {September},
  pages = {573--578},
  publisher = {Association for Computational Linguistics},
- title = {Global Thread-level Inference for Comment Classification in Community 
+ title = {Global Thread-level Inference for Comment Classification in Community
 Question Answering},
  url = {https://aclanthology.org/D15-1068},
  year = {2015}
@@ -418,7 +467,7 @@ and Zaghouani, Wajdi
 and Atanasova, Pepa
 and Kyuchukov, Spas
 and Da San Martino, Giovanni},
- booktitle = {Experimental IR Meets Multilinguality, Multimodality, and 
+ booktitle = {Experimental IR Meets Multilinguality, Multimodality, and
 Interaction},
  editor = {Bellot, Patrice
 and Trabelsi, Chiraz
@@ -432,7 +481,7 @@ and Ferro, Nicola},
  isbn = {978-3-319-98932-7},
  pages = {372--387},
  publisher = {Springer International Publishing},
- title = {Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification 
+ title = {Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification
 and Verification of Political Claims},
  year = {2018}
 }
@@ -1707,9 +1756,9 @@ Barrón-cedeño, Alberto},
 
 @inproceedings{gajo2023identification,
  address = {Varna, Bulgaria},
- author = {Gajo, Paolo and Muti, Arianna and Korre, Katerina and Bernardini, 
+ author = {Gajo, Paolo and Muti, Arianna and Korre, Katerina and Bernardini,
 Silvia and Barr{\'o}n-Cede{\~n}o, Alberto},
- booktitle = {Proceedings of the 2023 International Conference on Recent 
+ booktitle = {Proceedings of the 2023 International Conference on Recent
 Advances in Natural Language Processing (RANLP 2023)},
  title = {On the Identification and Forecasting of Hate Speech in Inceldom},
  year = {2023}
@@ -2195,5 +2244,3 @@ isbn="978-3-031-56069-9"
     pages = "12700--12711",
     abstract = "Misogyny is often expressed through figurative language. Some neutral words can assume a negative connotation when functioning as pejorative epithets. Disambiguating the meaning of such terms might help the detection of misogyny. In order to address such task, we present PejorativITy, a novel corpus of 1,200 manually annotated Italian tweets for pejorative language at the word level and misogyny at the sentence level. We evaluate the impact of injecting information about disambiguated words into a model targeting misogyny detection. In particular, we explore two different approaches for injection: concatenation of pejorative information and substitution of ambiguous words with univocal terms. Our experimental results, both on our corpus and on two popular benchmarks on Italian tweets, show that both approaches lead to a major classification improvement, indicating that word sense disambiguation is a promising preliminary step for misogyny detection. Furthermore, we investigate LLMs{'} understanding of pejorative epithets by means of contextual word embeddings analysis and prompting.",
 }
-
-

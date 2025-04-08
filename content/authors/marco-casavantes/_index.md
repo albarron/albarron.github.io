@@ -24,7 +24,7 @@ role: PhD student
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -166,5 +166,8 @@ authors:
 - marco-casavantes
  # Organizational groups that you belong to (for People widget)
 ---
-<!--**Masters dissertation**<br/>
-Giordano, Luca (2024) [On the Automatic Multilingual Detection of Persuasion Techniques in the News: A Natural Language Processing Approach](). Università di Bologna, Corso di Studio in Specialized translation - Forli-->
+**PhD dissertation**<br/>
+Casavantes Moreno, Marco Emanuel (2025) [A Multidimensional Analysis of Text for 
+Automated Detection of Computational Propaganda in Twitter](). Instituto 
+Nacional de Astrofísica, Óptica y Electrónica, PhD in Computer Science - 
+Tonanzintla, Mexico

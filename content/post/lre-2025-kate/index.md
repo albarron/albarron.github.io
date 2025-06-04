@@ -3,10 +3,9 @@ title: 📈 New paper published at LRE (if. 1.7)
 summary: 
 date: 2025-05-24
 tags:
-  - NLP
-  - persuasion
-  - cybersecurity
-  - ESWA
+  - harmful language annotation
+  - hatespeech perception
+  - LRE
 image:
   caption: 'A snapshot of the paper'
   

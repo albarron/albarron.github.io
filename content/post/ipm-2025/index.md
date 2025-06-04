@@ -1,9 +1,8 @@
 ---
-title: 📈 New paper published at IP&B (if. 7.4)
+title: 📈 New paper published at IPM (if. 7.4)
 summary: 
 date: 2025-06-04
 tags:
-  - NLP
   - knowledge graph construction
   - large language models
   - Code language models

@@ -1,7 +1,7 @@
 ---
 title: 📈 New paper published at IP&B (if. 7.4)
 summary: 
-date: 2025-09-01
+date: 2025-06-04
 tags:
   - NLP
   - knowledge graph construction

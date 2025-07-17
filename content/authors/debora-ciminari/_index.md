@@ -171,5 +171,8 @@ authors:
 
 **Masters dissertation**
 
-Ciminari, Debora (2025) [A Tough Row to Hoe: Prompting LLaMA 3.2 for Multilingual Idiom Disambiguation and Identification](). Università di Bologna, Corso di 
+Ciminari, Debora (2025) [A Tough Row to Hoe: Prompting LLaMA 3.2 for 
+Multilingual Idiom Disambiguation and 
+Identification](https://amslaurea.unibo.it/id/eprint/35413/). Università di 
+Bologna, Corso di 
 Studio in Specialized Translation - Forli

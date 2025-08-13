@@ -169,5 +169,10 @@ authors:
  # Organizational groups that you belong to (for People widget)
 ---
 
-<!--**Masters dissertation**<br/>
-[Decoding Medical Dramas: Identifying Isotopies through Multimodal Classification](https://amslaurea.unibo.it/29006/) -->
+**Masters dissertation**
+
+Ciminari, Debora (2025) [A Tough Row to Hoe: Prompting LLaMA 3.2 for 
+Multilingual Idiom Disambiguation and 
+Identification](https://amslaurea.unibo.it/id/eprint/35413/). Università di 
+Bologna, Corso di 
+Studio in Specialized Translation - Forli

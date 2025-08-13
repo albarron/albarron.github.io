@@ -229,3 +229,6 @@ research fellow at
 [TALP](http://www.talp.upc.edu/).
 
 <!-- [SUCL](https://docs.google.com/presentation/d/1RjfLhbRz0v-fvag-IMo2e--tBY2efEDhKeRzw9Htt34/edit?usp=sharing), [artusiana](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game),  [ff](https://nt.dipintra.it/falsefriends) -->
+
+[Artusiana](https://docs.google.com/presentation/d/19_9edUbR4i-Lu-s83XPUi1wtnHmERBSdQtE3OgIRDjE/edit?usp=sharing), [GastroGenius](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game)
+

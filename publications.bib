@@ -33,6 +33,29 @@ keywords = {Social engineering, Persuasion detection, Spam email, Cybersecurity}
 abstract = {Electronic mail (email) is one of the most popular communication media for direct and private communication. Being typically a free service and anonymity-friendly, massive spam email campaigns are common. Nowadays, spam email encompasses scam, phishing, malware distribution, and various other cybersecurity threats. Within these emails, recipients frequently encounter social engineering techniques aimed at persuading them to take an action, such as clicking on a hyperlink, opening an attachment or responding. In this paper, we conduct a study on supervised models to identify persuasion (binary classification) and to identify the specific persuasion techniques that are commonly used in spam email (multilabel classification). To achieve this, we develop systems capable of spotting persuasion in spam emails based on natural language processing techniques. We approach this challenging task at different levels of granularity: full email, sentences and specific text snippets (i.e. text fragments composed by one or more words, typically shorter than a sentence). We replicate and adapt two methodologies used to detect propaganda in news articles. Additionally, we build a custom spam email dataset, and fine-tune pre-trained RoBERTa-based transformer models to tackle the sentence level detection. This allows us to determine how extensively spam emails rely on persuasion to achieve their goals and, if so, to identify those techniques that would be employed for user protection and cybersecurity improvements.}
 }
 
+@inproceedings{mainardi-etal-2025-fine,
+    title = "Fine-Tuning vs Prompting Techniques for Gender-Fair Rewriting of Machine Translations",
+    author = "Mainardi, Paolo  and
+      Garcea, Federico  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = "Fale{\'n}ska, Agnieszka  and
+      Basta, Christine  and
+      Costa-juss{\`a}, Marta  and
+      Sta{\'n}czak, Karolina  and
+      Nozza, Debora",
+    booktitle = "Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)",
+    month = aug,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.gebnlp-1.28/",
+    doi = "10.18653/v1/2025.gebnlp-1.28",
+    pages = "320--337",
+    ISBN = "979-8-89176-277-0",
+    abstract = "Increasing attention is being dedicated by the NLP community to gender-fair practices, including emerging forms of non-binary language. Given the shift to the prompting paradigm for multiple tasks, direct comparisons between prompted and fine-tuned models in this context are lacking. We aim to fill this gap by comparing prompt engineering and fine-tuning techniques for gender-fair rewriting in Italian. We do so by framing a rewriting task where Italian gender-marked translations from English gender-ambiguous sentences are adapted into a gender-neutral alternative using direct non-binary language. We augment existing datasets with gender-neutral translations and conduct experiments to determine the best architecture and approach to complete such task, by fine-tuning and prompting seq2seq encoder-decoder and autoregressive decoder-only models. We show that smaller seq2seq models can reach good performance when fine-tuned, even with relatively little data; when it comes to prompts, including task demonstrations is crucial, and we find that chat-tuned models reach the best results in a few-shot setting. We achieve promising results, especially in contexts of limited data and resources."
+}
+
+
 ### 2024 ###
 
 @inproceedings{espana-bonet-etal-2024-elote,

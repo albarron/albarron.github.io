@@ -230,5 +230,7 @@ research fellow at
 
 <!-- [SUCL](https://docs.google.com/presentation/d/1RjfLhbRz0v-fvag-IMo2e--tBY2efEDhKeRzw9Htt34/edit?usp=sharing), [artusiana](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game),  [ff](https://nt.dipintra.it/falsefriends) -->
 
-[Artusiana](https://docs.google.com/presentation/d/19_9edUbR4i-Lu-s83XPUi1wtnHmERBSdQtE3OgIRDjE/edit?usp=sharing), [GastroGenius](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game)
+<!--[Artusiana](https://docs.google.com/presentation/d/19_9edUbR4i-Lu-s83XPUi1wtnHmERBSdQtE3OgIRDjE/edit?usp=sharing), [GastroGenius](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game) -->
+
+[FI](https://docs.google.com/presentation/d/1uoW79PaHLwnTi08HQR_E2CYdNlAe6nLpldY5X0irgo8/edit?usp=sharing)
 

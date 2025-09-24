@@ -163,13 +163,7 @@ This year, NLP has two _sibling_ lessons:
 - Selected Topics in Natural Language Processing is an optional (with credits). Further information about it is available on the [UniBO website](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/508809). Table 2 shows the calendar of the 8 lessons.
 - Tutorato of NLP is made to support **you** in the programming side of NLP. Table 3 shows the calendar of the 10 lessons.
 
-{{< table path="calendar_nlp.csv" header="true" caption="Table 1: Calendar overviewing all 20 NLP planned lessons." >}}
 
-{{< table path="calendar_selnlp.csv" header="true" caption="Table 2: Calendar overviewing all 8 Selected Topics in NLP planned lessons." >}}
-
-(1) ImprenDITori di se stessi. TH aula 10
-
-{{< table path="calendar_tutorato.csv" header="true" caption="Table 3: Calendar overviewing all 10 NLP _tutorato_." >}} 
 -->
 
 
@@ -192,7 +186,7 @@ _yours will be here_
 * Forzatti A. (2025)
   Benchmarking Bilingual Text Anonymization and Automatic Term Extraction Approaches<br />
   [🗎](/uploads/nlp25/dit_nlp25_finalproject_Forzatti.pdf)
-  
+
 ### 2023-2024
 
 * Cupin E., Galiero L., and Ciminari D. (2023).

@@ -160,11 +160,10 @@ This year, NLP has one _sibling_ lesson:
 
 - Selected Topics in Natural Language Processing is an optional (with credits). 
 Further information about it is available on the [UniBO 
-website](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2025/508811). Table 2 shows the 
-calendar of the 8 lessons.
+website](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2025/508811). 
+Table 1 shows the calendar of the 8 lessons.
 
-{{< table path="calendar_selnlp.csv" header="true" caption="Table 2: Calendar 
-overviewing all 8 Selected Topics in NLP planned lessons." >}}
+{{< table path="calendar_selnlp.csv" header="true" caption="Table 1: Calendar overviewing all 8 Selected Topics in NLP planned lessons." >}}
 <!--
 - Tutorato of NLP is made to support **you** in the programming side of NLP. 
 Table 3 shows the calendar of the 10 lessons.

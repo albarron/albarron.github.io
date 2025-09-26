@@ -52,7 +52,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 1. Introduction to Natural Language Processing
 
-<!-- - MO 30/09/24 [Slides](/uploads/nlp24/01_dit_nlp_handout.pdf) 1. Introduction  -->
+- MO 29/09/24 [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) 1. Introduction
 
 ### 2. Words and the vector space model
 

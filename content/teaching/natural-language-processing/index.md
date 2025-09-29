@@ -176,7 +176,10 @@ For your final mark, [80% comes from the final project](https://www.unibo.it/it/
 
 ### Some project ideas
 
-Eventually, I will drop here some ideas for final projects.
+- Given an entry from a restaurant menu, split into name, description, and 
+price.
+
+Eventually, I will drop here more ideas for final projects.
 
 ## Previous final projects {#nlp_projects}
 

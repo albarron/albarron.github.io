@@ -52,58 +52,83 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 1. Introduction to Natural Language Processing
 
-- MO 29/09/24 [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) 1. Introduction
+- MO 29/09/24 [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) Lesson 1. 
+Introduction
 
 ### 2. Words and the vector space model
 
-<!-- - WE 02/10/24 [Slides](/uploads/nlp24/02_dit_nlp_handout.pdf) 2. Tokens and normalisation
-- WE 02/10/24 [Notebook](/uploads/nlp24/02_dit_nlp_words.ipynb) 2. Tokens and normalisation
-- WE 09/10/24 [Slides](/uploads/nlp24/03_dit_nlp_handout.pdf) 3. Vector Space Model
-- WE 09/10/24 [Notebook on VSM](/uploads/nlp24/03_dit_nlp_tokens.ipynb) 3. Vector Space Model -->
+- WE 01/10/25 [Slides](/uploads/nlp25/02_dit_nlp_handout.pdf) Lesson 2. 
+Tokens and normalisation
+- WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) Lesson 2. 
+Tokens and normalisation
+<!--- WE 09/10/24 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) 3. Vector 
+Space Model
+- WE 09/10/24 [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) 3. 
+Vector Space Model-->
 
 ### 3. Rule-based and Naïve Bayes
-<!-- - TH 10/10/24 [Slides](/uploads/nlp24/04_dit_nlp_handout.pdf) 4. Rule-based sentiment analysis and Naive Bayes 
-- TH 10/10/24 [Notebook on RB sentiment](/uploads/nlp24/04_dit_nlp_rulebasedsentiment.ipynb) 4. Rule-based sentiment analysis 
-- WE 16/10/24  [Notebook on Naïve Bayes](/uploads/nlp24/05_dit_nlp_naivebayes.ipynb) 5. Naive Bayes 
+<!-- - TH 10/10/24 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 4. Rule-based 
+sentiment analysis and Naive Bayes 
+- TH 10/10/24 [Notebook on RB 
+sentiment](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) 4. Rule-based 
+sentiment analysis 
+- WE 16/10/24  [Notebook on Naïve 
+Bayes](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 5. Naive Bayes 
  -->
 
 ### 4. Word vectors
-<!-- - TH 17/10/24 [Slides](/uploads/nlp24/06_dit_nlp_handout.pdf) 6. Term Frequency–Inverse Document Frequency
-- ~~TH 17/10/24~~ WE 23/10/24 [Notebook](/uploads/nlp24/06_dit_nlp_tf_idf.ipynb) 7. Term Frequency–Inverse Document Frequency
+<!-- - TH 17/10/24 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) 6. Term 
+Frequency–Inverse Document Frequency
+- ~~TH 17/10/24~~ WE 23/10/24 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
+7. Term Frequency–Inverse Document Frequency
   -->
 
 ### 5. From Word Counts to Meaning
 
-<!-- - ~~WE 23/10/24~~ TH 24/10/24 [Slides](/uploads/nlp24/07_dit_nlp_handout.pdf) 8. From word counts to meaning (introducing topic modelling)
-- ~~WE 23/10/23~~ TH 24/10/24 [Notebook on topic modelling](/uploads/nlp24/07_dit_nlp_topicmodeling.ipynb) 8. From word counts to meaning (introducing topic modelling) -->
+<!-- - ~~WE 23/10/24~~ TH 24/10/24 
+[Slides](/uploads/nlp25/07_dit_nlp_handout.pdf) 8. From word counts to meaning 
+(introducing topic modelling)
+- ~~WE 23/10/23~~ TH 24/10/24 [Notebook on topic 
+modelling](/uploads/nlp25/07_dit_nlp_topicmodeling.ipynb) 8. From word counts to 
+meaning (introducing topic modelling) -->
 
 <!-- THIS LESSON WAS NOT OFFERED IN  2024
 - 24/10/23 [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf)
 - 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->
 
 ### 6. Training and Evaluation
-<!-- - 30/10/23 [Slides](/uploads/nlp24/09_dit_nlp_handout.pdf) 9. Training and evaluation
-- 30/10/23 [Notebook](/uploads/nlp24/09_dit_nlp_traineval.ipynb) 9. Training and evaluation -->
+<!-- - 30/10/23 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf) 9. Training and 
+evaluation
+- 30/10/23 [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 9. Training and 
+evaluation -->
 
 ### 7. Intro to NN
-<!-- - 31/10/23 [Slides](/uploads/nlp24/10_dit_nlp_handout.pdf) 10. One neuron (perceptron)
-- 31/10/23 [Notebook](/uploads/nlp24/10_dit_nlp_nn.ipynb) 10. One neuron (perceptron) -->
+<!-- - 31/10/23 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) 10. One neuron 
+(perceptron)
+- 31/10/23 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) 10. One neuron 
+(perceptron) -->
 
 **Intermezzo**
 
-<!-- - 13/11/23 [Slides](/uploads/nlp24/11_dit_nlp_handout.pdf) 11. Neural networks and keras
-- 13/11/23 [Notebook](/uploads/nlp24/11_dit_nlp_keras.ipynb) 11. Neural networks and keras -->
+<!-- - 13/11/23 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) 11. Neural 
+networks and keras
+- 13/11/23 [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb) 11. Neural networks 
+and keras -->
 
 ### 8. Word Embeddings
-<!-- - 14/11/24 [Slides](/uploads/nlp24/12_dit_nlp_handout.pdf) 12. Word2vec
-- 18/11/24 [Slides](/uploads/nlp24/13_dit_nlp_handout.pdf) 13. Hands on word embeddings
-- 18/11/24 [Notebook](/uploads/nlp24/13_dit_nlp_embeddings.ipynb) 13. Hands on word embeddings
+<!-- - 14/11/24 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) 12. Word2vec
+- 18/11/24 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) 13. Hands on word 
+embeddings
+- 18/11/24 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 13. Hands on 
+word embeddings
    -->
 
 ### 9. Doc2Vec
-<!-- - 20/11/24 [Slides](/uploads/nlp24/14_dit_nlp_handout.pdf) 14. From word back to document representations (doc2vec)
-- 20/11/24 [Notebook](/uploads/nlp24/14_dit_nlp_d2v.ipynb) 14. From word back to document representations (doc2vec) -->
-<!-- - 14/11/23 [Project reminder](/uploads/nlp24/14_dit_nlp_projects.pdf) -->
+<!-- - 20/11/24 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) 14. From word 
+back to document representations (doc2vec)
+- 20/11/24 [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb) 14. From word back to 
+document representations (doc2vec) -->
+<!-- - 14/11/23 [Project reminder](/uploads/nlp25/14_dit_nlp_projects.pdf) -->
 
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO
 ### 10. Visualisation
@@ -113,29 +138,32 @@ Whereas the contents could be (slightly) adapted according to the students skill
  -->
 
 ### 10. Convolutions for  text
-<!-- - 27/11/24 [Slides](/uploads/nlp24/15_dit_nlp_handout.pdf) 15. CNNs
-- 27/11/24 [Notebook](/uploads/nlp24/15_dit_nlp_cnn.ipynb) 15. CNNs -->
+<!-- - 27/11/24 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) 15. CNNs
+- 27/11/24 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) 15. CNNs -->
 
 
 ### 11. Text is Sequential / LSTM
-<!-- - 28/11/24 [Slides](/uploads/nlp24/16_dit_nlp_handout.pdf) 16. RNNs
-- 28/11/24 [Notebook](/uploads/nlp24/16_dit_nlp_rnn.ipynb) 16. RNNs
-- 02/12/24 [Slides](/uploads/nlp24/17_dit_nlp_handout.pdf) 17 BiRNNs and LSTMs
-- 02/12/24 [Notebook](/uploads/nlp24/17_dit_nlp_brnn.ipynb) 17. BiRNNs
-- 02/12/24 [Notebook](/uploads/nlp24/17_dit_nlp_lstm.ipynb) 17. LSTMs -->
+<!-- - 28/11/24 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) 16. RNNs
+- 28/11/24 [Notebook](/uploads/nlp25/16_dit_nlp_rnn.ipynb) 16. RNNs
+- 02/12/24 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) 17 BiRNNs and LSTMs
+- 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_brnn.ipynb) 17. BiRNNs
+- 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_lstm.ipynb) 17. LSTMs -->
 
 ### - CLIC-it 2024
-<!-- - [Poster 1](/uploads/nlp24/clic24_eptic.pdf) Constructing a Multimodal, 
+<!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 
 Multilingual Translation
 and Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for 
 Verbatim Transcription
-- [Poster 2](/uploads/nlp24/clic24_projection.pdf) On Cross-Language Entity 
+- [Poster 2](/uploads/nlp25/clic24_projection.pdf) On Cross-Language Entity 
 Label Projection and Recognition -->
 
 ### 12. Text generation
-<!-- - 09/12/24 [Slides](/uploads/nlp24/18_dit_nlp_handout.pdf) 18. LSTM: characters and generation
-- 09/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_chars.ipynb) 18. LSTM: characters
-- ~~09/12/24~~11/12/24 [Notebook](/uploads/nlp24/18_dit_nlp_lstm_gen.ipynb) 19. LSTM: generation -->
+<!-- - 09/12/24 [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) 18. LSTM: 
+characters and generation
+- 09/12/24 [Notebook](/uploads/nlp25/18_dit_nlp_chars.ipynb) 18. LSTM: 
+characters
+- ~~09/12/24~~11/12/24 [Notebook](/uploads/nlp25/18_dit_nlp_lstm_gen.ipynb) 19. 
+LSTM: generation -->
 
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
@@ -143,8 +171,10 @@ modification**
 ----->
 ### 13. Intro to Seq2Seq and Transformers
 
-<!-- - 16/12/24 [Slides](/uploads/nlp24/19_dit_nlp_handout.pdf) 20. Into Transformers
-- 16/12/24 [Slides](/uploads/nlp24/20_dit_nlp_handout.pdf) 20. Beyond; [attention gif](/uploads/nlp24/transform20fps.gif) -->
+<!-- - 16/12/24 [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) 20. Into 
+Transformers
+- 16/12/24 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 20. Beyond; 
+[attention gif](/uploads/nlp25/transform20fps.gif) -->
 
 ### 14. A brief intro to LLMs + Closing Remaks
 

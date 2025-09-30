@@ -52,14 +52,14 @@ Whereas the contents could be (slightly) adapted according to the students skill
 
 ### 1. Introduction to Natural Language Processing
 
-- MO 29/09/24 [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) Lesson 1. 
+- Lesson 1. MO 29/09/24 [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf)
 Introduction
 
 ### 2. Words and the vector space model
 
-- WE 01/10/25 [Slides](/uploads/nlp25/02_dit_nlp_handout.pdf) Lesson 2. 
+- Lesson 2. WE 01/10/25 [Slides](/uploads/nlp25/02_dit_nlp_handout.pdf) 
 Tokens and normalisation
-- WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) Lesson 2. 
+- Lesson 2. WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) 
 Tokens and normalisation
 <!--- WE 09/10/24 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) 3. Vector 
 Space Model

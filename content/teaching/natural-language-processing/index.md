@@ -63,9 +63,9 @@ Tokens and normalisation
 Tokens and normalisation
 - Lesson 3. WE 09/10/24 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
 Space Model
-<!--
-- WE 09/10/24 [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) 3. 
-Vector Space Model-->
+
+- Lesson 3. WE 09/10/24 [Notebook on 
+VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) Vector Space Model
 
 ### 3. Rule-based and Naïve Bayes
 <!-- - TH 10/10/24 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 4. Rule-based 

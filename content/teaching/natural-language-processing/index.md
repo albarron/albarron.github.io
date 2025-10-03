@@ -61,8 +61,9 @@ Introduction
 Tokens and normalisation
 - Lesson 2. WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) 
 Tokens and normalisation
-<!--- WE 09/10/24 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) 3. Vector 
+- Lesson 3. WE 09/10/24 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
 Space Model
+<!--
 - WE 09/10/24 [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) 3. 
 Vector Space Model-->
 

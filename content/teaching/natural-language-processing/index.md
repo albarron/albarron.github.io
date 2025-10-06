@@ -220,6 +220,12 @@ _yours will be here_
 
 ### 2024-2025
 
+* Santangelo D.P. (2025)
+  No Stupid Questions, Only Labeled Ones: Intent Classification for University 
+  FAQs
+  <br />
+  [🗎](/uploads/nlp25/dit_nlp25_finalproject_Santangelo.pdf)
+
 * Forzatti A. (2025)
   Benchmarking Bilingual Text Anonymization and Automatic Term Extraction Approaches<br />
   [🗎](/uploads/nlp25/dit_nlp25_finalproject_Forzatti.pdf)

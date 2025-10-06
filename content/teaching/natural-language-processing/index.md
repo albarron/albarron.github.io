@@ -66,10 +66,10 @@ Space Model
 - Lesson 3. LU 06/10/25 
  [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) Vector Space Model
 
-### 3. Rule-based and Naïve Bayes
+### 3. Rule-based and Naïve Bayes' classifier
 
 - Lesson 4. WE 08/10/25 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 
-Rule-based sentiment analysis and Naive Bayes 
+Rule-based sentiment analysis and Naïve Bayes 
 <!-- 
 - WE 10/10/25 [Notebook on RB 
 sentiment](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) 4. Rule-based 

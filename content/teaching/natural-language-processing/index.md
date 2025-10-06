@@ -61,35 +61,37 @@ Introduction
 Tokens and normalisation
 - Lesson 2. WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) 
 Tokens and normalisation
-- Lesson 3. WE 09/10/24 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
+- Lesson 3. LU 06/10/25 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
 Space Model
-
-- Lesson 3. WE 09/10/24 [Notebook on 
-VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) Vector Space Model
+- Lesson 3. LU 06/10/25 
+ [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) Vector Space Model
 
 ### 3. Rule-based and Naïve Bayes
-<!-- - TH 10/10/24 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 4. Rule-based 
-sentiment analysis and Naive Bayes 
-- TH 10/10/24 [Notebook on RB 
+
+- Lesson 4. WE 08/10/25 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 
+Rule-based sentiment analysis and Naive Bayes 
+<!-- 
+- WE 10/10/25 [Notebook on RB 
 sentiment](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) 4. Rule-based 
 sentiment analysis 
-- WE 16/10/24  [Notebook on Naïve 
+- WE 16/10/25  [Notebook on Naïve 
 Bayes](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 5. Naive Bayes 
  -->
 
 ### 4. Word vectors
-<!-- - TH 17/10/24 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) 6. Term 
+<!-- - LU 17/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) 6. Term 
 Frequency–Inverse Document Frequency
-- ~~TH 17/10/24~~ WE 23/10/24 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
+- ~~TH 17/10/25~~ WE 23/10/25 
+[Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
 7. Term Frequency–Inverse Document Frequency
   -->
 
 ### 5. From Word Counts to Meaning
 
-<!-- - ~~WE 23/10/24~~ TH 24/10/24 
+<!-- - ~~WE 23/10/25~~ TH 24/10/25 
 [Slides](/uploads/nlp25/07_dit_nlp_handout.pdf) 8. From word counts to meaning 
 (introducing topic modelling)
-- ~~WE 23/10/23~~ TH 24/10/24 [Notebook on topic 
+- ~~WE 23/10/23~~ TH 24/10/25 [Notebook on topic 
 modelling](/uploads/nlp25/07_dit_nlp_topicmodeling.ipynb) 8. From word counts to 
 meaning (introducing topic modelling) -->
 
@@ -117,17 +119,18 @@ networks and keras
 and keras -->
 
 ### 8. Word Embeddings
-<!-- - 14/11/24 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) 12. Word2vec
-- 18/11/24 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) 13. Hands on word 
+<!-- - 14/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) 12. Word2vec
+- 18/11/25 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) 13. Hands on word 
 embeddings
-- 18/11/24 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 13. Hands on 
+- 18/11/25 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 13. Hands on 
 word embeddings
    -->
 
 ### 9. Doc2Vec
-<!-- - 20/11/24 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) 14. From word 
+<!-- - 20/11/25 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) 14. From word 
 back to document representations (doc2vec)
-- 20/11/24 [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb) 14. From word back to 
+- 20/11/25 [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb) 14. From word back 
+to 
 document representations (doc2vec) -->
 <!-- - 14/11/23 [Project reminder](/uploads/nlp25/14_dit_nlp_projects.pdf) -->
 
@@ -139,13 +142,13 @@ document representations (doc2vec) -->
  -->
 
 ### 10. Convolutions for  text
-<!-- - 27/11/24 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) 15. CNNs
-- 27/11/24 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) 15. CNNs -->
+<!-- - 27/11/25 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) 15. CNNs
+- 27/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) 15. CNNs -->
 
 
 ### 11. Text is Sequential / LSTM
-<!-- - 28/11/24 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) 16. RNNs
-- 28/11/24 [Notebook](/uploads/nlp25/16_dit_nlp_rnn.ipynb) 16. RNNs
+<!-- - 28/11/25 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) 16. RNNs
+- 28/11/25 [Notebook](/uploads/nlp25/16_dit_nlp_rnn.ipynb) 16. RNNs
 - 02/12/24 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) 17 BiRNNs and LSTMs
 - 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_brnn.ipynb) 17. BiRNNs
 - 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_lstm.ipynb) 17. LSTMs -->

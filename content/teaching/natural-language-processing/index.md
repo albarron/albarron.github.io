@@ -69,14 +69,17 @@ Space Model
 ### 3. Rule-based and Naïve Bayes' classifier
 
 - Lesson 4. WE 08/10/25 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 
-Rule-based sentiment analysis (and Naïve Bayes)
+Rule-based sentiment analysis 
 - Lesson 4. WE 10/10/25 
 [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) Rule-based 
 sentiment analysis 
 
+- Lesson 5. WE 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
+Bayes' classifier
+
 <!-- 
-- WE 16/10/25  [Notebook on Naïve 
-Bayes](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 5. Naive Bayes 
+- Lesson 6. WE 15/10/25  [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 
+Naïve Bayes' classifier
  -->
 
 ### 4. Word vectors

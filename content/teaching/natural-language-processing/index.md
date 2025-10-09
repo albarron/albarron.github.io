@@ -77,7 +77,7 @@ sentiment analysis
 - Lesson 5. WE 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
 Bayes' classifier
 - Lesson 5. WE 13/10/25  [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 
-Naïve Bayes' classifier
+Naïve Bayes' classifier 
 
 ### 4. Word vectors
 - Lesson 6. LU 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 

@@ -70,7 +70,7 @@ Space Model
 
 - Lesson 4. WE 08/10/25 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 
 Rule-based sentiment analysis 
-- Lesson 4. WE 10/10/25 
+- Lesson 4. WE 08/10/25 
 [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) Rule-based 
 sentiment analysis 
 
@@ -80,12 +80,13 @@ Bayes' classifier
 Naïve Bayes' classifier
 
 ### 4. Word vectors
-<!-- - LU 17/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) 6. Term 
+- Lesson 6. LU 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
 Frequency–Inverse Document Frequency
-- ~~TH 17/10/25~~ WE 23/10/25 
-[Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
-7. Term Frequency–Inverse Document Frequency
-  -->
+- Lesson 6. WE 15/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
+Term Frequency–Inverse Document Frequency
+<!-- 
+- ~~TH 17/10/25~~ 
+-->
 
 ### 5. From Word Counts to Meaning
 

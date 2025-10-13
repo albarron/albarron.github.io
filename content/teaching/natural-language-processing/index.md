@@ -74,13 +74,15 @@ Rule-based sentiment analysis
 [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) Rule-based 
 sentiment analysis 
 
-- Lesson 5. WE 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
+- Lesson 5. LU 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
 Bayes' classifier
-- Lesson 5. WE 13/10/25  [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 
+- Lesson 5. LU 13/10/25  [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 
 Naïve Bayes' classifier 
 
+(we start Lesson 6 with the computation of the features in NB from Lesson 5)
+
 ### 4. Word vectors
-- Lesson 6. LU 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
+- Lesson 6. ME 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
 Frequency–Inverse Document Frequency
 - Lesson 6. WE 15/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
 Term Frequency–Inverse Document Frequency

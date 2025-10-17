@@ -106,7 +106,7 @@ to meaning (introducing topic modelling)
 - 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->
 
 ### 6. Training and Evaluation
-- Lesson 9. LU 27/10/25 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf)  
+- Lesson 9. LU 27/10/25 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf) 
 Training and evaluation
 - Lesson 9. 27/10/25 [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 
 Training and evaluation

@@ -79,10 +79,9 @@ Bayes' classifier
 - Lesson 5. LU 13/10/25  [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 
 Naïve Bayes' classifier 
 
-(we start Lesson 6 with the computation of the features in NB from Lesson 5)
 
 ### 4. Word vectors
-- Lesson 6. ME 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
+- Lesson 6. WE 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
 Frequency–Inverse Document Frequency
 - Lesson 6. WE 15/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
 Term Frequency–Inverse Document Frequency
@@ -92,12 +91,15 @@ Term Frequency–Inverse Document Frequency
 
 ### 5. From Word Counts to Meaning
 
+(we start Lesson 7 with the computation of the cosines from Lesson 6)
+
+- Lesson 7. LU 20/10/25 [Slides](/uploads/nlp25/07_dit_nlp_handout.pdf) From 
+word counts to meaning (introducing topic modelling)
+- Lesson 7. LU 20/10/25 
+[Notebook](/uploads/nlp25/07_dit_nlp_topicmodeling.ipynb) From word counts 
+to meaning (introducing topic modelling) 
 <!-- - ~~WE 23/10/25~~ TH 24/10/25 
-[Slides](/uploads/nlp25/07_dit_nlp_handout.pdf) 8. From word counts to meaning 
-(introducing topic modelling)
-- ~~WE 23/10/23~~ TH 24/10/25 [Notebook on topic 
-modelling](/uploads/nlp25/07_dit_nlp_topicmodeling.ipynb) 8. From word counts to 
-meaning (introducing topic modelling) -->
+-->
 
 <!-- THIS LESSON WAS NOT OFFERED IN  2024
 - 24/10/23 [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf)

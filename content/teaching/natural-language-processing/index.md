@@ -95,7 +95,7 @@ Term Frequency–Inverse Document Frequency
 
 - Lesson 7. LU 20/10/25 [Slides](/uploads/nlp25/07_dit_nlp_handout.pdf) From 
 word counts to meaning (introducing topic modelling)
-- Lesson 7. LU 20/10/25 
+- Lesson 8. ME 22/10/25 
 [Notebook](/uploads/nlp25/07_dit_nlp_topicmodeling.ipynb) From word counts 
 to meaning (introducing topic modelling) 
 <!-- - ~~WE 23/10/25~~ TH 24/10/25 
@@ -106,10 +106,10 @@ to meaning (introducing topic modelling)
 - 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->
 
 ### 6. Training and Evaluation
-<!-- - 30/10/23 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf) 9. Training and 
-evaluation
-- 30/10/23 [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 9. Training and 
-evaluation -->
+- Lesson 9. LU 27/10/25 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf)  
+Training and evaluation
+- Lesson 9. 27/10/25 [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 
+Training and evaluation
 
 ### 7. Intro to NN
 <!-- - 31/10/23 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) 10. One neuron 

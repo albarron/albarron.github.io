@@ -83,7 +83,7 @@ Naïve Bayes' classifier
 ### 4. Word vectors
 - Lesson 6. WE 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
 Frequency–Inverse Document Frequency
-- Lesson 6. WE 15/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
+- Lesson 7. LU 20/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
 Term Frequency–Inverse Document Frequency
 <!-- 
 - ~~TH 17/10/25~~ 
@@ -91,12 +91,10 @@ Term Frequency–Inverse Document Frequency
 
 ### 5. From Word Counts to Meaning
 
-(we start Lesson 7 with the computation of the cosines from Lesson 6)
-
-- Lesson 7. LU 20/10/25 [Slides](/uploads/nlp25/07_dit_nlp_handout.pdf) From 
+- Lesson 8. ME 22/10/25 [Slides](/uploads/nlp25/08_dit_nlp_handout.pdf) From 
 word counts to meaning (introducing topic modelling)
 - Lesson 8. ME 22/10/25 
-[Notebook](/uploads/nlp25/07_dit_nlp_topicmodeling.ipynb) From word counts 
+[Notebook](/uploads/nlp25/08_dit_nlp_topicmodeling.ipynb) From word counts 
 to meaning (introducing topic modelling) 
 <!-- - ~~WE 23/10/25~~ TH 24/10/25 
 -->

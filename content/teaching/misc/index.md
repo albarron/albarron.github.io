@@ -15,9 +15,9 @@ The [natural language processing lesson](https://albarron.github.io/teaching/nat
 Other lessons that I teach at [UniBO](https://www.unibo.it) include:
 
 - [Introduction to python](https://github.com/TinfFoil/dit_learning_python) (offered to [DIT PhD students](https://phd.unibo.it/traduzione-interpretazione-interculturalita/en))
-- [Selected topics in NLP](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/504023) (MA)
-- [Introduction to computer programming](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/503990) (MA)
-- [Computational thinking](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2024/493563) (BA)
+- [Selected topics in NLP](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/508809) (MA)
+- [Introduction to computer programming](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/532364) (MA)
+- [Computational thinking](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/521960) (BA)
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 

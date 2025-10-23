@@ -1,7 +1,7 @@
 ---
 title: PhD Computing Thinking and Programming
 summary: The computing thinking and programming lesson for DIT's PhD 
-date: 2024-11-24
+date: 2025-10-28
 type: docs
 math: true
 tags:
@@ -10,15 +10,15 @@ image:
   caption: 'The computing lesson at the PhD'
 ---
 
-**Academic Year 2024/2025**
+**Academic Year 2025/2026**
 
 (frontpage illustration produced with 
 [deepai's tool](https://deepai.org/machine-learning-model/text2img) in October 2024, using prompt _computing thinking for humanities  phd students_).
 
 This is a gentle introduction to computing thinking and the python programming 
 language. It is intended for students of the [PhD programme Translation, 
-Interpreting and Intercultural studies](https://phd.unibo.it/traduzione-interpretazione-interculturalita/en). 
-This crash course consists only of 4 lessons.
+Interpreting and Intercultural studies](https://phd.unibo.it/traduzione-interpretazione-interculturalita/en) from Università di Bologna. 
+This crash course consists of only 4 lessons.
 
 ## Course contents
 
@@ -30,27 +30,30 @@ In particular:-->
 
 Module 1: Computational Thinking
 
-* 29/10/24 [Slides](/uploads/phdcomp24-25/01_dit_phdcompthink_handout.pdf)
+* 29/10/25 [Slides](/uploads/phdcomp/01_dit_phdcompthink_handout.pdf)
 
 ### Session 2
 
 Module 2: Programming basics
  
+* 05/11/25
 
-* 05/11/24 [Slides](/uploads/phdcomp24-25/02_dit_phdcompthink_handout.pdf)
-* 05/11/24 [Notebook](/uploads/phdcomp24-25/DIT_python_notebook_1_static.ipynb)
+<!--[Slides](/uploads/phdcomp24-25/02_dit_phdcompthink_handout.pdf)
+* 05/11/24 [Notebook](/uploads/phdcomp24-25/DIT_python_notebook_1_static.ipynb)-->
 
 ### Session 3
 
 Module 3: Data
 
-* 12/11/24 [Notebook](/uploads/phdcomp24-25/03_PythonData_static.ipynb)
+* 12/11/25
+<!--[Notebook](/uploads/phdcomp24-25/03_PythonData_static.ipynb)-->
 
 Module 4: Python for Poets (1 of 2)
 
-* 12/11/24 [slides](/uploads/phdcomp24-25/03_dit_phdcompthink_p4p_handout.pdf)
-* 12/11/24 [notebook](/uploads/phdcomp24-25/03_Python4Poets_1.ipynb)
-* 12/11/25 [txt file](/uploads/phdcomp24-25/genesis.txt)
+* 12/11/25 
+<!--[slides](/uploads/phdcomp24-25/03_dit_phdcompthink_p4p_handout.pdf)
+* 12/11/25 [notebook](/uploads/phdcomp24-25/03_Python4Poets_1.ipynb)
+* 12/11/25 [txt file](/uploads/phdcomp24-25/genesis.txt)-->
 
 <!--[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
 * 12/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
@@ -61,7 +64,8 @@ Module 4: Python for Poets (1 of 2)
 
 Module 4: Python for Poets (2 of 2)
 
-* 26/11/24 [notebook](/uploads/phdcomp24-25/03_Python4Poets_2.ipynb)
+* 19/11/24 
+<!-- [notebook](/uploads/phdcomp24-25/03_Python4Poets_2.ipynb) -->
 
 <!--
 

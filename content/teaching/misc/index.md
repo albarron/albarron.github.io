@@ -10,11 +10,10 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-The [natural language processing lesson](https://albarron.github.io/teaching/natural-language-processing/) is the only one hosted on this website and whose contents are open.
+[Natural language processing](https://albarron.github.io/teaching/natural-language-processing/) and [PhD Computing Thinking and Programming](https://albarron.github.io/teaching/phd-comp-thinking/) are the only lessons hosted on this website and whose contents are open.
 
 Other lessons that I teach at [UniBO](https://www.unibo.it) include:
 
-- [Introduction to python](https://github.com/TinfFoil/dit_learning_python) (offered to [DIT PhD students](https://phd.unibo.it/traduzione-interpretazione-interculturalita/en))
 - [Selected topics in NLP](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/508809) (MA)
 - [Introduction to computer programming](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/532364) (MA)
 - [Computational thinking](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/521960) (BA)

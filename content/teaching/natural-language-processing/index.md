@@ -61,9 +61,9 @@ Introduction
 Tokens and normalisation
 - Lesson 2. WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) 
 Tokens and normalisation
-- Lesson 3. LU 06/10/25 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
+- Lesson 3. MO 06/10/25 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
 Space Model
-- Lesson 3. LU 06/10/25 
+- Lesson 3. MO 06/10/25 
  [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) Vector Space Model
 
 ### 3. Rule-based and Naïve Bayes' classifier
@@ -74,16 +74,16 @@ Rule-based sentiment analysis
 [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) Rule-based 
 sentiment analysis 
 
-- Lesson 5. LU 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
+- Lesson 5. MO 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
 Bayes' classifier
-- Lesson 5. LU 13/10/25  [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) 
-Naïve Bayes' classifier 
+- Lesson 5. MO 13/10/25 
+[Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) Naïve Bayes' classifier 
 
 
 ### 4. Word vectors
 - Lesson 6. WE 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
 Frequency–Inverse Document Frequency
-- Lesson 7. LU 20/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
+- Lesson 7. MO 20/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
 Term Frequency–Inverse Document Frequency
 <!-- 
 - ~~TH 17/10/25~~ 
@@ -91,27 +91,30 @@ Term Frequency–Inverse Document Frequency
 
 ### 5. From Word Counts to Meaning
 
-- Lesson 8. ME 22/10/25 [Slides](/uploads/nlp25/08_dit_nlp_handout.pdf) From 
+- Lesson 8. WE 22/10/25 [Slides](/uploads/nlp25/08_dit_nlp_handout.pdf) From 
 word counts to meaning (introducing topic modelling)
-- Lesson 8. ME 22/10/25 
+- Lesson 8. WE 22/10/25 
 [Notebook](/uploads/nlp25/08_dit_nlp_topicmodeling.ipynb) From word counts 
 to meaning (introducing topic modelling) 
-<!-- - ~~WE 23/10/25~~ TH 24/10/25 
--->
+
+<!-- - ~~WE 23/10/25~~ TH 24/10/25 -->
 
 <!-- THIS LESSON WAS NOT OFFERED IN  2024
 - 24/10/23 [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf)
 - 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->
 
 ### 6. Training and Evaluation
-- Lesson 9. LU 27/10/25 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf) 
+- Lesson 9. MO 27/10/25 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf) 
 Training and evaluation
-- Lesson 9. 27/10/25 [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 
+- Lesson 9. MO 27/10/25 
+[Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 
 Training and evaluation
 
 ### 7. Intro to NN
-- Lesson 10. 29/10/25 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) One neuron (the perceptron)
-- Lesson 10. 29/10/25 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) One neuron (the perceptron)
+- Lesson 10. WE 29/10/25 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) One 
+neuron (the perceptron)
+- Lesson 10. WE 29/10/25 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) One 
+neuron (the perceptron)
 
 <!-- **Intermezzo** -->
 

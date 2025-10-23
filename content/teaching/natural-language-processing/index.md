@@ -110,12 +110,10 @@ Training and evaluation
 Training and evaluation
 
 ### 7. Intro to NN
-<!-- - 31/10/23 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) 10. One neuron 
-(perceptron)
-- 31/10/23 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) 10. One neuron 
-(perceptron) -->
+- Lesson 10. 29/10/25 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) One neuron (the perceptron)
+- Lesson 10. 29/10/25 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) One neuron (the perceptron)
 
-**Intermezzo**
+<!-- **Intermezzo** -->
 
 <!-- - 13/11/23 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) 11. Neural 
 networks and keras
@@ -216,6 +214,7 @@ For your final mark, [80% comes from the final project](https://www.unibo.it/it/
 
 - Given an entry from a restaurant menu, split into name, description, and 
 price.
+- Participate to the EVALITA [shared task on detecting and classifying gender stereotypes in Italian](https://gsi-d-evalita.fbk.eu)
 
 Eventually, I will drop here more ideas for final projects.
 

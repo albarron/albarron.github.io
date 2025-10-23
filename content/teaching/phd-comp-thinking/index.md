@@ -1,7 +1,7 @@
 ---
 title: PhD Computing Thinking and Programming
 summary: The computing thinking and programming lesson for DIT's PhD 
-date: 2025-10-28
+date: 2025-10-22
 type: docs
 math: true
 tags:

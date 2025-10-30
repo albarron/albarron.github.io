@@ -122,8 +122,8 @@ networks and keras
 networks and keras
 
 ### 8. Word Embeddings
-<!-- - Lesson 12 05/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) Word2vec
-- Lesson 13 18/11/25 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) 13. Hands on word 
+- Lesson 12 05/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) Word2vec
+<!--- Lesson 13 18/11/25 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) 13. Hands on word 
 embeddings
 - Lesson 13 18/11/25 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 13. Hands on 
 word embeddings

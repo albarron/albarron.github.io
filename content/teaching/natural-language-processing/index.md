@@ -115,13 +115,11 @@ Training and evaluation
 neuron (the perceptron)
 - Lesson 10. WE 29/10/25 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) One 
 neuron (the perceptron)
-
 <!-- **Intermezzo** -->
-
-<!-- - 13/11/23 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) 11. Neural 
+- Lesson 11 03/11/25 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) Neural 
 networks and keras
-- 13/11/23 [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb) 11. Neural networks 
-and keras -->
+- Lesson 11 03/11/25 [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb) Neural 
+networks and keras
 
 ### 8. Word Embeddings
 <!-- - 14/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) 12. Word2vec

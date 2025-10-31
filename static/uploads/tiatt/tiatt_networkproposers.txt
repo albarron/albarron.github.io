@@ -14,6 +14,8 @@ If your name is not here, it means either you have not accepted the official inv
 Greece
 	Prof Efstathios Stamatatos,	University of the Aegean
 	Dr Stefanos Vrochidis,	Ethniko Kentro Erevnas Kai Technologikis Anaptyxis
+	Dr Theodora Tsikrika,	Centre for Research and Technology Hellas
+
 
 Lithuania
 	Dr Monika Mačiulienė,	Kaunas University of Technology
@@ -48,8 +50,8 @@ France
 
 Italy
 	Dr Alberto Barron Cedeno, Alma Mater Studiorum - Universita Di Bologna
-	Prof Nicola Ferro,	Università degli Studi di Padova
 	Prof Elisabetta Fersini,	UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA
+	Prof Nicola Ferro,	Università degli Studi di Padova
 	Prof Viviana Patti,	Università degli Studi di Torino
 
 Netherlands
@@ -58,7 +60,7 @@ Netherlands
 	
 Spain
 	Dr Alba Garcia Seco de Herrera,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
-	 Dr Diego Sebastian Garrocho Salcedo,	 Universidad Autónoma de Madrid [Philosophy] 
+	Dr Diego Sebastian Garrocho Salcedo,	 Universidad Autónoma de Madrid [Philosophy] 
 	Dr Laura Plaza,	UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA
 	Dr Leonardo Campillos-Llanos,	Agencia Estatal Consejo Superior de Investigaciones Cientificas (CSIC)
 	Ms Lucia Ortiz de Zarate,	 Universidad Autonoma de Madrid

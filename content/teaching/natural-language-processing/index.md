@@ -116,18 +116,17 @@ neuron (the perceptron)
 - Lesson 10. WE 29/10/25 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) One 
 neuron (the perceptron)
 <!-- **Intermezzo** -->
-- Lesson 11 03/11/25 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) Neural 
+- Lesson 11. 03/11/25 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) Neural 
 networks and keras
-- Lesson 11 03/11/25 [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb) Neural 
+- Lesson 11. 03/11/25 [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb) Neural 
 networks and keras
 
 ### 8. Word Embeddings
-- Lesson 12 05/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) Word2vec
-<!--- Lesson 13 18/11/25 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) 13. Hands on word 
-embeddings
-- Lesson 13 18/11/25 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 13. Hands on 
+- Lesson 12. 05/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) Word2vec
+- Lesson 13. 10/11/25 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) Hands on 
 word embeddings
-   -->
+- Lesson 13. 10/11/25 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 
+Hands on word embeddings
 
 ### 9. Doc2Vec
 <!-- - 20/11/25 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) 14. From word 

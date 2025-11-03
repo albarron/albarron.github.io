@@ -129,11 +129,10 @@ word embeddings
 Hands on word embeddings
 
 ### 9. Doc2Vec
-<!-- - 20/11/25 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) 14. From word 
+- Lesson 14. 12/11/25 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) From word 
 back to document representations (doc2vec)
-- 20/11/25 [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb) 14. From word back 
-to 
-document representations (doc2vec) -->
+- Lesson 14. 12/11/25 [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb) From word 
+back to document representations (doc2vec) 
 <!-- - 14/11/23 [Project reminder](/uploads/nlp25/14_dit_nlp_projects.pdf) -->
 
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO

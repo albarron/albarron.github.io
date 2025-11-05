@@ -38,8 +38,8 @@ Module 2: Programming basics
  
 * 05/11/25
 
-<!--[Slides](/uploads/phdcomp24-25/02_dit_phdcompthink_handout.pdf)
-* 05/11/24 [Notebook](/uploads/phdcomp24-25/DIT_python_notebook_1_static.ipynb)-->
+[Slides](/uploads/phdcomp/02_dit_phdcompthink_handout.pdf)
+<!--* 05/11/24 [Notebook](/uploads/phdcomp24-25/DIT_python_notebook_1_static.ipynb)-->
 
 ### Session 3
 

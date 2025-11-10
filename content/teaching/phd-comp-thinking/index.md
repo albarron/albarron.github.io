@@ -50,8 +50,8 @@ Module 3: Data
 Module 4: Python for Poets (1 of 2)
 
 * 12/11/25 [slides](/uploads/phdcomp/03_dit_phdcompthink_handout.pdf)
-<!--* 12/11/25 [notebook](/uploads/phdcomp24-25/03_Python4Poets_1.ipynb)
-* 12/11/25 [txt file](/uploads/phdcomp24-25/genesis.txt)-->
+* 12/11/25 [notebook](/uploads/phdcomp/03_Python4Poets_1.ipynb)
+* 12/11/25 [txt file](/uploads/phdcomp24-25/genesis.txt)
 
 <!--[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
 * 12/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)

@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2025-10-30
+date: 2025-11-13
 type: docs
 math: true
 tags:
@@ -143,8 +143,8 @@ back to document representations (doc2vec)
  -->
 
 ### 10. Convolutions for  text
-<!-- - 27/11/25 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) 15. CNNs
-- 27/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) 15. CNNs -->
+- Lesson 15. 23/11/25 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) CNNs
+<!-- - 27/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) 15. CNNs -->
 
 
 ### 11. Text is Sequential / LSTM

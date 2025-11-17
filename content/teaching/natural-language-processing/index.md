@@ -146,6 +146,9 @@ back to document representations (doc2vec)
 - Lesson 15. 17/11/25 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) CNNs
 - Lesson 15. 17/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) CNNs
 
+(big thanks to P. Gajo for helping with making the notebooks more 
+memory-efficient)
+
 ### 11. Text is Sequential / LSTM
 - Lesson 16. 19/11/25 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) RNNs
 <!-- - 28/11/25 [Notebook](/uploads/nlp25/16_dit_nlp_rnn.ipynb) 16. RNNs

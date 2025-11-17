@@ -144,13 +144,14 @@ back to document representations (doc2vec)
 
 ### 10. Convolutions for  text
 - Lesson 15. 17/11/25 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) CNNs
-- Lesson 15. 17/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) CNNs
+- Lesson 16. 19/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) CNNs
+(we start at slide 26)
 
 (big thanks to P. Gajo for helping with making the notebooks more 
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM
-- Lesson 16. 19/11/25 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) RNNs
+- Lesson 17. 24/11/25 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) RNNs
 <!-- - 28/11/25 [Notebook](/uploads/nlp25/16_dit_nlp_rnn.ipynb) 16. RNNs
 - 02/12/24 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) 17 BiRNNs and LSTMs
 - 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_brnn.ipynb) 17. BiRNNs

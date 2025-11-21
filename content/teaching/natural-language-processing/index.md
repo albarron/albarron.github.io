@@ -151,13 +151,14 @@ back to document representations (doc2vec)
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM
-- Lesson 17. 24/11/25 [Slides](/uploads/nlp25/16_dit_nlp_handout.pdf) RNNs
-<!-- - 28/11/25 [Notebook](/uploads/nlp25/16_dit_nlp_rnn.ipynb) 16. RNNs
-- 02/12/24 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) 17 BiRNNs and LSTMs
+- Lesson 17. 24/11/25 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) RNNs
+- Lesson 17. 24/11/25 [Notebook](/uploads/nlp25/17_dit_nlp_rnn.ipynb) RNNs
+- Lesson 18. 26/11/25
+<!--- 02/12/24 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) 17 BiRNNs and LSTMs
 - 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_brnn.ipynb) 17. BiRNNs
-- 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_lstm.ipynb) 17. LSTMs -->
+- 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_lstm.ipynb) 17. LSTMs-->
 
-### - CLIC-it 2024
+<!-- ### - CLIC-it 2024 -->
 <!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 
 Multilingual Translation
 and Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for 
@@ -166,6 +167,8 @@ Verbatim Transcription
 Label Projection and Recognition -->
 
 ### 12. Text generation
+- Lesson 19 01/12/25
+
 <!-- - 09/12/24 [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) 18. LSTM: 
 characters and generation
 - 09/12/24 [Notebook](/uploads/nlp25/18_dit_nlp_chars.ipynb) 18. LSTM: 
@@ -178,7 +181,7 @@ LSTM: generation -->
 modification**
 ----->
 ### 13. Intro to Seq2Seq and Transformers
-
+- Lesson 20 10/12/25
 <!-- - 16/12/24 [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) 20. Into 
 Transformers
 - 16/12/24 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 20. Beyond; 

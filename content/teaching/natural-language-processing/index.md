@@ -155,10 +155,8 @@ memory-efficient)
 - Lesson 17. 24/11/25 [Notebook](/uploads/nlp25/17_dit_nlp_rnn.ipynb) RNNs
 - Lesson 18. 26/11/25 [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) BiRNNs and LSTMs
 - Lesson 18. 26/11/25 [Notebook](/uploads/nlp25/18_dit_nlp_brnn.ipynb) BiRNNs
+- Lesson 18. 26/11/25 [Notebook](/uploads/nlp25/18_dit_nlp_lstm.ipynb) LSTMs
 
-
-<!--- 02/12/24 
-- 02/12/24 [Notebook](/uploads/nlp25/17_dit_nlp_lstm.ipynb) 17. LSTMs-->
 
 <!-- ### - CLIC-it 2024 -->
 <!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 

@@ -167,12 +167,13 @@ Verbatim Transcription
 Label Projection and Recognition -->
 
 ### 12. Text generation
-- Lesson 19 01/12/25
-
-<!-- - 09/12/24 [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) 18. LSTM: 
+- Lesson 19. 01/12/25  [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) LSTM: 
 characters and generation
-- 09/12/24 [Notebook](/uploads/nlp25/18_dit_nlp_chars.ipynb) 18. LSTM: 
+- Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_chars.ipynb) LSTM: 
 characters
+
+<!-- - 09/12/24
+- 09/12/24 
 - ~~09/12/24~~11/12/24 [Notebook](/uploads/nlp25/18_dit_nlp_lstm_gen.ipynb) 19. 
 LSTM: generation -->
 

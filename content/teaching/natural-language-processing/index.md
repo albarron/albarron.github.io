@@ -167,18 +167,19 @@ Verbatim Transcription
 Label Projection and Recognition -->
 
 ### 12. Text generation
-- Lesson 19. 01/12/25  [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) LSTM: 
+- Lesson 19. 01/12/25  [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) LSTM: 
 characters and generation
 - Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_chars.ipynb) LSTM: 
 characters
 - Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) LSTM: generation
 
+- Lesson 20 10/12/25 End of LSTM generation notebook, slide 16 + Q&A
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
 ----->
 ### 13. Intro to Seq2Seq and Transformers
-- Lesson 20 10/12/25
+<!--- Lesson 20 10/12/25-->
 <!-- - 16/12/24 [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) 20. Into 
 Transformers
 - 16/12/24 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 20. Beyond; 

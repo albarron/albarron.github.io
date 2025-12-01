@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Katerina Korre
+title: Donatella Laperchia
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Katerina
-last_name: Korre
+first_name: Donatella 
+last_name: Laperchia
 
 # Status emoji
 status:
@@ -20,62 +20,63 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Alumni (PhD student)
+role: PhD student
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Università di Bologna
-    url: https://www.unibo.it/sitoweb/aikaterini.korre2
+    url: https://www.unibo.it/sitoweb/donatella.laperchia2
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aikaterini.korre2 [at] unibo.it'
+    url: 'mailto:donatella.laperchia2 [at] unibo.it'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/Aramona4
+  #- icon: brands/x
+  #  url: https://twitter.com/Aramona4
   # - icon: brands/instagram
   #   url: ''
   # - icon: brands/github
   #   url: https://github.com/albarron
   # - icon: brands/gitlab
   #   url: https://gitlab.com/albarron/
-  - icon: brands/linkedin
-    url: https://gr.linkedin.com/in/katerina-korre-69a384149
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=wfNVijkAAAAJ
+  #- icon: brands/linkedin
+  #  url: https://it.linkedin.com/in/arianna-muti-611922193
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=lE6EWMUAAAAJ
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0003-4719-3420
 
 interests:
-  - Cross-language hate speech detection
+  #- Automatic misogyny identification
 
 education:
-  - area: MSc in Digital Methods for the Humanities
-    institution: Athens University of Economics and Business, Greece
-    date_start: 2020
-    date_end: 2019
-    summary: |
+ # - area: Master Language, Society and Communication
+ #   institution: Università di Bologna, Italy
+ #   date_start: 2021
+ #   date_end: 2019
+ #   summary: |
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MA in Applied Linguistics
-    institution: University of Nottingham, UK
-    date_start: 2019
-    date_end: 2018
-    summary: |
-      # GPA: 3.4/4.0
-  - area: BA in English Language and Literature
-    institution: National and Kapodistrian University of Athens, Greece
-    date_start: 2018
-    date_end: 2015
-    summary: |
-      # GPA: 3.4/4.0
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ # - area: Lingue e Letterature Straniere
+ #   institution: Università di Bologna, Italy
+ #   date_start: 2018
+ #   date_end: 2015
+ #   summary: |
+ #     # GPA: 3.4/4.0
+      
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Associate professor
 #     company_name: Università di Bologna
@@ -164,17 +165,12 @@ education:
 #     percent: 70
 
 authors:
-- katerina-korre
+- donatella-laperchia
  # Organizational groups that you belong to (for People widget)
 ---
 
-Katerina is currently a postdoc researcher at the 
-[Archimedes Research Unit](https://www.athenarc.gr/en/archimedes), in Athens.
+Donatella is in her first PhD year. 
+<!--She holds a [RER](http://www.ponricerca.gov.it/) (Alta formazione e 
+ricerca, Regione Emilia-Romagna) grant. 
 
-She successfully defended her PhD dissertation in the summer of 2025. During her 
-PhD, she holded a [PON](http://www.ponricerca.gov.it) (Programma Operativo 
-Nazionale Ricerca e Innovazione) PhD grant. 
-
-She obtained an Erasmus+  grant for internships abroad, through which she spent 
-six months at [Symanto](https://www.symanto.ai) (Spain), under the supervision of 
-[Marc Franco Salvador](https://www.symanto.com/about-us/research-team/). 
+She obtained a Marco Polo grant for internships abroad, through which she spent six months at University of Groningen (The Netherlands), under the supervision of [Tommaso Caselli](https://research.rug.nl/en/persons/tommaso-caselli/). Previously, she also interned with [expert.ai](https://www.expert.ai/), in Modena.-->

@@ -20,11 +20,11 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student
+role:  Alumni (PhD student)
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -169,7 +169,14 @@ authors:
  # Organizational groups that you belong to (for People widget)
 ---
 
-Arianna is in her third PhD year. She holds a [RER](http://www.ponricerca.gov.it/) (Alta formazione e 
-ricerca, Regione Emilia-Romagna) grant. 
+After successfully defending her 
+[PhD thesis](https://amsdottorato.unibo.it/id/eprint/12195/), Arianna is 
+carrying out a postdoc at Università di Milano-Bocconi. 
 
-She obtained a Marco Polo grant for internships abroad, through which she spent six months at University of Groningen (The Netherlands), under the supervision of [Tommaso Caselli](https://research.rug.nl/en/persons/tommaso-caselli/). Previously, she also interned with [expert.ai](https://www.expert.ai/), in Modena.
+Her PhD at UniBO was supported by a [RER](http://www.ponricerca.gov.it/) (Alta 
+formazione e ricerca, Regione Emilia-Romagna) grant. She obtained a Marco Polo 
+grant for internships abroad, through which she spent six months at University 
+of Groningen (The Netherlands), under the supervision of 
+[Tommaso Caselli](https://research.rug.nl/en/persons/tommaso-caselli/). 
+Previously, she also interned with [expert.ai](https://www.expert.ai/), in 
+Modena.

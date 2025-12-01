@@ -20,11 +20,11 @@ superuser: false
 highlight_name: true
 
 # Role/position/tagline
-role: Master student
+role: PhD student
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -168,6 +168,9 @@ authors:
 - debora-ciminari
  # Organizational groups that you belong to (for People widget)
 ---
+
+Debora is in her first PhD year. She is working on (multilingua) idioms processing.
+
 
 **Masters dissertation**
 

@@ -175,9 +175,9 @@ characters
 
 ### 13. Closing
 
-- Lesson 20 10/12/25 End of LSTM generation notebook, slide 16 + Q&A
+- Lesson 20. 10/12/25 End of LSTM generation notebook, slide 16 + Q&A
 
-(the students preferred a Q&A over Seq2Seq of LLMs)
+(the students preferred a Q&A over Seq2Seq or LLMs)
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**

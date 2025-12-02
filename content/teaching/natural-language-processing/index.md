@@ -173,19 +173,23 @@ characters and generation
 characters
 - Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) LSTM: generation
 
+### 13. Closing
+
 - Lesson 20 10/12/25 End of LSTM generation notebook, slide 16 + Q&A
+
+(the students preferred a Q&A over Seq2Seq of LLMs)
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
------>
+
 ### 13. Intro to Seq2Seq and Transformers
-<!--- Lesson 20 10/12/25-->
+Lesson 20 10/12/25-->
 <!-- - 16/12/24 [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) 20. Into 
 Transformers
 - 16/12/24 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 20. Beyond; 
 [attention gif](/uploads/nlp25/transform20fps.gif) -->
 
-### 14. A brief intro to LLMs + Closing Remaks
+<!-- ### 14. A brief intro to LLMs + Closing Remaks -->
 
 <!-- This section was not covered during the lesson and was left for furher studying 
 

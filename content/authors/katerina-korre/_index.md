@@ -171,9 +171,10 @@ authors:
 Katerina is currently a postdoc researcher at the 
 [Archimedes Research Unit](https://www.athenarc.gr/en/archimedes), in Athens.
 
-She successfully defended her PhD dissertation in the summer of 2025. During her 
-PhD, she holded a [PON](http://www.ponricerca.gov.it) (Programma Operativo 
-Nazionale Ricerca e Innovazione) PhD grant. 
+She successfully defended her 
+[PhD dissertation](https://amsdottorato.unibo.it/id/eprint/12405/) in the 
+summer of 2025. During her PhD, she holded a [PON](http://www.ponricerca.gov.it) 
+(Programma Operativo Nazionale Ricerca e Innovazione) PhD grant. 
 
 She obtained an Erasmus+  grant for internships abroad, through which she spent 
 six months at [Symanto](https://www.symanto.ai) (Spain), under the supervision of 

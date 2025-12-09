@@ -177,7 +177,7 @@ characters
 
 (start from lesson 9, slide 16)
 
-- Lesson 20. 10/12/25 [Slides](/uploads/nlp25/20_dit_dit_nlp_handout.pdf) Closing
+- Lesson 20. 10/12/25 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) Closing
 - Lesson 20. 10/12/25 [Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) Pre-trained LSTM: generation. 
 
 For this last notebook, download the 

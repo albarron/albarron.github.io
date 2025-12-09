@@ -178,10 +178,14 @@ characters
 - Lesson 20. 10/12/25 [Slides](/uploads/nlp25/20_dit_dit_nlp_handout.pdf) Closing
 - Lesson 20. 10/12/25 [Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) Pre-trained LSTM: generation. 
 
-For this last notebook, download the [model structure](shakes_lstm_model.json) and the weights, as trained during lesson 19. 
-They are available after [1](shakes_lstm_1.weights.h5),
-[2](shakes_lstm_2.weights.h5), [3](shakes_lstm_3.weights.h5), 
-[4](shakes_lstm_4.weights.h5), and [5](shakes_lstm_5.weights.h5) epochs.
+For this last notebook, download the 
+[model structure](/uploads/nlp25/shakes_lstm_model.json) and the weights, as 
+trained during lesson 19. They are available after 
+[1](/uploads/nlp25/shakes_lstm_1.weights.h5),
+[2](/uploads/nlp25/shakes_lstm_2.weights.h5), 
+[3](/uploads/nlp25/shakes_lstm_3.weights.h5), 
+[4](/uploads/nlp25/shakes_lstm_4.weights.h5), and 
+[5](/uploads/nlp25/shakes_lstm_5.weights.h5) epochs.
 
 - Lesson 20. 10/12/25 End of LSTM generation notebook, slide 16 + Q&A
 

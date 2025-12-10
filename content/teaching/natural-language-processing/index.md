@@ -171,25 +171,25 @@ Label Projection and Recognition -->
 characters and generation
 - Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_chars.ipynb) LSTM: 
 characters
-- Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) LSTM: generation
+- Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) LSTM: 
+generation
 
 ### 13. Closing
 
 (start from lesson 9, slide 16)
 
 - Lesson 20. 10/12/25 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) Closing
-- Lesson 20. 10/12/25 [Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) Pre-trained LSTM: generation. 
-
-For this last notebook, download the 
-[model structure](/uploads/nlp25/shakes_lstm_model.json) and the weights, as 
-trained during lesson 19. They are available after 
+- Lesson 20. 10/12/25 [Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) 
+Pre-trained LSTM: generation. 
+- Lesson 20. 10/12/25 [Model structure](/uploads/nlp25/shakes_lstm_model.json) 
+and the weights (as trained during lesson 19) after 
 [1](/uploads/nlp25/shakes_lstm_1.weights.h5),
 [2](/uploads/nlp25/shakes_lstm_2.weights.h5), 
 [3](/uploads/nlp25/shakes_lstm_3.weights.h5), 
 [4](/uploads/nlp25/shakes_lstm_4.weights.h5), and 
 [5](/uploads/nlp25/shakes_lstm_5.weights.h5) epochs.
 
-(the students preferred a Q&A over Seq2Seq or LLMs)
+(the students preferred a Q&A over Seq2Seq and transformers)
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**

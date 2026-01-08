@@ -169,8 +169,19 @@ authors:
  # Organizational groups that you belong to (for People widget)
 ---
 
-Donatella is in her first PhD year. 
-<!--She holds a [RER](http://www.ponricerca.gov.it/) (Alta formazione e 
-ricerca, Regione Emilia-Romagna) grant. 
+Donatella is in her first PhD year. She holds a 
+[Fondo Sociale Europeo Plus](https://formazionelavoro.regione.emilia-romagna.it/alta-formazione-ricerca/dottorati-di-ricerca/dottorati-di-ricerca-2025-clima-e-territorio) grant from the Regione Emilia-Romagna. 
 
+
+Her research is focused on how large language models deal with local cultural 
+concepts in multilingual settings, within the museum sector.  She is interested
+in the culinary heritage of the Emilia-Romagna region and in its intercultural 
+communication strategies. 
+
+**Masters dissertation**<br/>
+Laperchia, Donatella (2021) [ Le rôle des mots-clés dans la traduction web. Proposition de traduction du blog d'entreprise de la marque alinea](https://morethesis.unimore.it/theses/available/etd-09242022-100719/). Università degli Studi di Modena e Reggio Emilia, Corso di Studio in Lingue per 
+la comunicazione nell'impresa e nelle organizzazioni internazionali - Modena
+
+
+<!--
 She obtained a Marco Polo grant for internships abroad, through which she spent six months at University of Groningen (The Netherlands), under the supervision of [Tommaso Caselli](https://research.rug.nl/en/persons/tommaso-caselli/). Previously, she also interned with [expert.ai](https://www.expert.ai/), in Modena.-->

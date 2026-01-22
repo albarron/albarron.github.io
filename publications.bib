@@ -147,6 +147,27 @@ annotation},
   improvements.}
 }
 
+@inproceedings{korre-etal-2025-untangling,
+    title = "Untangling Hate Speech Definitions: A Semantic Componential Analysis Across Cultures and Domains",
+    author = "Korre, Katerina  and
+      Muti, Arianna  and
+      Ruggeri, Federico  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.175/",
+    doi = "10.18653/v1/2025.findings-naacl.175",
+    pages = "3184--3198",
+    ISBN = "979-8-89176-195-7",
+    abstract = "Hate speech relies heavily on cultural influences, leading to varying individual interpretations. For that reason, we propose a Semantic Componential Analysis (SCA) framework for a cross-cultural and cross-domain analysis of hate speech definitions. We create the first dataset of hate speech definitions encompassing 493 definitions from more than 100 cultures, drawn from five key domains: online dictionaries, academic research, Wikipedia, legal texts, and online platforms. By decomposing these definitions into semantic components,our analysis reveals significant variation across definitions, yet many domains borrow definitions from one another without taking into account the target culture. We conduct zero-shot model experiments using our proposed dataset, employing three popular open-sourced LLMs to understand the impact of different definitions on hate speech detection. Our findings indicate that LLMs are sensitive to definitions: responses for hate speech detection change according to the complexity of definitions used in the prompt."
+}
+
 @inproceedings{mainardi-etal-2025-fine,
     title = "Fine-Tuning vs Prompting Techniques for Gender-Fair Rewriting of Machine Translations",
     author = "Mainardi, Paolo  and
@@ -241,12 +262,23 @@ Languages, Varieties, and Dialects (VarDial 2024)",
   organization={CEUR-WS}
 }
 
-@inproceedings{Gajo:24,
-  author = "Gajo, Paolo and Barr{\'o}n-Cede{\~n}o, Alberto",
-  title = "On Cross-Language Entity Label Projection and Recognition",
-  year = "2024"
-  journal = "CEUR Workshop Proceedings",
-  volume = "3878",
+@inproceedings{gajo-barron-cedeno-2024-cross,
+    title = "On Cross-Language Entity Label Projection and Recognition",
+    author = "Gajo, Paolo  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = "Dell'Orletta, Felice  and
+      Lenci, Alessandro  and
+      Montemagni, Simonetta  and
+      Sprugnoli, Rachele",
+    booktitle = "Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)",
+    month = dec,
+    year = "2024",
+    address = "Pisa, Italy",
+    publisher = "CEUR Workshop Proceedings",
+    url = "https://aclanthology.org/2024.clicit-1.47/",
+    pages = "390--402",
+    ISBN = "979-12-210-7060-6",
+    abstract = "Most work on named entity recognition (NER) focuses solely on English. Through the use of training data augmentation via machine translation (MT), multilingual NER can become a powerful tool for information extraction in multilingual contexts. In this paper, we augment NER data from culinary recipe ingredient lists, by means of MT and word alignment (WA), following two approaches: (i) translating each entity separately, while taking into account the full context of the list and (ii) translating the whole list of ingredients and then aligning entities using three types of WA models: Giza++, Fast Align, and BERT, fine-tuned using a novel entity-shuffling approach. We depart from English data and produce Italian versions via MT, span-annotated with the entities projected from English. Then, we use the data produced by the two approaches to train mono- and multilingual NER BERT models. We test the performance of the WA and NER models on an annotated dataset of ingredient lists, partially out-of-domain compared to the training data. The results show that shuffling entities leads to better BERT aligner models. The higher quality NER data created by these models enables NER models to achieve better results, with multilingual models reaching performances equal to or greater than their monolingual counterparts."
 }
 
 @inproceedings{Fedotova2024,

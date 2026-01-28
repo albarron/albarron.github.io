@@ -167,5 +167,8 @@ authors:
 - luca-giordano
  # Organizational groups that you belong to (for People widget)
 ---
+
+Currently Luca is pursuing his PhD at Technische Universität Dresden.
+
 **Masters dissertation**<br/>
 Giordano, Luca (2024) [On the Automatic Multilingual Detection of Persuasion Techniques in the News: A Natural Language Processing Approach](). Università di Bologna, Corso di Studio in Specialized translation - Forli

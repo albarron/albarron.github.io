@@ -212,7 +212,7 @@ languages:
 
 ## About Me
 
-THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 25/09/24)
+THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 29/01/26)
 
 I am Associate Professor at [Università di Bologna](https://dit.unibo.it) since 
 2022 (after three years as Senior assistant professor; RTDb, in the Italian 
@@ -232,5 +232,5 @@ research fellow at
 
 <!--[Artusiana](https://docs.google.com/presentation/d/19_9edUbR4i-Lu-s83XPUi1wtnHmERBSdQtE3OgIRDjE/edit?usp=sharing), [GastroGenius](https://gastrogenius.it/artusiana), [indovina](https://nt.dipintra.it/game) -->
 
-[FI](https://docs.google.com/presentation/d/1uoW79PaHLwnTi08HQR_E2CYdNlAe6nLpldY5X0irgo8/edit?usp=sharing)
+<!--[FI](https://docs.google.com/presentation/d/1uoW79PaHLwnTi08HQR_E2CYdNlAe6nLpldY5X0irgo8/edit?usp=sharing)-->
 

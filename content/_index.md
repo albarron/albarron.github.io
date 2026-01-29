@@ -45,9 +45,20 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an Associate Professor at Università di Bologna. My main mission is bringing (real) computing to the Department of Interpreting and Translation.
+        I am an [Associate Professor](https://www.unibo.it/sitoweb/a.barron) at 
+        [Università di Bologna](https://www.unibo.it). My main mission is 
+        bringing (real) computing to the [Department of Interpreting and 
+        Translation](https://dit.unibo.it).
 
-        I research on the analysis and identification of harming contents online (from hate speech to propaganda and disinformation), I also play with NLP for Gastronomy and laterly I am engaged with varieties of languages.
+        I research on the analysis and identification of harming contents 
+        online ---from 
+        [hate speech](https://aclanthology.org/2024.emnlp-main.1174/) to 
+        [propaganda](https://doi.org/10.1016/j.ipm.2019.03.005) and 
+        [disinformation](https://dl.acm.org/doi/10.1007/978-3-031-28241-6_59). 
+        I was the PI of projects [GIARA](https://progettogiara.it) and 
+        [!Trans](https://site.unibo.it/no-translate/en), where we explored NLP 
+        solutions for Gastronomy. Laterly I am engaged with [varieties of 
+        languages](https://aclanthology.org/2024.naacl-long.204/).
         
         Do not hesitate to reach out 😃
     design:

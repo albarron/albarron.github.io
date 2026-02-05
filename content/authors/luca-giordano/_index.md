@@ -171,4 +171,7 @@ authors:
 Currently Luca is pursuing his PhD at Technische Universität Dresden.
 
 **Masters dissertation**<br/>
-Giordano, Luca (2024) [On the Automatic Multilingual Detection of Persuasion Techniques in the News: A Natural Language Processing Approach](). Università di Bologna, Corso di Studio in Specialized translation - Forli
+Giordano, Luca (2024) [On the Automatic Multilingual Detection of Persuasion 
+Techniques in the News: A Natural Language Processing 
+Approach](https://amslaurea.unibo.it/id/eprint/23510/). Università di Bologna, 
+Corso di Studio in Specialized translation - Forli

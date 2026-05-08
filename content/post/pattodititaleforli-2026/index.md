@@ -32,5 +32,5 @@ and, in particular, large language models.
 
 ## Go further
 
-- 📰 [**News coverage of the signature](https://www.ilrestodelcarlino.it/forli/cronaca/smartphone-tablet-minori-guida-genitori-regole-eb6ocg60)
-- 📚 [**Check the slides**](/uploads/pe/barroncedeno-pattodigitale26.pdf)
+- 📰 [**News coverage of the signature**](https://www.ilrestodelcarlino.it/forli/cronaca/smartphone-tablet-minori-guida-genitori-regole-eb6ocg60)
+- 📚 [**Check the slides**](/uploads/pe/barroncedeno-pattodigitale.pdf)

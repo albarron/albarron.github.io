@@ -1,7 +1,7 @@
 ---
 title: 📈 New paper published at NeurIPS 2025 Main Conference Track
 summary: 
-date: 2025-06-04
+date: 2025-12-02
 tags:
   - knowledge graph construction
   - large language models

@@ -24,7 +24,7 @@ role: MA student
 
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad students
+- Grad Students
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

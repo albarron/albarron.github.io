@@ -212,13 +212,19 @@ languages:
 
 ## About Me
 
-THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 29/01/26)
+THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 25/09/26)
 
 I am Associate Professor at [Università di Bologna](https://dit.unibo.it) since 
 2022 (after three years as Senior assistant professor; RTDb, in the Italian 
 system). I have been working on the (cross-language) assessment of 
 text looking at different aspects such as originality (e.g., plagiarism 
 detection) and intent (e.g., propaganda, hate speech).
+
+Since 2025, I serve as co-chair of the [CLEF initiative](https://www.clef-initiative.eu),
+which promotes research, innovation, and development of information access 
+systems with an emphasis on multilingual and multimodal information with 
+various levels of structure. I am also special chief editor of the NLP Section 
+of [Frontiers in AI](https://www.frontiersin.org/journals/artificial-intelligence/sections/computational-linguistics-and-natural-language-processing)
 
 Visit my [UniBO website](https://www.unibo.it/sitoweb/a.barron) for university 
 matters.

@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2025-11-13
+date: 2026-09-25
 type: docs
 math: true
 tags:
@@ -10,13 +10,13 @@ image:
   caption: 'The Natural Language Processing lesson at DIT'
 ---
 
-**Academic Year 2025/2026**
+**Academic Year 2026/2027**
 
 (frontpage illustration produced with 
 [deepai's tool](https://deepai.org/machine-learning-model/text2img) in October 2024; using prompt 
 _natural language processing class for translation and technology masters_).
 
-Visit the [UniBO website of the lecture](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/470093) for official and administrative details.
+Visit the [UniBO website of the lecture](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2026/532362) for official and administrative details.
 
 ## Prerequisites
 
@@ -28,12 +28,10 @@ if you are a student of TraTec:
   you had the intro to Python in PBR
 elif you are a student of SpecTra:
   you had the intro to python in APS
-else: 
-  check the slides, notebooks, and 2021 video recordings
 ```
 
-Regardless, you can find the materials on [virtuale](https://virtuale.unibo.it/). 
-<!-- [https://github.com/TinfFoil/learning_dit_python](https://github.com/TinfFoil/learning_dit_python) (**as of June 24 the link is not working yet**).  -->
+<!-- Regardless, you can find the materials on [virtuale](https://virtuale.unibo.it/). 
+ [https://github.com/TinfFoil/learning_dit_python](https://github.com/TinfFoil/learning_dit_python) (**as of June 24 the link is not working yet**).  -->
 
 Regardless of whether you attended either of the introductions, I suggest you to **do (or re-visit) all the exercises ASAP**.
 
@@ -41,8 +39,8 @@ Regardless of whether you attended either of the introductions, I suggest you to
 ## Homework
 
 Homework is going to be handled through 
-[virtuale](https://virtuale.unibo.it/course/view.php?id=64197). No further 
-contents are expected to be shared there. On 09/10, you should have obtained 
+[virtuale](https://virtuale.unibo.it/course/view.php?id=75804). No further 
+contents are expected to be shared there. By 30th September, you should obtained 
 the password to access from me. If you did not, ping me. Homework has 
 associated a hard deadline.
 
@@ -50,112 +48,163 @@ associated a hard deadline.
 
 Whereas the contents could be (slightly) adapted according to the students skills and interests, the general structure of the course is as follows.
 
+Lessons with a star (\*) are tentative.
+
 ### 1. Introduction to Natural Language Processing
 
-- Lesson 1. MO 29/09/24 [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf)
+- Lesson 1. MO 28/09/26 
+<!-- [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) -->
 Introduction
 
 ### 2. Words and the vector space model
 
-- Lesson 2. WE 01/10/25 [Slides](/uploads/nlp25/02_dit_nlp_handout.pdf) 
+- Lesson 2. WE 30/09/26 
+<!-- [Slides](/uploads/nlp25/02_dit_nlp_handout.pdf)  -->
 Tokens and normalisation
-- Lesson 2. WE 01/10/25 [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb) 
+- Lesson 2. WE 30/10/26 
+<!-- [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb)  -->
 Tokens and normalisation
-- Lesson 3. MO 06/10/25 [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector 
+
+- Lesson 3. MO 05/10/26 
+<!-- [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector  -->
 Space Model
-- Lesson 3. MO 06/10/25 
- [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) Vector Space Model
+- Lesson 3. MO 05/10/26 
+ <!-- [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) -->
+ Vector Space Model 
 
 ### 3. Rule-based and Naïve Bayes' classifier
 
-- Lesson 4. WE 08/10/25 [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf) 
+- Lesson 4. WE 07/10/26 
+<!-- [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf)  -->
 Rule-based sentiment analysis 
-- Lesson 4. WE 08/10/25 
-[Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb) Rule-based 
-sentiment analysis 
+- Lesson 4. WE 07/10/26 
+<!-- [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb)  -->
+Rule-based sentiment analysis 
 
-- Lesson 5. MO 13/10/25 [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf) Naïve 
-Bayes' classifier
-- Lesson 5. MO 13/10/25 
-[Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb) Naïve Bayes' classifier 
+- Lesson 5. MO 12/10/26 
+<!-- [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf)  -->
+Naïve Bayes' classifier
+- Lesson 5. MO 12/10/26 
+<!-- [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb)  -->
+Naïve Bayes' classifier 
 
 
 ### 4. Word vectors
-- Lesson 6. WE 15/10/25 [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf) Term 
-Frequency–Inverse Document Frequency
-- Lesson 7. MO 20/10/25 [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb) 
+- Lesson 6. WE 14/10/26 
+<!-- [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf)  -->
+Term Frequency–Inverse Document Frequency
+- Lesson 7. MO 19/10/26 
+<!-- [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb)  -->
 Term Frequency–Inverse Document Frequency
 <!-- 
-- ~~TH 17/10/25~~ 
+- ~~TH 17/10/26~~ 
 -->
 
 ### 5. From Word Counts to Meaning
 
-- Lesson 8. WE 22/10/25 [Slides](/uploads/nlp25/08_dit_nlp_handout.pdf) From 
-word counts to meaning (introducing topic modelling)
-- Lesson 8. WE 22/10/25 
-[Notebook](/uploads/nlp25/08_dit_nlp_topicmodeling.ipynb) From word counts 
+- Lesson 8. WE 21/10/26 [Slides]
+<!-- (/uploads/nlp25/08_dit_nlp_handout.pdf)  -->
+From word counts to meaning (introducing topic modelling)
+- Lesson 8. WE 21/10/26 
+<!-- [Notebook](/uploads/nlp25/08_dit_nlp_topicmodeling.ipynb)  -->
+From word counts 
 to meaning (introducing topic modelling) 
 
-<!-- - ~~WE 23/10/25~~ TH 24/10/25 -->
+<!-- - ~~WE 23/10/26~~ TH 24/10/26 -->
 
-<!-- THIS LESSON WAS NOT OFFERED IN  2024
-- 24/10/23 [Slides introducing LSA and SVD](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf)
-- 24/10/23 [Notebook on LSA](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb) -->
+<!-- THIS LESSON WAS NOT OFFERED IN  2024-->
+- Lesson 9. MO 26/10/26  
+<!-- [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf) -->
+Introduction to LSA and SVD\*
+- Lesson 9. MO 26/10/26 
+<!-- [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb)  -->
+Introduction to LSA and SVD\*
+
 
 ### 6. Training and Evaluation
-- Lesson 9. MO 27/10/25 [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf) 
+- Lesson 10. WE 28/10/26 
+<!-- [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf)  -->
 Training and evaluation
-- Lesson 9. MO 27/10/25 
-[Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb) 
+- Lesson 10. WE 28/10/26 
+<!-- [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb)  -->
 Training and evaluation
 
 ### 7. Intro to NN
-- Lesson 10. WE 29/10/25 [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf) One 
-neuron (the perceptron)
-- Lesson 10. WE 29/10/25 [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) One 
-neuron (the perceptron)
+- Lesson 11. MO 02/11/26 
+<!-- [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf)  -->
+One neuron (the perceptron)
+- Lesson 11. MO 02/11/26 
+<!-- [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) -->
+One  neuron (the perceptron)
 <!-- **Intermezzo** -->
-- Lesson 11. 03/11/25 [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf) Neural 
+- Lesson 12. WE 04/11/26 
+<!-- [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf)  -->
+Neural 
 networks and keras
-- Lesson 11. 03/11/25 [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb) Neural 
-networks and keras
+- Lesson 12. WE 04/11/26 
+<!-- [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb)  -->
+Neural networks and keras
 
 ### 8. Word Embeddings
-- Lesson 12. 05/11/25 [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf) Word2vec
-- Lesson 13. 10/11/25 [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf) Hands on 
+- Lesson 13. MO 09/11/26 
+<!-- [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf)  -->
+Word2vec
+- Lesson 14. WE 11/11/26 
+<!-- [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf)  -->
+Hands on 
 word embeddings
-- Lesson 13. 10/11/25 [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb) 
+- Lesson 14. WE 11/11/26 
+<!-- [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb)  -->
 Hands on word embeddings
 
 ### 9. Doc2Vec
-- Lesson 14. 12/11/25 [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf) From word 
+- Lesson 15. MO 16/11/26 
+<!-- [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf)  -->
+From word 
 back to document representations (doc2vec)
-- Lesson 14. 12/11/25 [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb) From word 
+- Lesson 15. MO 16/11/26 
+<!-- [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb)  -->
+From word 
 back to document representations (doc2vec) 
 <!-- - 14/11/23 [Project reminder](/uploads/nlp25/14_dit_nlp_projects.pdf) -->
 
-<!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO
-### 10. Visualisation
-  I have decided not to offer this lecture anymore
+
+
+<!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO -->
+### 10. Visualisation*
+  <!-- I have decided not to offer this lecture anymore -->
+- Lesson 16. WE 18/11/26 Visualization
+<!-- - Lesson 16. WE 18/11/26
 * \[13/04/22\] Slides on visualization
 * \[13/04/22\] Notebook
  -->
-
-### 10. Convolutions for  text
-- Lesson 15. 17/11/25 [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf) CNNs
-- Lesson 16. 19/11/25 [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb) CNNs
-(we start at slide 26)
+### 11. Convolutions for  text
+- Lesson 17. MO 23/11/26 
+<!-- [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf)  -->
+CNNs
+- Lesson 18. WE 25/11/26 
+<!-- [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb)  -->
+CNNs
 
 (big thanks to P. Gajo for helping with making the notebooks more 
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM
-- Lesson 17. 24/11/25 [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf) RNNs
-- Lesson 17. 24/11/25 [Notebook](/uploads/nlp25/17_dit_nlp_rnn.ipynb) RNNs
-- Lesson 18. 26/11/25 [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf) BiRNNs and LSTMs
-- Lesson 18. 26/11/25 [Notebook](/uploads/nlp25/18_dit_nlp_brnn.ipynb) BiRNNs
-- Lesson 18. 26/11/25 [Notebook](/uploads/nlp25/18_dit_nlp_lstm.ipynb) LSTMs
+- Lesson 19. MO 30/11/26 
+<!-- [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf)  -->
+RNNs
+- Lesson 19. MO 30/11/26 
+<!-- [Notebook](/uploads/nlp25/17_dit_nlp_rnn.ipynb)  -->
+RNNs
+- Lesson 20. WE 02/12/26 
+<!-- [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf)  -->
+BiRNNs and LSTMs
+- Lesson 20. WE 02/12/26 
+<!-- [Notebook](/uploads/nlp25/18_dit_nlp_brnn.ipynb)  -->
+BiRNNs
+- Lesson 18. 26/11/26 
+<!-- [Notebook](/uploads/nlp25/18_dit_nlp_lstm.ipynb)  -->
+LSTMs\*
 
 
 <!-- ### - CLIC-it 2024 -->
@@ -166,30 +215,39 @@ Verbatim Transcription
 - [Poster 2](/uploads/nlp25/clic24_projection.pdf) On Cross-Language Entity 
 Label Projection and Recognition -->
 
-### 12. Text generation
-- Lesson 19. 01/12/25  [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) LSTM: 
+### 12. Text generation*
+<!--- Lesson 19. 01/12/26  
+ [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf)  
+LSTM: 
 characters and generation
-- Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_chars.ipynb) LSTM: 
+- Lesson 19. 01/12/26 
+[Notebook](/uploads/nlp25/19_dit_nlp_chars.ipynb) 
+LSTM: 
 characters
-- Lesson 19. 01/12/25 [Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) LSTM: 
+- Lesson 19. 01/12/26 
+[Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) 
+LSTM: 
 generation
+-->
 
-### 13. Closing
+<!-- ### 13. Closing
 
-(start from lesson 9, slide 16)
-
-- Lesson 20. 10/12/25 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) Closing
-- Lesson 20. 10/12/25 [Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) 
+- Lesson 20. 10/12/26 
+[Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 
+Closing
+- Lesson 20. 10/12/26 
+[Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) 
 Pre-trained LSTM: generation. 
-- Lesson 20. 10/12/25 [Model structure](/uploads/nlp25/shakes_lstm_model.json) 
+- Lesson 20. 10/12/26 --> 
+<!-- [Model structure](/uploads/nlp25/shakes_lstm_model.json) 
 and the weights (as trained during lesson 19) after 
 [1](/uploads/nlp25/shakes_lstm_1.weights.h5),
 [2](/uploads/nlp25/shakes_lstm_2.weights.h5), 
 [3](/uploads/nlp25/shakes_lstm_3.weights.h5), 
 [4](/uploads/nlp25/shakes_lstm_4.weights.h5), and 
 [5](/uploads/nlp25/shakes_lstm_5.weights.h5) epochs.
-
-(the students preferred a Q&A over Seq2Seq and transformers)
+ -->
+<!-- (the students preferred a Q&A over Seq2Seq and transformers) -->
 <!-----
 **The topics/timing from here are indicative and subject to (continuous) 
 modification**
@@ -209,16 +267,16 @@ Transformers
  -->
 ### FIN
 
-## Calendars 
+## Selected topics in NLP
 
-This year, NLP has one _sibling_ lesson:
+From this year, NLP has one _follow-up_ lesson:
 
 - Selected Topics in Natural Language Processing is an optional (with credits). 
 Further information about it is available on the [UniBO 
-website](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2025/508811). 
-Table 1 shows the calendar of the 8 lessons.
+website](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2026/532447). 
+<!-- Table 1 shows the calendar of the 8 lessons. -->
 
-{{< table path="calendar_selnlp.csv" header="true" caption="Table 1: Calendar overviewing all 8 Selected Topics in NLP planned lessons." >}}
+<!-- {{< table path="calendar_selnlp.csv" header="true" caption="Table 1: Calendar overviewing all 8 Selected Topics in NLP planned lessons." >}} -->
 <!--
 - Tutorato of NLP is made to support **you** in the programming side of NLP. 
 Table 3 shows the calendar of the 10 lessons.
@@ -239,9 +297,13 @@ Eventually, I will drop here more ideas for final projects.
 
 ## Previous final projects {#nlp_projects}
 
-### 2025-2026
+### 2026-2027
 
 _yours will be here_
+
+### 2025-2026
+
+_to be updated_
 
 ### 2024-2025
 

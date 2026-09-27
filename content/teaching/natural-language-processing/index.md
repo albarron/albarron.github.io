@@ -52,159 +52,136 @@ Lessons with a star (\*) are tentative.
 
 ### 1. Introduction to Natural Language Processing
 
-- Lesson 1. MO 28/09/26 
+- Lesson 1. MO 28/09/26 Introduction
 <!-- [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) -->
-Introduction
+
 
 ### 2. Words and the vector space model
 
-- Lesson 2. WE 30/09/26 
+- Lesson 2. WE 30/09/26 Tokens and normalisation
 <!-- [Slides](/uploads/nlp25/02_dit_nlp_handout.pdf)  -->
-Tokens and normalisation
-- Lesson 2. WE 30/10/26 
+<!-- - Lesson 2. WE 30/10/26  -->
 <!-- [Notebook](/uploads/nlp25/02_dit_nlp_words.ipynb)  -->
-Tokens and normalisation
+<!-- Tokens and normalisation -->
 
-- Lesson 3. MO 05/10/26 
-<!-- [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf) Vector  -->
-Space Model
-- Lesson 3. MO 05/10/26 
+- Lesson 3. MO 05/10/26 Vector Space Model
+<!-- [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf)   -->
+<!-- - Lesson 3. MO 05/10/26  -->
  <!-- [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) -->
- Vector Space Model 
+ <!-- Vector Space Model  -->
 
 ### 3. Rule-based and Naïve Bayes' classifier
 
-- Lesson 4. WE 07/10/26 
+- Lesson 4. WE 07/10/26 Rule-based sentiment analysis 
 <!-- [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf)  -->
-Rule-based sentiment analysis 
-- Lesson 4. WE 07/10/26 
+<!-- - Lesson 4. WE 07/10/26  -->
 <!-- [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb)  -->
-Rule-based sentiment analysis 
+<!-- Rule-based sentiment analysis  -->
 
-- Lesson 5. MO 12/10/26 
+- Lesson 5. MO 12/10/26 Naïve Bayes' classifier
 <!-- [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf)  -->
-Naïve Bayes' classifier
-- Lesson 5. MO 12/10/26 
+<!-- - Lesson 5. MO 12/10/26  -->
 <!-- [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb)  -->
-Naïve Bayes' classifier 
+<!-- Naïve Bayes' classifier  -->
 
 
 ### 4. Word vectors
-- Lesson 6. WE 14/10/26 
+- Lesson 6. WE 14/10/26 Term Frequency–Inverse Document Frequency
 <!-- [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf)  -->
-Term Frequency–Inverse Document Frequency
-- Lesson 7. MO 19/10/26 
+- Lesson 7. MO 19/10/26 Term Frequency–Inverse Document Frequency
 <!-- [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb)  -->
-Term Frequency–Inverse Document Frequency
+
 <!-- 
 - ~~TH 17/10/26~~ 
 -->
 
 ### 5. From Word Counts to Meaning
 
-- Lesson 8. WE 21/10/26 [Slides]
+- Lesson 8. WE 21/10/26 [Slides] From word counts to meaning (introducing topic modelling)
 <!-- (/uploads/nlp25/08_dit_nlp_handout.pdf)  -->
-From word counts to meaning (introducing topic modelling)
-- Lesson 8. WE 21/10/26 
+<!-- - Lesson 8. WE 21/10/26  -->
 <!-- [Notebook](/uploads/nlp25/08_dit_nlp_topicmodeling.ipynb)  -->
-From word counts 
-to meaning (introducing topic modelling) 
+<!-- From word counts to meaning (introducing topic modelling)  -->
 
 <!-- - ~~WE 23/10/26~~ TH 24/10/26 -->
 
 <!-- THIS LESSON WAS NOT OFFERED IN  2024-->
-- Lesson 9. MO 26/10/26  
+- Lesson 9. MO 26/10/26  Introduction to LSA and SVD\*
 <!-- [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf) -->
-Introduction to LSA and SVD\*
-- Lesson 9. MO 26/10/26 
+<!-- - Lesson 9. MO 26/10/26  -->
 <!-- [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb)  -->
-Introduction to LSA and SVD\*
+<!-- Introduction to LSA and SVD\* -->
 
 
 ### 6. Training and Evaluation
-- Lesson 10. WE 28/10/26 
+- Lesson 10. WE 28/10/26 Training and evaluation
 <!-- [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf)  -->
-Training and evaluation
-- Lesson 10. WE 28/10/26 
+<!-- - Lesson 10. WE 28/10/26  -->
 <!-- [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb)  -->
-Training and evaluation
+<!-- Training and evaluation -->
 
 ### 7. Intro to NN
 - Lesson 11. MO 02/11/26 
 <!-- [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf)  -->
-One neuron (the perceptron)
-- Lesson 11. MO 02/11/26 
+<!-- - Lesson 11. MO 02/11/26  -->
 <!-- [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) -->
-One  neuron (the perceptron)
+<!-- One  neuron (the perceptron) -->
 <!-- **Intermezzo** -->
-- Lesson 12. WE 04/11/26 
+- Lesson 12. WE 04/11/26 Neural networks and keras
 <!-- [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf)  -->
-Neural 
-networks and keras
-- Lesson 12. WE 04/11/26 
+<!-- - Lesson 12. WE 04/11/26  -->
 <!-- [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb)  -->
-Neural networks and keras
+<!-- Neural networks and keras -->
 
 ### 8. Word Embeddings
-- Lesson 13. MO 09/11/26 
+- Lesson 13. MO 09/11/26 Word2vec
 <!-- [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf)  -->
-Word2vec
-- Lesson 14. WE 11/11/26 
+- Lesson 14. WE 11/11/26 Hands on word embeddings
 <!-- [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf)  -->
-Hands on 
-word embeddings
-- Lesson 14. WE 11/11/26 
+<!-- - Lesson 14. WE 11/11/26  -->
 <!-- [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb)  -->
-Hands on word embeddings
+<!-- Hands on word embeddings -->
 
 ### 9. Doc2Vec
-- Lesson 15. MO 16/11/26 
+- Lesson 15. MO 16/11/26 From word back to document representations (doc2vec)
 <!-- [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf)  -->
-From word 
-back to document representations (doc2vec)
-- Lesson 15. MO 16/11/26 
+<!-- - Lesson 15. MO 16/11/26  -->
 <!-- [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb)  -->
-From word 
-back to document representations (doc2vec) 
+<!-- From word back to document representations (doc2vec)  -->
 <!-- - 14/11/23 [Project reminder](/uploads/nlp25/14_dit_nlp_projects.pdf) -->
-
-
 
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO -->
 ### 10. Visualisation*
   <!-- I have decided not to offer this lecture anymore -->
-- Lesson 16. WE 18/11/26 Visualization
+- Lesson 16. WE 18/11/26 Visualisation
 <!-- - Lesson 16. WE 18/11/26
 * \[13/04/22\] Slides on visualization
 * \[13/04/22\] Notebook
  -->
 ### 11. Convolutions for  text
-- Lesson 17. MO 23/11/26 
+- Lesson 17. MO 23/11/26 CNNs
 <!-- [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf)  -->
-CNNs
-- Lesson 18. WE 25/11/26 
+- Lesson 18. WE 25/11/26 CNNs
 <!-- [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb)  -->
-CNNs
 
 (big thanks to P. Gajo for helping with making the notebooks more 
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM
-- Lesson 19. MO 30/11/26 
+- Lesson 19. MO 30/11/26 RNNs
 <!-- [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf)  -->
-RNNs
-- Lesson 19. MO 30/11/26 
+<!-- - Lesson 19. MO 30/11/26  -->
 <!-- [Notebook](/uploads/nlp25/17_dit_nlp_rnn.ipynb)  -->
-RNNs
-- Lesson 20. WE 02/12/26 
+<!-- RNNs -->
+- Lesson 20. WE 02/12/26 BiRNNs and LSTMs
 <!-- [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf)  -->
-BiRNNs and LSTMs
-- Lesson 20. WE 02/12/26 
+<!-- - Lesson 20. WE 02/12/26  -->
 <!-- [Notebook](/uploads/nlp25/18_dit_nlp_brnn.ipynb)  -->
-BiRNNs
-- Lesson 18. 26/11/26 
+<!-- BiRNNs -->
+- Lesson 21? LSTMs\*
+<!-- . 26/11/26  -->
 <!-- [Notebook](/uploads/nlp25/18_dit_nlp_lstm.ipynb)  -->
-LSTMs\*
+
 
 
 <!-- ### - CLIC-it 2024 -->

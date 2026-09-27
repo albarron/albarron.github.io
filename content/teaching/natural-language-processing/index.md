@@ -52,8 +52,8 @@ Lessons with a star (\*) are tentative.
 
 ### 1. Introduction to Natural Language Processing
 
-- Lesson 1. MO 28/09/26 Introduction
-<!-- [Slides](/uploads/nlp25/01_dit_nlp_handout.pdf) -->
+- Lesson 1. MO 28/09/26 [Slides](/uploads/nlp/01_dit_nlp_handout.pdf) Introduction
+
 
 
 ### 2. Words and the vector space model

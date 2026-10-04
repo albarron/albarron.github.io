@@ -63,10 +63,9 @@ Lessons with a star (\*) are tentative.
 
 ### 3. Rule-based and Naïve Bayes' classifier
 
-- Lesson 4. WE 07/10/26 Rule-based sentiment analysis [Slides](/uploads/nlp/04_dit_nlp_handout.pdf)
+- Lesson 4. WE 07/10/26 [Slides](/uploads/nlp/04_dit_nlp_handout.pdf) Rule-based sentiment analysis
 - Lesson 4. WE 07/10/26 [Notebook](/uploads/nlp/04_dit_nlp_rulebasedsentiment.ipynb)
 Rule-based sentiment analysis
-
 - Lesson 5. MO 12/10/26 Naïve Bayes' classifier
 <!-- [Slides](/uploads/nlp/05_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 5. MO 12/10/26  -->

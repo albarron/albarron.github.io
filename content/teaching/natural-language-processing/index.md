@@ -59,32 +59,29 @@ Lessons with a star (\*) are tentative.
 - Lesson 2. WE 30/09/26 [Slides](/uploads/nlp/02_dit_nlp_handout.pdf) Tokens and normalisation
 - Lesson 2. WE 30/10/26 [Notebook](/uploads/nlp/02_dit_nlp_words.ipynb) Tokens and normalisation
 
-- Lesson 3. MO 05/10/26 Vector Space Model
-<!-- [Slides](/uploads/nlp25/03_dit_nlp_handout.pdf)   -->
-<!-- - Lesson 3. MO 05/10/26  -->
- <!-- [Notebook on VSM](/uploads/nlp25/03_dit_nlp_tokens.ipynb) -->
- <!-- Vector Space Model  -->
+- Lesson 3. MO 05/10/26 [Slides](/uploads/nlp/03_dit_nlp_handout.pdf) Vector Space Model
+- Lesson 3. MO 05/10/26  [Notebook](/uploads/nlp/03_dit_nlp_tokens.ipynb) Vector Space Model
 
 ### 3. Rule-based and Naïve Bayes' classifier
 
 - Lesson 4. WE 07/10/26 Rule-based sentiment analysis 
-<!-- [Slides](/uploads/nlp25/04_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/04_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 4. WE 07/10/26  -->
-<!-- [Notebook](/uploads/nlp25/04_dit_nlp_rulebasedsentiment.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/04_dit_nlp_rulebasedsentiment.ipynb)  -->
 <!-- Rule-based sentiment analysis  -->
 
 - Lesson 5. MO 12/10/26 Naïve Bayes' classifier
-<!-- [Slides](/uploads/nlp25/05_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/05_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 5. MO 12/10/26  -->
-<!-- [Notebook](/uploads/nlp25/05_dit_nlp_naivebayes.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/05_dit_nlp_naivebayes.ipynb)  -->
 <!-- Naïve Bayes' classifier  -->
 
 
 ### 4. Word vectors
 - Lesson 6. WE 14/10/26 Term Frequency–Inverse Document Frequency
-<!-- [Slides](/uploads/nlp25/06_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/06_dit_nlp_handout.pdf)  -->
 - Lesson 7. MO 19/10/26 Term Frequency–Inverse Document Frequency
-<!-- [Notebook](/uploads/nlp25/06_dit_nlp_tf_idf.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/06_dit_nlp_tf_idf.ipynb)  -->
 
 <!-- 
 - ~~TH 17/10/26~~ 
@@ -93,9 +90,9 @@ Lessons with a star (\*) are tentative.
 ### 5. From Word Counts to Meaning
 
 - Lesson 8. WE 21/10/26 [Slides] From word counts to meaning (introducing topic modelling)
-<!-- (/uploads/nlp25/08_dit_nlp_handout.pdf)  -->
+<!-- (/uploads/nlp/08_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 8. WE 21/10/26  -->
-<!-- [Notebook](/uploads/nlp25/08_dit_nlp_topicmodeling.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/08_dit_nlp_topicmodeling.ipynb)  -->
 <!-- From word counts to meaning (introducing topic modelling)  -->
 
 <!-- - ~~WE 23/10/26~~ TH 24/10/26 -->
@@ -110,40 +107,40 @@ Lessons with a star (\*) are tentative.
 
 ### 6. Training and Evaluation
 - Lesson 10. WE 28/10/26 Training and evaluation
-<!-- [Slides](/uploads/nlp25/09_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/09_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 10. WE 28/10/26  -->
-<!-- [Notebook](/uploads/nlp25/09_dit_nlp_traineval.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/09_dit_nlp_traineval.ipynb)  -->
 <!-- Training and evaluation -->
 
 ### 7. Intro to NN
 - Lesson 11. MO 02/11/26 
-<!-- [Slides](/uploads/nlp25/10_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/10_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 11. MO 02/11/26  -->
-<!-- [Notebook](/uploads/nlp25/10_dit_nlp_nn.ipynb) -->
+<!-- [Notebook](/uploads/nlp/10_dit_nlp_nn.ipynb) -->
 <!-- One  neuron (the perceptron) -->
 <!-- **Intermezzo** -->
 - Lesson 12. WE 04/11/26 Neural networks and keras
-<!-- [Slides](/uploads/nlp25/11_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/11_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 12. WE 04/11/26  -->
-<!-- [Notebook](/uploads/nlp25/11_dit_nlp_keras.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/11_dit_nlp_keras.ipynb)  -->
 <!-- Neural networks and keras -->
 
 ### 8. Word Embeddings
 - Lesson 13. MO 09/11/26 Word2vec
-<!-- [Slides](/uploads/nlp25/12_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/12_dit_nlp_handout.pdf)  -->
 - Lesson 14. WE 11/11/26 Hands on word embeddings
-<!-- [Slides](/uploads/nlp25/13_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/13_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 14. WE 11/11/26  -->
-<!-- [Notebook](/uploads/nlp25/13_dit_nlp_embeddings.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb)  -->
 <!-- Hands on word embeddings -->
 
 ### 9. Doc2Vec
 - Lesson 15. MO 16/11/26 From word back to document representations (doc2vec)
-<!-- [Slides](/uploads/nlp25/14_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/14_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 15. MO 16/11/26  -->
-<!-- [Notebook](/uploads/nlp25/14_dit_nlp_d2v.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/14_dit_nlp_d2v.ipynb)  -->
 <!-- From word back to document representations (doc2vec)  -->
-<!-- - 14/11/23 [Project reminder](/uploads/nlp25/14_dit_nlp_projects.pdf) -->
+<!-- - 14/11/23 [Project reminder](/uploads/nlp/14_dit_nlp_projects.pdf) -->
 
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO -->
 ### 10. Visualisation*
@@ -155,27 +152,27 @@ Lessons with a star (\*) are tentative.
  -->
 ### 11. Convolutions for  text
 - Lesson 17. MO 23/11/26 CNNs
-<!-- [Slides](/uploads/nlp25/15_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/15_dit_nlp_handout.pdf)  -->
 - Lesson 18. WE 25/11/26 CNNs
-<!-- [Notebook](/uploads/nlp25/15_dit_nlp_cnn.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/15_dit_nlp_cnn.ipynb)  -->
 
 (big thanks to P. Gajo for helping with making the notebooks more 
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM
 - Lesson 19. MO 30/11/26 RNNs
-<!-- [Slides](/uploads/nlp25/17_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/17_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 19. MO 30/11/26  -->
-<!-- [Notebook](/uploads/nlp25/17_dit_nlp_rnn.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/17_dit_nlp_rnn.ipynb)  -->
 <!-- RNNs -->
 - Lesson 20. WE 02/12/26 BiRNNs and LSTMs
-<!-- [Slides](/uploads/nlp25/18_dit_nlp_handout.pdf)  -->
+<!-- [Slides](/uploads/nlp/18_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 20. WE 02/12/26  -->
-<!-- [Notebook](/uploads/nlp25/18_dit_nlp_brnn.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/18_dit_nlp_brnn.ipynb)  -->
 <!-- BiRNNs -->
 - Lesson 21? LSTMs\*
 <!-- . 26/11/26  -->
-<!-- [Notebook](/uploads/nlp25/18_dit_nlp_lstm.ipynb)  -->
+<!-- [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb)  -->
 
 
 
@@ -189,15 +186,15 @@ Label Projection and Recognition -->
 
 ### 12. Text generation*
 <!--- Lesson 19. 01/12/26  
- [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf)  
+ [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
 LSTM: 
 characters and generation
 - Lesson 19. 01/12/26 
-[Notebook](/uploads/nlp25/19_dit_nlp_chars.ipynb) 
+[Notebook](/uploads/nlp/19_dit_nlp_chars.ipynb) 
 LSTM: 
 characters
 - Lesson 19. 01/12/26 
-[Notebook](/uploads/nlp25/19_dit_nlp_lstm_gen.ipynb) 
+[Notebook](/uploads/nlp/19_dit_nlp_lstm_gen.ipynb) 
 LSTM: 
 generation
 -->
@@ -205,19 +202,19 @@ generation
 <!-- ### 13. Closing
 
 - Lesson 20. 10/12/26 
-[Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 
+[Slides](/uploads/nlp/20_dit_nlp_handout.pdf) 
 Closing
 - Lesson 20. 10/12/26 
-[Notebook](/uploads/nlp25/20_dit_nlp_shakes.ipynb) 
+[Notebook](/uploads/nlp/20_dit_nlp_shakes.ipynb) 
 Pre-trained LSTM: generation. 
 - Lesson 20. 10/12/26 --> 
-<!-- [Model structure](/uploads/nlp25/shakes_lstm_model.json) 
+<!-- [Model structure](/uploads/nlp/shakes_lstm_model.json) 
 and the weights (as trained during lesson 19) after 
-[1](/uploads/nlp25/shakes_lstm_1.weights.h5),
-[2](/uploads/nlp25/shakes_lstm_2.weights.h5), 
-[3](/uploads/nlp25/shakes_lstm_3.weights.h5), 
-[4](/uploads/nlp25/shakes_lstm_4.weights.h5), and 
-[5](/uploads/nlp25/shakes_lstm_5.weights.h5) epochs.
+[1](/uploads/nlp/shakes_lstm_1.weights.h5),
+[2](/uploads/nlp/shakes_lstm_2.weights.h5), 
+[3](/uploads/nlp/shakes_lstm_3.weights.h5), 
+[4](/uploads/nlp/shakes_lstm_4.weights.h5), and 
+[5](/uploads/nlp/shakes_lstm_5.weights.h5) epochs.
  -->
 <!-- (the students preferred a Q&A over Seq2Seq and transformers) -->
 <!-----
@@ -226,10 +223,10 @@ modification**
 
 ### 13. Intro to Seq2Seq and Transformers
 Lesson 20 10/12/25-->
-<!-- - 16/12/24 [Slides](/uploads/nlp25/19_dit_nlp_handout.pdf) 20. Into 
+<!-- - 16/12/24 [Slides](/uploads/nlp/19_dit_nlp_handout.pdf) 20. Into 
 Transformers
-- 16/12/24 [Slides](/uploads/nlp25/20_dit_nlp_handout.pdf) 20. Beyond; 
-[attention gif](/uploads/nlp25/transform20fps.gif) -->
+- 16/12/24 [Slides](/uploads/nlp/20_dit_nlp_handout.pdf) 20. Beyond; 
+[attention gif](/uploads/nlp/transform20fps.gif) -->
 
 <!-- ### 14. A brief intro to LLMs + Closing Remaks -->
 

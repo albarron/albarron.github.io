@@ -58,7 +58,6 @@ Lessons with a star (\*) are tentative.
 
 - Lesson 2. WE 30/09/26 [Slides](/uploads/nlp/02_dit_nlp_handout.pdf) Tokens and normalisation
 - Lesson 2. WE 30/10/26 [Notebook](/uploads/nlp/02_dit_nlp_words.ipynb) Tokens and normalisation
-
 - Lesson 3. MO 05/10/26 [Slides](/uploads/nlp/03_dit_nlp_handout.pdf) Vector Space Model
 - Lesson 3. MO 05/10/26  [Notebook](/uploads/nlp/03_dit_nlp_tokens.ipynb) Vector Space Model
 

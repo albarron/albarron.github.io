@@ -66,11 +66,8 @@ Lessons with a star (\*) are tentative.
 - Lesson 4. WE 07/10/26 [Slides](/uploads/nlp/04_dit_nlp_handout.pdf) Rule-based sentiment analysis
 - Lesson 4. WE 07/10/26 [Notebook](/uploads/nlp/04_dit_nlp_rulebasedsentiment.ipynb)
 Rule-based sentiment analysis
-- Lesson 5. MO 12/10/26 Naïve Bayes' classifier
-<!-- [Slides](/uploads/nlp/05_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 5. MO 12/10/26  -->
-<!-- [Notebook](/uploads/nlp/05_dit_nlp_naivebayes.ipynb)  -->
-<!-- Naïve Bayes' classifier  -->
+- Lesson 5. MO 12/10/26 [Slides](/uploads/nlp/05_dit_nlp_handout.pdf) Naïve Bayes' classifier
+- Lesson 5. MO 12/10/26 [Notebook](/uploads/nlp/05_dit_nlp_naivebayes.ipynb) Naïve Bayes' classifier 
 
 
 ### 4. Word vectors

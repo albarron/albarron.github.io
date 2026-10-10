@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2026-09-25
+date: 2026-10-10
 type: docs
 math: true
 tags:
@@ -71,10 +71,8 @@ Rule-based sentiment analysis
 
 
 ### 4. Word vectors
-- Lesson 6. WE 14/10/26 Term Frequency–Inverse Document Frequency
-<!-- [Slides](/uploads/nlp/06_dit_nlp_handout.pdf)  -->
-- Lesson 7. MO 19/10/26 Term Frequency–Inverse Document Frequency
-<!-- [Notebook](/uploads/nlp/06_dit_nlp_tf_idf.ipynb)  -->
+- Lesson 6. WE 14/10/26 [Slides](/uploads/nlp/06_dit_nlp_handout.pdf) Term Frequency–Inverse Document Frequency
+- Lesson 7. MO 19/10/26 [Notebook](/uploads/nlp/06_dit_nlp_tf_idf.ipynb) Term Frequency–Inverse Document Frequency
 
 <!-- 
 - ~~TH 17/10/26~~ 

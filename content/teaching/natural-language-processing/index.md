@@ -87,7 +87,7 @@ From word counts to meaning (introducing topic modelling)
 <!-- - ~~WE 23/10/26~~ TH 24/10/26 -->
 
 <!-- THIS LESSON WAS NOT OFFERED IN  2024-->
-- Lesson 9. MO 26/10/26  Introduction to LSA and SVD\*
+<!-- - Lesson 9. MO 26/10/26  Introduction to LSA and SVD\* -->
 <!-- [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_04/08_dit_nlp_handout.pdf) -->
 <!-- - Lesson 9. MO 26/10/26  -->
 <!-- [Notebook](https://github.com/albarron/academic-kickstart/blob/master/files/nlp23/week_04/08_dit_nlp_lsa.ipynb)  -->
@@ -95,11 +95,9 @@ From word counts to meaning (introducing topic modelling)
 
 
 ### 6. Training and Evaluation
-- Lesson 10. WE 28/10/26 Training and evaluation
-<!-- [Slides](/uploads/nlp/09_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 10. WE 28/10/26  -->
-<!-- [Notebook](/uploads/nlp/09_dit_nlp_traineval.ipynb)  -->
-<!-- Training and evaluation -->
+- Lesson 9. WE 28/10/26 [Slides](/uploads/nlp/09_dit_nlp_handout.pdf) Training and evaluation
+- Lesson 9. WE 28/10/26 [Notebook](/uploads/nlp/09_dit_nlp_traineval.ipynb) 
+Training and evaluation
 
 ### 7. Intro to NN
 - Lesson 11. MO 02/11/26 

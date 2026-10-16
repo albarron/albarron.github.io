@@ -62,8 +62,8 @@ sections:
         
         Do not hesitate to reach out 😃
         
-        
-[AIinHE](https://docs.google.com/presentation/d/11XtWkePB3PGEbcEQHwTvrIvMNtmt2wGKGuJgeVkv_e8/edit?usp=sharing)
+        [AIinHE](https://docs.google.com/presentation/d/11XtWkePB3PGEbcEQHwTvrIvMNtmt2wGKGuJgeVkv_e8/edit?usp=sharing)
+    
     design:
       columns: '1'
   - block: collection

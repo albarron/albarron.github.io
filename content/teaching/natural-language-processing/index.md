@@ -80,11 +80,9 @@ Rule-based sentiment analysis
 
 ### 5. From Word Counts to Meaning
 
-- Lesson 8. WE 21/10/26 From word counts to meaning (introducing topic modelling)
-<!-- [Slides](/uploads/nlp/08_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 8. WE 21/10/26  -->
-<!-- [Notebook](/uploads/nlp/08_dit_nlp_topicmodeling.ipynb)  -->
-<!-- From word counts to meaning (introducing topic modelling)  -->
+- Lesson 8. WE 21/10/26 [Slides](/uploads/nlp/08_dit_nlp_handout.pdf) From word counts to meaning (introducing topic modelling)
+- Lesson 8. WE 21/10/26 [Notebook](/uploads/nlp/07_dit_nlp_topicmodeling.ipynb)
+From word counts to meaning (introducing topic modelling)
 
 <!-- - ~~WE 23/10/26~~ TH 24/10/26 -->
 

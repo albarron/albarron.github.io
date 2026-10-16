@@ -57,10 +57,14 @@ sections:
         [disinformation](https://dl.acm.org/doi/10.1007/978-3-031-28241-6_59). 
         I was the PI of projects [GIARA](https://progettogiara.it) and 
         [!Trans](https://site.unibo.it/no-translate/en), where we explored NLP 
-        solutions for Gastronomy. Laterly I am engaged with [varieties of 
+        solutions for Gastronomy. Lately I am engaged with [varieties of 
         languages](https://aclanthology.org/2024.naacl-long.204/).
         
         Do not hesitate to reach out 😃
+        
+        
+[AIinHE](https://docs.google.com/presentation/d/
+11XtWkePB3PGEbcEQHwTvrIvMNtmt2wGKGuJgeVkv_e8/edit?usp=sharing)
     design:
       columns: '1'
   - block: collection

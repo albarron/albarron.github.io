@@ -17,7 +17,7 @@ main:
     url: /#talks
     weight: 13
   - name: News
-    url: /#news
+    url: /#recent_news
     weight: 14
   - name: Experience
     url: experience/

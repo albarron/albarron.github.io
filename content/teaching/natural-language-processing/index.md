@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2026-10-10
+date: 2026-10-21
 type: docs
 math: true
 tags:
@@ -95,27 +95,24 @@ From word counts to meaning (introducing topic modelling)
 
 
 ### 6. Training and Evaluation
-- Lesson 9. WE 28/10/26 [Slides](/uploads/nlp/09_dit_nlp_handout.pdf) Training and evaluation
-- Lesson 9. WE 28/10/26 [Notebook](/uploads/nlp/09_dit_nlp_traineval.ipynb) 
+- Lesson 9. MO 26/10/26 [Slides](/uploads/nlp/09_dit_nlp_handout.pdf) Training and evaluation
+- Lesson 9. MO 26/10/26 [Notebook](/uploads/nlp/09_dit_nlp_traineval.ipynb) 
 Training and evaluation
 
 ### 7. Intro to NN
-- Lesson 11. MO 02/11/26 
-<!-- [Slides](/uploads/nlp/10_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 11. MO 02/11/26  -->
-<!-- [Notebook](/uploads/nlp/10_dit_nlp_nn.ipynb) -->
-<!-- One  neuron (the perceptron) -->
+- Lesson 10. WE 28/10/26 [Slides](/uploads/nlp/10_dit_nlp_handout.pdf) One  neuron (the perceptron)
+- Lesson 10. WE 28/10/26 [Notebook](/uploads/nlp/10_dit_nlp_nn.ipynb) One  neuron (the perceptron)
 <!-- **Intermezzo** -->
-- Lesson 12. WE 04/11/26 Neural networks and keras
+- Lesson 11. MO 02/11/26 Neural networks and keras
 <!-- [Slides](/uploads/nlp/11_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 12. WE 04/11/26  -->
+<!-- - Lesson 11. MO 02/11/26   -->
 <!-- [Notebook](/uploads/nlp/11_dit_nlp_keras.ipynb)  -->
 <!-- Neural networks and keras -->
 
 ### 8. Word Embeddings
-- Lesson 13. MO 09/11/26 Word2vec
+- Lesson 12. MO 09/11/26 Word2vec
 <!-- [Slides](/uploads/nlp/12_dit_nlp_handout.pdf)  -->
-- Lesson 14. WE 11/11/26 Hands on word embeddings
+- Lesson 13. WE 11/11/26 Hands on word embeddings
 <!-- [Slides](/uploads/nlp/13_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 14. WE 11/11/26  -->
 <!-- [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb)  -->

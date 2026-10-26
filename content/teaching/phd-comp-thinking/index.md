@@ -1,7 +1,7 @@
 ---
 title: PhD Computing Thinking and Programming
 summary: The computing thinking and programming lesson for DIT's PhD 
-date: 2025-10-22
+date: 2026-10-26
 type: docs
 math: true
 tags:
@@ -10,7 +10,7 @@ image:
   caption: 'The computing lesson at the PhD'
 ---
 
-**Academic Year 2025/2026**
+**Academic Year 2026/2027**
 
 (frontpage illustration produced with 
 [deepai's tool](https://deepai.org/machine-learning-model/text2img) in October 2024, using prompt _computing thinking for humanities  phd students_).
@@ -30,30 +30,36 @@ In particular:-->
 
 Module 1: Computational Thinking
 
-* 29/10/25 [Slides](/uploads/phdcomp/01_dit_phdcompthink_handout.pdf)
+* 27/10/26 [Slides](/uploads/phdcomp/01_dit_phdcompthink_handout.pdf)
 
 ### Session 2
 
 Module 2: Programming basics
  
-* 05/11/25 [Slides](/uploads/phdcomp/02_dit_phdcompthink_handout.pdf)
-* 05/11/25 [Notebook](/uploads/phdcomp/DIT_python_notebook_1_static.ipynb)
+* 03/11/26
+<!-- [Slides](/uploads/phdcomp/02_dit_phdcompthink_handout.pdf) -->
+<!-- * 05/11/25 [Notebook](/uploads/phdcomp/DIT_python_notebook_1_static.ipynb) -->
 
 ### Session 3
 
-We start with the homework from session 2
+<!-- We start with the homework from session 2 -->
 
 Module 3: Data
 
-* 12/11/25 [Notebook](/uploads/phdcomp/03_PythonData_static.ipynb)
+* 10/11/26
+<!-- [Notebook](/uploads/phdcomp/03_PythonData_static.ipynb) -->
 
 Module 4: Python for Poets (1 of 2)
 
-* 12/11/25 [slides](/uploads/phdcomp/03_dit_phdcompthink_handout.pdf)
+* 10/11/26
+<!-- [slides](/uploads/phdcomp/03_dit_phdcompthink_handout.pdf)
 * 12/11/25 [notebook](/uploads/phdcomp/03_Python4Poets_1.ipynb)
 * 12/11/25 [txt file](/uploads/phdcomp24-25/genesis.txt)
+ -->
 
-<!--[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
+
+<!--THIS WAS ALREADY COMMENTED
+[Module 4. Python for Poets 1](https://github.com/TinfFoil/learning_dit_python/tree/main/03_python_4_poets1)
 * 12/11/24 [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/dottorato23/dit_learning_python_02_notebook.pdf)
 * 12/11/24 [Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/02_Python4Poets_1stpart_static.ipynb)
 * 12/11/24 [Corpus](https://github.com/TinfFoil/learning_dit_python/blob/main/03_python_4_poets1/genesis.txt)-->
@@ -62,7 +68,7 @@ Module 4: Python for Poets (1 of 2)
 
 Module 4: Python for Poets (2 of 2)
 
-* 19/11/24 
+* 17/11/26
 <!-- [notebook](/uploads/phdcomp24-25/03_Python4Poets_2.ipynb) -->
 
 <!--

@@ -41,7 +41,7 @@ Module 2: Programming basics
 
 ### Session 3
 
-<!-- We start with the homework from session 2 -->
+We start with slide 23 and homework from session 2
 
 Module 3: Data
 

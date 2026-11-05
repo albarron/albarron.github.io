@@ -109,11 +109,8 @@ Training and evaluation
 
 ### 8. Word Embeddings
 - Lesson 12. MO 04/11/26 [Slides](/uploads/nlp/12_dit_nlp_handout.pdf) Word2vec
-- Lesson 13. WE 09/11/26 Hands on word embeddings
-<!-- [Slides](/uploads/nlp/13_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 14. WE 09/11/26  -->
-<!-- [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb)  -->
-<!-- Hands on word embeddings -->
+- Lesson 13. WE 09/11/26 [Slides](/uploads/nlp/13_dit_nlp_handout.pdf) Hands on word embeddings
+- Lesson 14. WE 09/11/26 [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb) Hands on word embeddings
 
 ### 9. Doc2Vec
 - Lesson 15. MO 11/11/26 From word back to document representations (doc2vec)

@@ -46,7 +46,7 @@ We start with slide 23 and homework from session 2
 Module 3: Data
 
 * 10/11/26
-<!-- [Notebook](/uploads/phdcomp/03_PythonData_static.ipynb) -->
+[Notebook](/uploads/phdcomp/03_PythonData_static.ipynb)
 
 Module 4: Python for Poets (1 of 2)
 

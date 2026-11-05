@@ -110,12 +110,12 @@ Training and evaluation
 ### 8. Word Embeddings
 - Lesson 12. MO 04/11/26 [Slides](/uploads/nlp/12_dit_nlp_handout.pdf) Word2vec
 - Lesson 13. MO 09/11/26 [Slides](/uploads/nlp/13_dit_nlp_handout.pdf) Hands on word embeddings
-- Lesson 14. MO 09/11/26 [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb) Hands on word embeddings
+- Lesson 13. MO 09/11/26 [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb) Hands on word embeddings
 
 ### 9. Doc2Vec
-- Lesson 15. WE 11/11/26 From word back to document representations (doc2vec)
+- Lesson 14. WE 11/11/26 From word back to document representations (doc2vec)
 <!-- [Slides](/uploads/nlp/14_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 15. WE 11/11/26  -->
+<!-- - Lesson 14. WE 11/11/26  -->
 <!-- [Notebook](/uploads/nlp/14_dit_nlp_d2v.ipynb)  -->
 <!-- From word back to document representations (doc2vec)  -->
 <!-- - 14/11/23 [Project reminder](/uploads/nlp/14_dit_nlp_projects.pdf) -->
@@ -123,33 +123,33 @@ Training and evaluation
 <!-- THIS WAS NOT GIVEN SINCE TWO YEARS AGO -->
 ### 10. Visualisation*
   <!-- I have decided not to offer this lecture anymore -->
-- Lesson 16. MO 16/11/26 Visualisation
-<!-- - Lesson 16. MO 16/11/26
+- Lesson 15. MO 16/11/26 Visualisation
+<!-- - Lesson 15. MO 16/11/26
 * \[13/04/22\] Slides on visualization
 * \[13/04/22\] Notebook
  -->
 ### 11. Convolutions for  text
-- Lesson 17. WE 18/11/26 CNNs
+- Lesson 16. WE 18/11/26 CNNs
 <!-- [Slides](/uploads/nlp/15_dit_nlp_handout.pdf)  -->
-- Lesson 18. MO 23/11/26 Rilevamento [link](http://val.unibo.it/demo.php)
-- Lesson 18. MO 23/11/26 CNNs
+- Lesson 17. MO 23/11/26 Rilevamento [link](http://val.unibo.it/demo.php)
+- Lesson 17. MO 23/11/26 CNNs
 <!-- [Notebook](/uploads/nlp/15_dit_nlp_cnn.ipynb)  -->
 
 (big thanks to P. Gajo for helping with making the notebooks more 
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM
-- Lesson 19. WE 25/11/26 RNNs
+- Lesson 18. WE 25/11/26 RNNs
 <!-- [Slides](/uploads/nlp/17_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 19. WE 25/11/26  -->
+<!-- - Lesson 18. WE 25/11/26  -->
 <!-- [Notebook](/uploads/nlp/17_dit_nlp_rnn.ipynb)  -->
 <!-- RNNs -->
-- Lesson 20. MO 30/11/26 BiRNNs and LSTMs
+- Lesson 19. MO 30/11/26 BiRNNs and LSTMs
 <!-- [Slides](/uploads/nlp/18_dit_nlp_handout.pdf)  -->
 <!-- - Lesson 20. MO 30/11/26  -->
 <!-- [Notebook](/uploads/nlp/18_dit_nlp_brnn.ipynb)  -->
 <!-- BiRNNs -->
-- Lesson 21? LSTMs\*
+- Lesson 20? LSTMs\*
 <!-- . 02/12/26  -->
 <!-- [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb)  -->
 

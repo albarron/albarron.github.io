@@ -51,9 +51,7 @@ Module 4: Python for Poets (1 of 2)
 
 * 10/11/26 [slides](/uploads/phdcomp/03_dit_phdcompthink_handout.pdf)
 * 10/11/26 [notebook](/uploads/phdcomp/03_Python4Poets_1.ipynb)
-<!--
-* 12/11/25 [txt file](/uploads/phdcomp24-25/genesis.txt)
- -->
+* 10/11/26 [txt file](/uploads/phdcomp/genesis.txt)
 
 
 <!--THIS WAS ALREADY COMMENTED

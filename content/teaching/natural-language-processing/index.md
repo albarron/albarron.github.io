@@ -126,12 +126,12 @@ Training and evaluation
 * \[13/04/22\] Notebook
  -->
 ### 10. Convolutions for  text
-- Lesson 15. MO 16/11/26 CNNs
-<!-- [Slides](/uploads/nlp/15_dit_nlp_handout.pdf)  -->
-- Lesson 16. WE 18/11/26 CNNs
-<!-- [Notebook](/uploads/nlp/15_dit_nlp_cnn.ipynb)  -->
+We start with slide 13
 
-(big thanks to P. Gajo for helping with making the notebooks more 
+- Lesson 15. MO 16/11/26 [Slides](/uploads/nlp/15_dit_nlp_handout.pdf)CNNs
+- Lesson 16. WE 18/11/26 [Notebook](/uploads/nlp/15_dit_nlp_cnn.ipynb)CNNs
+
+(big thanks to P. Gajo for helping to make the code more 
 memory-efficient)
 
 ### 11. Text is Sequential / LSTM

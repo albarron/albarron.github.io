@@ -62,16 +62,14 @@ Module 4: Python for Poets (1 of 2)
 
 ### Session 4
 
+We start in Section 2.1 from last week's notebook
+
 Module 4: Python for Poets (2 of 2)
 
-* 17/11/26
-<!-- [notebook](/uploads/phdcomp24-25/03_Python4Poets_2.ipynb) -->
+* 17/11/26 [notebook](/uploads/phdcomp/04_Python4Poets_2.ipynb)
+* 17/11/26 [txt file](/uploads/phdcomp/genesis.txt)
 
 <!--
-
-* 19/11/24
-[Notebook](https://github.com/TinfFoil/learning_dit_python/blob/main/04_python_4_poets2/Python4Poets_2ndpart_static.ipynb) -->
-
 
 ## Teaching methods
 

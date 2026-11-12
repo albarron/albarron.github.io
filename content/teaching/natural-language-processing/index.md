@@ -107,12 +107,10 @@ Training and evaluation
 
 <!-- **Intermezzo** -->
 
-### 8. Word Embeddings
+### 8. Word (and Doc) Embeddings
 - Lesson 12. MO 04/11/26 [Slides](/uploads/nlp/12_dit_nlp_handout.pdf) Word2vec
 - Lesson 13. MO 09/11/26 [Slides](/uploads/nlp/13_dit_nlp_handout.pdf) Hands on word embeddings
 - Lesson 13. MO 09/11/26 [Notebook](/uploads/nlp/13_dit_nlp_embeddings.ipynb) Hands on word embeddings
-
-### 9. Doc2Vec
 - Lesson 14. WE 11/11/26 [Slides](/uploads/nlp/14_dit_nlp_handout.pdf) From word back to document representations (doc2vec)
 - Lesson 14. WE 11/11/26 [Notebook](/uploads/nlp/14_dit_nlp_d2v.ipynb) From word back to document representations (doc2vec)
 <!-- - 14/11/23 [Project reminder](/uploads/nlp/14_dit_nlp_projects.pdf) -->
@@ -125,7 +123,7 @@ Training and evaluation
 * \[13/04/22\] Slides on visualization
 * \[13/04/22\] Notebook
  -->
-### 10. Convolutions for  text
+### 9. Convolutions for  text
 We start with slide 13
 
 - Lesson 15. MO 16/11/26 [Slides](/uploads/nlp/15_dit_nlp_handout.pdf)CNNs
@@ -134,7 +132,7 @@ We start with slide 13
 (big thanks to P. Gajo for helping to make the code more 
 memory-efficient)
 
-### 11. Text is Sequential / LSTM
+### 10. Text is Sequential / LSTM
 - Lesson 18. MO 23/11/26 Rilevamento [link](http://val.unibo.it)
 - Lesson 18. MO 23/11/26 RNNs
 <!-- [Slides](/uploads/nlp/17_dit_nlp_handout.pdf)  -->
@@ -160,7 +158,7 @@ Verbatim Transcription
 - [Poster 2](/uploads/nlp25/clic24_projection.pdf) On Cross-Language Entity 
 Label Projection and Recognition -->
 
-### 12. Text generation*
+### 11. Text generation*
 <!--- Lesson 19. 01/12/26  
  [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
 LSTM: 

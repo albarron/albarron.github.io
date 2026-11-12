@@ -126,8 +126,8 @@ Training and evaluation
 ### 9. Convolutions for  text
 We start with slide 13
 
-- Lesson 15. MO 16/11/26 [Slides](/uploads/nlp/15_dit_nlp_handout.pdf)CNNs
-- Lesson 16. WE 18/11/26 [Notebook](/uploads/nlp/15_dit_nlp_cnn.ipynb)CNNs
+- Lesson 15. MO 16/11/26 [Slides](/uploads/nlp/15_dit_nlp_handout.pdf) CNNs
+- Lesson 16. WE 18/11/26 [Notebook](/uploads/nlp/15_dit_nlp_cnn.ipynb) CNNs
 
 (big thanks to P. Gajo for helping to make the code more 
 memory-efficient)

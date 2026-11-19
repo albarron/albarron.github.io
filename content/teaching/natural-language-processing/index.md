@@ -145,7 +145,7 @@ memory-efficient)
 <!-- [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb)  -->
 
 ### 11. Text generation
-Lesson 20. 01/12/26  
+- Lesson 20. 01/12/26  
 <!---  [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
 LSTM: 
 characters and generation

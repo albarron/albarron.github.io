@@ -136,13 +136,9 @@ memory-efficient)
 - Lesson 17. MO 23/11/26 [Rilevamento](http://val.unibo.it)
 - Lesson 17. MO 23/11/26 [Slides](/uploads/nlp/17_dit_nlp_handout.pdf) RNNs
 - Lesson 17. MO 23/11/26 [Notebook](/uploads/nlp/17_dit_nlp_rnn.ipynb) RNNs
-- Lesson 18. WE 25/11/26 BiRNNs and LSTMs
-<!-- [Slides](/uploads/nlp/18_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 18. WE 25/11/26  -->
-<!-- [Notebook](/uploads/nlp/18_dit_nlp_brnn.ipynb)  -->
-<!-- BiRNNs -->
-- Lesson 19. MO 30/11/26 LSTMs
-<!-- [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb)  -->
+- Lesson 18. WE 25/11/26 [Slides](/uploads/nlp/18_dit_nlp_handout.pdf) BiRNNs and LSTMs
+- Lesson 18. WE 25/11/26 [Notebook](/uploads/nlp/18_dit_nlp_brnn.ipynb) BiRNNs
+- Lesson 19. MO 30/11/26 [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb) LSTMs
 
 ### 11. Text generation
 - Lesson 20. 01/12/26  

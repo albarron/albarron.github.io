@@ -133,37 +133,23 @@ We start with slide 13
 memory-efficient)
 
 ### 10. Text is Sequential / LSTM
-- Lesson 18. MO 23/11/26 Rilevamento [link](http://val.unibo.it)
-- Lesson 18. MO 23/11/26 RNNs
-<!-- [Slides](/uploads/nlp/17_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 18. MO 23/11/26  -->
-<!-- [Notebook](/uploads/nlp/17_dit_nlp_rnn.ipynb)  -->
-<!-- RNNs -->
-- Lesson 19. WE 25/11/26 BiRNNs and LSTMs
+- Lesson 17. MO 23/11/26 [Rilevamento](http://val.unibo.it)
+- Lesson 17. MO 23/11/26 [Slides](/uploads/nlp/17_dit_nlp_handout.pdf) RNNs
+- Lesson 17. MO 23/11/26 [Notebook](/uploads/nlp/17_dit_nlp_rnn.ipynb) RNNs
+- Lesson 18. WE 25/11/26 BiRNNs and LSTMs
 <!-- [Slides](/uploads/nlp/18_dit_nlp_handout.pdf)  -->
-<!-- - Lesson 20. WE 25/11/26  -->
+<!-- - Lesson 18. WE 25/11/26  -->
 <!-- [Notebook](/uploads/nlp/18_dit_nlp_brnn.ipynb)  -->
 <!-- BiRNNs -->
-- Lesson 20? LSTMs\*
-<!-- . MO 30/11/26  -->
+- Lesson 19. MO 30/11/26 LSTMs
 <!-- [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb)  -->
 
-
-
-<!-- ### - CLIC-it 2024 -->
-<!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 
-Multilingual Translation
-and Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for 
-Verbatim Transcription
-- [Poster 2](/uploads/nlp25/clic24_projection.pdf) On Cross-Language Entity 
-Label Projection and Recognition -->
-
-### 11. Text generation*
-<!--- Lesson 19. 01/12/26  
- [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
+### 11. Text generation
+Lesson 20. 01/12/26  
+<!---  [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
 LSTM: 
 characters and generation
-- Lesson 19. 01/12/26 
+- Lesson 20. 01/12/26 
 [Notebook](/uploads/nlp/19_dit_nlp_chars.ipynb) 
 LSTM: 
 characters
@@ -172,6 +158,14 @@ characters
 LSTM: 
 generation
 -->
+
+<!-- ### - CLIC-it 2024 -->
+<!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 
+Multilingual Translation
+and Interpreting Corpus: A Modular Pipeline and an Evaluation of ASR for 
+Verbatim Transcription
+- [Poster 2](/uploads/nlp25/clic24_projection.pdf) On Cross-Language Entity 
+Label Projection and Recognition -->
 
 <!-- ### 13. Closing
 

@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2026-10-21
+date: 2026-11-25
 type: docs
 math: true
 tags:
@@ -138,14 +138,15 @@ memory-efficient)
 - Lesson 17. MO 23/11/26 [Notebook](/uploads/nlp/17_dit_nlp_rnn.ipynb) RNNs
 - Lesson 18. WE 25/11/26 [Slides](/uploads/nlp/18_dit_nlp_handout.pdf) BiRNNs and LSTMs
 - Lesson 18. WE 25/11/26 [Notebook](/uploads/nlp/18_dit_nlp_brnn.ipynb) BiRNNs
-- Lesson 19. MO 30/11/26 [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb) LSTMs
+- Lesson 18. WE 25/11/26 [Notebook](/uploads/nlp/18_dit_nlp_lstm.ipynb) LSTMs
 
 ### 11. Text generation
-- Lesson 20. 01/12/26  
+- Lesson 19 MO 30/11/26 [Ad: job corner](https://eventi.unibo.it/job-corner-campus-forli)
+- Lesson 19 MO 30/11/26 LSTM: characters and generation
 <!---  [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
-LSTM: 
-characters and generation
+-->
 - Lesson 20. 01/12/26 
+<!---
 [Notebook](/uploads/nlp/19_dit_nlp_chars.ipynb) 
 LSTM: 
 characters
@@ -154,6 +155,7 @@ characters
 LSTM: 
 generation
 -->
+- Lesson 20. 01/12/26
 
 <!-- ### - CLIC-it 2024 -->
 <!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 

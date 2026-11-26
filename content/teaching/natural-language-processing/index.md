@@ -142,20 +142,10 @@ memory-efficient)
 
 ### 11. Text generation
 - Lesson 19 MO 30/11/26 [Ad: job corner](https://eventi.unibo.it/job-corner-campus-forli)
-- Lesson 19 MO 30/11/26 LSTM: characters and generation
-<!---  [Slides](/uploads/nlp/19_dit_nlp_handout.pdf)  
--->
-- Lesson 20. 01/12/26 
-<!---
-[Notebook](/uploads/nlp/19_dit_nlp_chars.ipynb) 
-LSTM: 
-characters
-- Lesson 19. 01/12/26 
-[Notebook](/uploads/nlp/19_dit_nlp_lstm_gen.ipynb) 
-LSTM: 
-generation
--->
-- Lesson 20. 01/12/26
+- Lesson 19 MO 30/11/26 [Slides](/uploads/nlp/19_dit_nlp_handout.pdf) LSTM: characters and generation
+- Lesson 19. MO 30/11/26 [Notebook](/uploads/nlp/19_dit_nlp_chars.ipynb) LSTM: characters
+- Lesson 19. MO 30/11/26 [Notebook](/uploads/nlp/19_dit_nlp_lstm_gen.ipynb)  LSTM: generation
+- Lesson 20. 01/12/26 TBD
 
 <!-- ### - CLIC-it 2024 -->
 <!-- - [Poster 1](/uploads/nlp25/clic24_eptic.pdf) Constructing a Multimodal, 
